@@ -4,7 +4,7 @@
 "type":"Green",
 "movement":{"shape":"Square","color":"White"},
 "image":"/File%3AGreenCorruption1.png",
-"description":"\nExchange one monster in play with one in the Outskirts, if able.",
+"description":"\nExchange one monster in play with one in the Outskirts, if able."
 },
 {
 "name":"Call the Beast",
@@ -12,7 +12,7 @@
 "type":"Green",
 "movement":{"shape":"Square","color":"Black"},
 "image":"/File%3AGreenCorruption2.png",
-"description":"\nExchange one monster in play with one in the Outskirts, if able.",
+"description":"\nExchange one monster in play with one in the Outskirts, if able."
 },
 {
 "name":"Creeping Doom",
@@ -20,7 +20,7 @@
 "type":"Green",
 "movement":{"shape":"Slash","color":"White"},
 "image":"/File%3AGreenCorruption3.png",
-"description":"\nDiscard the top 2 cards of the Corruption deck.",
+"description":"\nDiscard the top 2 cards of the Corruption deck."
 },
 {
 "name":"Creeping Doom",
@@ -28,7 +28,7 @@
 "type":"Green",
 "movement":{"shape":"Slash","color":"Black"},
 "image":"/File%3AGreenCorruption4.png",
-"description":"\nDiscard the top 2 cards of the Corruption deck.",
+"description":"\nDiscard the top 2 cards of the Corruption deck."
 },
 {
 "name":"Downward Spiral",
@@ -36,7 +36,7 @@
 "type":"Green",
 "movement":{"shape":"Plus","color":"White"},
 "image":"/File%3AGreenCorruption5.png",
-"description":"\nDraw 2 Corruption cards.",
+"description":"\nDraw 2 Corruption cards."
 },
 {
 "name":"Downward Spiral",
@@ -44,7 +44,7 @@
 "type":"Green",
 "movement":{"shape":"Plus","color":"Black"},
 "image":"/File%3AGreenCorruption6.png",
-"description":"\nDraw 2 Corruption cards.",
+"description":"\nDraw 2 Corruption cards."
 },
 {
 "name":"Endless Greed",
@@ -52,7 +52,7 @@
 "type":"Green",
 "movement":{"shape":"Hexagon","color":"White"},
 "image":"/File%3AGreenCorruption7.png",
-"description":"\nGain $4 and draw a Corruption card.\nConstant effect: You cannot lose money unless you choose to spend it, and you do not have to roll to keep Retainers, but you cannot give money to other investigators.",
+"description":"\nGain $4 and draw a Corruption card.\nConstant effect: You cannot lose money unless you choose to spend it, and you do not have to roll to keep Retainers, but you cannot give money to other investigators."
 },
 {
 "name":"Endless Greed",
@@ -60,7 +60,7 @@
 "type":"Green",
 "movement":{"shape":"Hexagon","color":"Black"},
 "image":"/File%3AGreenCorruption8.png",
-"description":"\nGain $4 and draw a Corruption card.\nConstant effect: You cannot lose money unless you choose to spend it, and you do not have to roll to keep Retainers, but you cannot give money to other investigators.",
+"description":"\nGain $4 and draw a Corruption card.\nConstant effect: You cannot lose money unless you choose to spend it, and you do not have to roll to keep Retainers, but you cannot give money to other investigators."
 },
 {
 "name":"Jealous Guardian",
@@ -68,7 +68,7 @@
 "type":"Green",
 "movement":{"shape":"Circle","color":"White"},
 "image":"/File%3AGreenCorruption9.png",
-"description":"\nChoose to discard half your items, or draw a Corruption card.\nConstant effect: You cannot lose items unless you choose to do so, but you also cannot trade items with other investigators",
+"description":"\nChoose to discard half your items, or draw a Corruption card.\nConstant effect: You cannot lose items unless you choose to do so, but you also cannot trade items with other investigators"
 },
 {
 "name":"Jealous Guardian",
@@ -76,7 +76,7 @@
 "type":"Green",
 "movement":{"shape":"Circle","color":"Black"},
 "image":"/File%3AGreenCorruption10.png",
-"description":"\nChoose to discard half your items, or draw a Corruption card.\nConstant effect: You cannot lose items unless you choose to do so, but you also cannot trade items with other investigators",
+"description":"\nChoose to discard half your items, or draw a Corruption card.\nConstant effect: You cannot lose items unless you choose to do so, but you also cannot trade items with other investigators"
 },
 {
 "name":"Nightmarish Visions",
@@ -84,7 +84,7 @@
 "type":"Green",
 "movement":{"shape":"Star","color":"White"},
 "image":"/File%3AGreenCorruption11.png",
-"description":"\nLose 2 Sanity, and gain 2 Clue tokens.",
+"description":"\nLose 2 Sanity, and gain 2 Clue tokens."
 },
 {
 "name":"Nightmarish Visions",
@@ -92,7 +92,7 @@
 "type":"Green",
 "movement":{"shape":"Star","color":"Black"},
 "image":"/File%3AGreenCorruption12.png",
-"description":"\nLose 2 Sanity, and gain 2 Clue tokens.",
+"description":"\nLose 2 Sanity, and gain 2 Clue tokens."
 },
 {
 "name":"Primal Surge",
@@ -100,7 +100,7 @@
 "type":"Green",
 "movement":{"shape":"Diamond","color":"White"},
 "image":"/File%3AGreenCorruption13.png",
-"description":"\nYou may move any of your skill sliders a total of 3 stops. All other investigators must move a skill slider 1 stop.",
+"description":"\nYou may move any of your skill sliders a total of 3 stops. All other investigators must move a skill slider 1 stop."
 },
 {
 "name":"Primal Surge",
@@ -108,7 +108,7 @@
 "type":"Green",
 "movement":{"shape":"Diamond","color":"Black"},
 "image":"/File%3AGreenCorruption14.png",
-"description":"\nYou may move any of your skill sliders a total of 3 stops. All other investigators must move a skill slider 1 stop.",
+"description":"\nYou may move any of your skill sliders a total of 3 stops. All other investigators must move a skill slider 1 stop."
 },
 {
 "name":"Speak to Your Friend",
@@ -116,7 +116,7 @@
 "type":"Green",
 "movement":{"shape":"Triangle","color":"White"},
 "image":"/File%3AGreenCorruption15.png",
-"description":"\nChoose an investigator. That investigator may take a Cult Membership. If he refuses, discard the top card of the Corruption deck.",
+"description":"\nChoose an investigator. That investigator may take a Cult Membership. If he refuses, discard the top card of the Corruption deck."
 },
 {
 "name":"Speak to Your Friend",
@@ -124,7 +124,7 @@
 "type":"Green",
 "movement":{"shape":"Triangle","color":"Black"},
 "image":"/File%3AGreenCorruption16.png",
-"description":"\nChoose an investigator. That investigator may take a Cult Membership. If he refuses, discard the top card of the Corruption deck.",
+"description":"\nChoose an investigator. That investigator may take a Cult Membership. If he refuses, discard the top card of the Corruption deck."
 },
 {
 "name":"Fate and Fortune",
@@ -132,7 +132,7 @@
 "type":"Red",
 "movement":{"shape":"Square","color":"White"},
 "image":"/File%3ARedCorruption1.png",
-"description":"\nEach investigator with at least 1 Corruption card is Cursed.\nEach investigator with no Corruption cards is Blessed.",
+"description":"\nEach investigator with at least 1 Corruption card is Cursed.\nEach investigator with no Corruption cards is Blessed."
 },
 {
 "name":"Fate and Fortune",
@@ -140,7 +140,7 @@
 "type":"Red",
 "movement":{"shape":"Square","color":"Black"},
 "image":"/File%3ARedCorruption2.png",
-"description":"\nEach investigator with at least 1 Corruption card is Cursed.\nEach investigator with no Corruption cards is Blessed.",
+"description":"\nEach investigator with at least 1 Corruption card is Cursed.\nEach investigator with no Corruption cards is Blessed."
 },
 {
 "name":"Mental Paralysis",
@@ -148,7 +148,7 @@
 "type":"Red",
 "movement":{"shape":"Circle","color":"White"},
 "image":"/File%3ARedCorruption3.png",
-"description":"\nEach investigator with at least 1 Corruption card skips the next Upkeep Phase.",
+"description":"\nEach investigator with at least 1 Corruption card skips the next Upkeep Phase."
 },
 {
 "name":"Mental Paralysis",
@@ -156,7 +156,7 @@
 "type":"Red",
 "movement":{"shape":"Circle","color":"Black"},
 "image":"/File%3ARedCorruption4.png",
-"description":"\nEach investigator with at least 1 Corruption card skips the next Upkeep Phase.",
+"description":"\nEach investigator with at least 1 Corruption card skips the next Upkeep Phase."
 },
 {
 "name":"Ruination",
@@ -164,7 +164,7 @@
 "type":"Red",
 "movement":{"shape":"Plus","color":"White"},
 "image":"/File%3ARedCorruption5.png",
-"description":"\nEach investigator with at least 1 Corruption card loses 1 Sanity and draws a Corruption card.",
+"description":"\nEach investigator with at least 1 Corruption card loses 1 Sanity and draws a Corruption card."
 },
 {
 "name":"Ruination",
@@ -172,7 +172,7 @@
 "type":"Red",
 "movement":{"shape":"Plus","color":"Black"},
 "image":"/File%3ARedCorruption6.png",
-"description":"\nEach investigator with at least 1 Corruption card loses 1 Sanity and draws a Corruption card.",
+"description":"\nEach investigator with at least 1 Corruption card loses 1 Sanity and draws a Corruption card."
 },
 {
 "name":"Strength of Flesh",
@@ -180,7 +180,7 @@
 "type":"Red",
 "movement":{"shape":"Star","color":"White"},
 "image":"/File%3ARedCorruption7.png",
-"description":"\nRestore your Stamina to its maximum. Then, each investigator with at least 1 Corruption card loses 1 Sanity.",
+"description":"\nRestore your Stamina to its maximum. Then, each investigator with at least 1 Corruption card loses 1 Sanity."
 },
 {
 "name":"Strength of Flesh",
@@ -188,7 +188,7 @@
 "type":"Red",
 "movement":{"shape":"Star","color":"Black"},
 "image":"/File%3ARedCorruption8.png",
-"description":"\nRestore your Stamina to its maximum. Then, each investigator with at least 1 Corruption card loses 1 Sanity.",
+"description":"\nRestore your Stamina to its maximum. Then, each investigator with at least 1 Corruption card loses 1 Sanity."
 },
 {
 "name":"The Skin Crawls",
@@ -196,7 +196,7 @@
 "type":"Red",
 "movement":{"shape":"Triangle","color":"White"},
 "image":"/File%3ARedCorruption9.png",
-"description":"\nRaise the terror level by 1, then draw a Coruption card.\nConstant effect: Any investigator who ends his movement in the same location as you must pass a Will (-2) check or lose 2 Sanity.",
+"description":"\nRaise the terror level by 1, then draw a Coruption card.\nConstant effect: Any investigator who ends his movement in the same location as you must pass a Will (-2) check or lose 2 Sanity."
 },
 {
 "name":"The Skin Crawls",
@@ -204,7 +204,7 @@
 "type":"Red",
 "movement":{"shape":"Triangle","color":"Black"},
 "image":"/File%3ARedCorruption10.png",
-"description":"\nRaise the terror level by 1, then draw a Coruption card.\nConstant effect: Any investigator who ends his movement in the same location as you must pass a Will (-2) check or lose 2 Sanity.",
+"description":"\nRaise the terror level by 1, then draw a Coruption card.\nConstant effect: Any investigator who ends his movement in the same location as you must pass a Will (-2) check or lose 2 Sanity."
 },
 {
 "name":"Uncontrollable Rage",
@@ -212,7 +212,7 @@
 "type":"Red",
 "movement":{"shape":"Slash","color":"White"},
 "image":"/File%3ARedCorruption11.png",
-"description":"\nIf you are in town, you are arrested. Lose 1 Sanity and remove 1 Ally from the game.\nIf you are in an Other World, you lose 1 Sanity and are delayed.",
+"description":"\nIf you are in town, you are arrested. Lose 1 Sanity and remove 1 Ally from the game.\nIf you are in an Other World, you lose 1 Sanity and are delayed."
 },
 {
 "name":"Uncontrollable Rage",
@@ -220,7 +220,7 @@
 "type":"Red",
 "movement":{"shape":"Slash","color":"Black"},
 "image":"/File%3ARedCorruption12.png",
-"description":"\nIf you are in town, you are arrested. Lose 1 Sanity and remove 1 Ally from the game.\nIf you are in an Other World, you lose 1 Sanity and are delayed.",
+"description":"\nIf you are in town, you are arrested. Lose 1 Sanity and remove 1 Ally from the game.\nIf you are in an Other World, you lose 1 Sanity and are delayed."
 },
 {
 "name":"Vessel of the Mythos",
@@ -228,7 +228,7 @@
 "type":"Red",
 "movement":{"shape":"Hexagon","color":"White"},
 "image":"/File%3ARedCorruption13.png",
-"description":"\nAdd 1 doom token to the doom track.\nConstant effect: Increase your maximum Stamina and decrease your maximum Sanity by 1 for each Corruption card you have. If this ever reduces your Sanity to 0, you are devoured.\nYou cannot enter stable locations.",
+"description":"\nAdd 1 doom token to the doom track.\nConstant effect: Increase your maximum Stamina and decrease your maximum Sanity by 1 for each Corruption card you have. If this ever reduces your Sanity to 0, you are devoured.\nYou cannot enter stable locations."
 },
 {
 "name":"Vessel of the Mythos",
@@ -236,7 +236,7 @@
 "type":"Red",
 "movement":{"shape":"Hexagon","color":"Black"},
 "image":"/File%3ARedCorruption14.png",
-"description":"\nAdd 1 doom token to the doom track.\nConstant effect: Increase your maximum Stamina and decrease your maximum Sanity by 1 for each Corruption card you have. If this ever reduces your Sanity to 0, you are devoured.\nYou cannot enter stable locations.",
+"description":"\nAdd 1 doom token to the doom track.\nConstant effect: Increase your maximum Stamina and decrease your maximum Sanity by 1 for each Corruption card you have. If this ever reduces your Sanity to 0, you are devoured.\nYou cannot enter stable locations."
 },
 {
 "name":"Weakness of Mind",
@@ -244,7 +244,7 @@
 "type":"Red",
 "movement":{"shape":"Diamond","color":"White"},
 "image":"/File%3ARedCorruption15.png",
-"description":"\nReduce your Sanity to 1. Then, each investigator with at least 1 Corruption card gains 1 Stamina.",
+"description":"\nReduce your Sanity to 1. Then, each investigator with at least 1 Corruption card gains 1 Stamina."
 },
 {
 "name":"Weakness of Mind",
@@ -252,6 +252,5 @@
 "type":"Red",
 "movement":{"shape":"Diamond","color":"Black"},
 "image":"/File%3ARedCorruption16.png",
-"description":"\nReduce your Sanity to 1. Then, each investigator with at least 1 Corruption card gains 1 Stamina.",
-},
-]
+"description":"\nReduce your Sanity to 1. Then, each investigator with at least 1 Corruption card gains 1 Stamina."
+}]

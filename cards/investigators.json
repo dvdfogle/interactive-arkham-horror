@@ -1,7 +1,7 @@
 [{
 "name":"Agnes Baker",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AAgnesBaker.png",
+"image":"/File%3AAgnesBaker.png",
 "occupation":"the Waitress",
 "home":"Velma's Diner",
 "unique_ability":"Unique Ability: Memories of Conquest - Any Phase: When Agnes casts a spell that provides a bonus to Combat checks, the spell adds the number of hands it requires to its Combat check bonus.\nBlood is Power - Any Phase: When paying a spell's Sanity cost, Agnes may spend Stamina for part or all of the Sanity cost on a 1-for-1 basis.",
@@ -15,7 +15,7 @@
 {
 "name":"Akachi Onyele",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AAkachiOnyele.png",
+"image":"/File%3AAkachiOnyele.png",
 "occupation":"the Shaman",
 "home":"Ye Olde Magick Shoppe",
 "unique_ability":"Unique Ability: Guardian of the Veil - Any Phase: It costs Akachi 1 less Clue token to seal gates.\nSecret Rites - Any Phase: Akachi gains +1 bonus to all skill checks to close or seal a gate. In addition, Akachi may always seal gates, regardless of other game effects.",
@@ -29,7 +29,7 @@
 {
 "name":"Amanda Sharpe",
 "expansion":"",
-"Image":"/File%3AAmandaSharpe.png",
+"image":"/File%3AAmandaSharpe.png",
 "occupation":"the Student",
 "home":"Bank of Arkham",
 "unique_ability":"Unique Ability: Studious - Whenever Amanda draws one or more cards from the Skill deck, she draws one extra card and then discards one of the cards.",
@@ -43,7 +43,7 @@
 {
 "name":"\"Ashcan\" Pete",
 "expansion":"",
-"Image":"/File%3AAshcanPete.png",
+"image":"/File%3AAshcanPete.png",
 "occupation":"the Drifter",
 "home":"River Docks",
 "unique_ability":"Unique Ability: Scrounge - When Pete draws from the Common item, Unique item, or Spell deck, he may draw from either the top or the bottom of that deck, his choice.  Pete may look at the bottom card of those decks at any time.",
@@ -57,7 +57,7 @@
 {
 "name":"Bob Jenkins",
 "expansion":"",
-"Image":"/File%3ABobJenkins.png",
+"image":"/File%3ABobJenkins.png",
 "occupation":"the Salesman",
 "home":"General Store",
 "unique_ability":"Unique Ability: Shrewd Dealer - Any Phase: Whenever Bob draws one or more cards from the Common item deck, he draws one extra card and then discards one of the cards.",
@@ -69,15 +69,9 @@
 "backstory":"The Story So Far: As a traveling salesman, Bob is always on the go. But yesterday, he saw something that made him decide to stay in Arkham and miss his train. While he was in the General Store selling his wares, a robed man came in and bought several items, paying with old gold coins. Astounded, Bob turned to the shopkeeper for an explanation, but the man just ignored his questions, simply saying, \"That happens, sometimes.\"\nNow, Bob isn't leaving until he figues out where those gold coins came from. If he plays his cards right, maybe this will be the big score. Maybe he'll finally be able to retire and buy that boat he's had his eye on and spend the rest of his days fishing in a tropical paradise. Then again, moybe Bob will finally come to see that all that glitters is not gold."
 },
 {
-"name":"Calvin Wright",
-"expansion":"",
-"occupation":"the Damned",
-"home":"Train Station",
-},
-{
 "name":"Carolyn Fern",
 "expansion":"",
-"Image":"/File%3ACarolynFern.png",
+"image":"/File%3ACarolynFern.png",
 "occupation":"the Psychologist",
 "home":"Arkham Asylum",
 "unique_ability":"Unique Ability: Psychology - Upkeep: Dr. Fern may restore 1 Sanity to herself or another character in her location.  She cannot raise a character's Sanity higher than that character's maximum Sanity.",
@@ -91,7 +85,7 @@
 {
 "name":"Charlie Kane",
 "expansion":"Kingsport Horror",
-"Image":"/File%3ACharlieKane.png",
+"image":"/File%3ACharlieKane.png",
 "occupation":"the Politician",
 "home":"Administration Building",
 "unique_ability":"Unique Ability: Connections - Any Phase: Charlie may gain Allies that have been returned to the box.\nSettle Down! - Any Phase: Charlie may pay 2 Clue tokens to prevent the terror level from increasing by 1.  He may do this as often as he likes.",
@@ -105,7 +99,7 @@
 {
 "name":"Daisy Walker",
 "expansion":"Kingsport Horror",
-"Image":"/File%3ADaisyWalker.png",
+"image":"/File%3ADaisyWalker.png",
 "occupation":"the Librarian",
 "home":"Library",
 "unique_ability":"Unique Ability: Careful Reader - Any Phase: Daisy never loses Sanity from reading a Tome.\nIron Will - Any Phase: Daisy's Sanity cost to cast spells is always reduced by 1.",
@@ -119,7 +113,7 @@
 {
 "name":"Darrell Simmons",
 "expansion":"",
-"Image":"/File%3ADarrellSimmons.png",
+"image":"/File%3ADarrellSimmons.png",
 "occupation":"the Photographer",
 "home":"Newspaper",
 "unique_ability":"Unique Ability: Hometown Advantage - Town Encounter: When drawing location encounters in Arkham, Darrell draws two cards and may choose whichever one of the two he wants.  This ability does not work when drawing gate encounters in Other Worlds.",
@@ -133,7 +127,7 @@
 {
 "name":"Dexter Drake",
 "expansion":"",
-"Image":"/File%3ADexterDrake.png",
+"image":"/File%3ADexterDrake.png",
 "occupation":"the Magician",
 "home":"Ye Olde Magick Shoppe",
 "unique_ability":"Unique Ability: Magical Gift - Any Phase: Whenever \"The Great\" Drake draws one or more cards from the Spell deck, he draws one extra card and then discards one of the cards.",
@@ -147,7 +141,7 @@
 {
 "name":"Diana Stanley",
 "expansion":"Dunwich Horror",
-"Image":"/File%3ADianaStanley.png",
+"image":"/File%3ADianaStanley.png",
 "occupation":"the Redeemed Cultist",
 "home":"General Store",
 "unique_ability":"Unique Ability: Trusted Sister - Any Phase: You cannot lose your Silver Twilight Lodge Membership.\nDark Insight - Any Phase: Gain 1 Sanity or 1 Stamina each time a doom token is added to the Ancient One's doom track.\nIn addition, gain 1 Clue token each time the terror level rises.",
@@ -161,7 +155,7 @@
 {
 "name":"Finn Edwards",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AFinnEdwards.png",
+"image":"/File%3AFinnEdwards.png",
 "occupation":"the Bootlegger",
 "home":"Bank of Arkham",
 "unique_ability":"Unique Ability: Slippery - Mythos: When moon monsters move, Finn may choose to move as a normal moon monster. He does not need to make any Evade checks when doing so.\nHoldout - Any Phase: Finn never has to discard items or lose money, even when he is knocked unconscious or driven insane. He must still pay costs as usual.",
@@ -175,7 +169,7 @@
 {
 "name":"George Barnaby",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AGeorgeBarnaby.png",
+"image":"/File%3AGeorgeBarnaby.png",
 "occupation":"the Lawyer",
 "home":"Library",
 "unique_ability":"Unique Ability: Knowledge is Power - Any Phase: When spending a Clue token to add to a skill check, George may add +1 to the result of one of his rolled dice instead of rolling an extra die.\nBail Out - Any Phase: George may spend $2 to prevent any investigator from being arrested, including himself.",
@@ -189,7 +183,7 @@
 {
 "name":"Gloria Goldberg",
 "expansion":"",
-"Image":"/File%3AGloriaGoldberg.png",
+"image":"/File%3AGloriaGoldberg.png",
 "occupation":"the Author",
 "home":"Velma's Diner",
 "unique_ability":"Unique Ability: Psychic Sensitivity - Other World Encounter: When drawing gate encounters in Other Worlds, Gloria draws two cards that match the color of one of the Other World's encounter symbols, then chooses whichever one of the two she wants.  This ability does not work when drawing location encounters in Arkham.",
@@ -203,7 +197,7 @@
 {
 "name":"Hank Samson",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AHankSamson.png",
+"image":"/File%3AHankSamson.png",
 "occupation":"the Farmhand",
 "home":"General Store",
 "unique_ability":"Unique Ability: Thick-skulled - Any Phase: Hank does not make a Horror check when he first encounters a monster. Instead, he only makes a Horror check if he first fails a Combat or Evade check against a monster.",
@@ -217,7 +211,7 @@
 {
 "name":"Harvey Walters",
 "expansion":"",
-"Image":"/File%3AHarveyWalters.png",
+"image":"/File%3AHarveyWalters.png",
 "occupation":"the Professor",
 "home":"Administration Building",
 "unique_ability":"Unique Ability: Strong Mind - Any Phase: Harvey reduces all Sanity losses he suffers by 1, to a minimum of 0.",
@@ -231,7 +225,7 @@
 {
 "name":"Jacqueline Fine",
 "expansion":"Dunwich Horror",
-"Image":"/File%3AJacquelineFine.png",
+"image":"/File%3AJacquelineFine.png",
 "occupation":"the Psychic",
 "home":"Curiositie Shoppe",
 "unique_ability":"Unique Ability: Precognition - Mythos: Once per turn, when a mythos card other than \"The Story Continues…\" is drawn, Jacqueline may spend 2 Clue tokens to discard that mythos card without effect and draw another one instead.  The second mythos card then takes effect.",
@@ -245,7 +239,7 @@
 {
 "name":"Jenny Barnes",
 "expansion":"",
-"Image":"/File%3AJennyBarnes.png",
+"image":"/File%3AJennyBarnes.png",
 "occupation":"the Dilettante",
 "home":"Train Station",
 "unique_ability":"Unique Ability: Trust Fund - Upkeep: Jenny gains $1.",
@@ -259,7 +253,7 @@
 {
 "name":"Jim Culver",
 "expansion":"Dunwich Horror",
-"Image":"/File%3AJimCulver.png",
+"image":"/File%3AJimCulver.png",
 "occupation":"the Musician",
 "home":"Velma's Diner",
 "unique_ability":"Unique Ability: Dead Man Stomp - Any Phase: Jim may spend 1 Clue token to automatically pass a Combat check against an Undead monster.\nStrange Luck - Any Phase: Other Worlds are considered to have a green encounter symbol for you in addition to their normal encounter symbols.",
@@ -273,7 +267,7 @@
 {
 "name":"Joe Diamond",
 "expansion":"",
-"Image":"/File%3AJoeDiamond.png",
+"image":"/File%3AJoeDiamond.png",
 "occupation":"the Private Eye",
 "home":"Police Station",
 "unique_ability":"Unique Ability: Hunches - Any Phase: Joe rolls one extra bonus die when he spends a Clue token to add to a roll.",
@@ -287,7 +281,7 @@
 {
 "name":"Kate Winthrop",
 "expansion":"",
-"Image":"/File%3AKateWinthrop.png",
+"image":"/File%3AKateWinthrop.png",
 "occupation":"the Scientist",
 "home":"Science Building",
 "unique_ability":"Unique Ability: Science! - Any Phase: Gates and monsters cannot appear in Kate's location due to her flux stabilizer.  Monsters and gates do not disappear if she enters their location, however, and monsters can move into her location as usual.",
@@ -301,7 +295,7 @@
 {
 "name":"Leo Anderson",
 "expansion":"Dunwich Horror",
-"Image":"/File%3ALeoAnderson.png",
+"image":"/File%3ALeoAnderson.png",
 "occupation":"the Expedition Leader",
 "home":"River Docks",
 "unique_ability":"Unique Ability: Leadership - Any Phase: Once per turn, Leo may prevent 1 point of Stamina or Sanity loss for any investigator.",
@@ -315,11 +309,11 @@
 {
 "name":"Lily Chen",
 "expansion":"Kingsport Horror",
-"Image":"/File%3ALilyChen.png",
+"image":"/File%3ALilyChen.png",
 "occupation":"the Martial Artist",
 "home":"Ye Olde Magick Shoppe",
 "unique_ability":"Unique Ability: Yin and Yang - When spending Focus, Lily may adjust her maximum Sanity and Stamina as though they were skills.\nEach time Lily increases her maximum Sanity, she gains 1 Sanity.  Each time she increases her maximum Stamina, she gains 1 Stamina.\nLily's current Sanity or Stamina can never exceed her maximum Sanity or Stamina.",
-"status":{"Sanity":4-7,"Stamina":7-4},
+"status":{"Sanity":"4-7","Stamina":"7-4"},
 "fixed_possessions":["$4","2 Clue tokens","1 Skill (Martial Arts)"],
 "random_possessions":["1 Spell","1 Common item"],
 "focus":"2",
@@ -329,7 +323,7 @@
 {
 "name":"Lola Hayes",
 "expansion":"Kingsport Horror",
-"Image":"/File%3ALolaHayes.png",
+"image":"/File%3ALolaHayes.png",
 "occupation":"the Actress",
 "home":"Arkham Asylum",
 "unique_ability":"Unique Ability: Improv - Upkeep: Once per turn, Lola may discard one of her skill cards to draw a new skill from either the top or the bottom of the Skill deck.  Lola may look at the bottom card of the Skill deck at any time.",
@@ -343,7 +337,7 @@
 {
 "name":"Luke Robinson",
 "expansion":"Kingsport Horror",
-"Image":"/File%3ALukeRobinson.png",
+"image":"/File%3ALukeRobinson.png",
 "occupation":"the Dreamer",
 "home":"The Dreamlands",
 "unique_ability":"Unique Ability: Experienced Dreamer - Any Phase: Luke gains 1 Clue token each time he enters an Other World area or is Lost in Time and Space.\nHeirloom - Any Phase: Luke's Gate Box cannot be lost or stolen unless he allows it.\nLuke starts in the first area of the Dreamlands.  He begins the game delayed.",
@@ -357,7 +351,7 @@
 {
 "name":"Mandy Thompson",
 "expansion":"",
-"Image":"/File%3AMandyThompson.png",
+"image":"/File%3AMandyThompson.png",
 "occupation":"the Researcher",
 "home":"Library",
 "unique_ability":"Unique Ability: Research - Any Phase: Once per turn, Mandy can activate this ability after any investigator (including herself) makes a skill check.  That investigator then re-rolls all of the dice rolled for that check that did not result in successes.",
@@ -371,7 +365,7 @@
 {
 "name":"Marie Lambeau",
 "expansion":"Dunwich Horror",
-"Image":"/File%3AMarieLambeau.png",
+"image":"/File%3AMarieLambeau.png",
 "occupation":"the Entertainer",
 "home":"Ma's Boarding House",
 "unique_ability":"Unique Ability: Witch Blood - Upkeep: Once per game, at the start of your turn, remove 1 doom token from the Ancient One's doom track.\nThird Eye - Any Phase: Marie has a third hand usable only for casting spells.",
@@ -385,7 +379,7 @@
 {
 "name":"Mark Harrigan",
 "expansion":"Dunwich Horror",
-"Image":"/File%3AMarkHarrigan.png",
+"image":"/File%3AMarkHarrigan.png",
 "occupation":"the Soldier",
 "home":"South Church",
 "unique_ability":"Unique Ability: One Man Army - Any Phase: You cannot be arrested or delayed.",
@@ -399,7 +393,7 @@
 {
 "name":"Michael McGlen",
 "expansion":"",
-"Image":"/File%3AMichaelMcGlen.png",
+"image":"/File%3AMichaelMcGlen.png",
 "occupation":"the Gangster",
 "home":"Ma's Boarding House",
 "unique_ability":"Unique Ability: Strong Body - Any Phase: Michael reduces all Stamina losses he suffers by 1, to a minimum of 0.",
@@ -413,7 +407,7 @@
 {
 "name":"Minh Thi Phan",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AMinhThiPhan.png",
+"image":"/File%3AMinhThiPhan.png",
 "occupation":"the Secretary",
 "home":"St. Mary's Hospital",
 "unique_ability":"Unique Ability: Synergy - Any Phase: Minh gains a +1 bonus to all skill checks while she has an Ally, or while another investigator is in the same location as her.\nTeam Player - Upkeep: Minh may choose one other investigator in her location. He gains a +1 bonus to all skill checks he makes until the end of the turn.",
@@ -427,7 +421,7 @@
 {
 "name":"Monterey Jack",
 "expansion":"",
-"Image":"/File%3AMontereyJack.png",
+"image":"/File%3AMontereyJack.png",
 "occupation":"the Archaeologist",
 "home":"Curiositie Shoppe",
 "unique_ability":"Unique Ability: Archaeology - Any Phase: Whenever Monterey draws one or more cards from the Unique item deck, he draws one extra card and then discards one of the cards.",
@@ -441,7 +435,7 @@
 {
 "name":"Norman Withers",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3ANormanWithers.png",
+"image":"/File%3ANormanWithers.png",
 "occupation":"the Astronomer",
 "home":"Administration Building",
 "unique_ability":"Unique Ability: In the Stars - Any Phase: Whenever Norman closes or seals a gate, he may choose any dimensional symbol other than the moon. The gate is considered to have that dimensional symbol instead of its normal dimensional symbol for purposes of removing monsters from the board.",
@@ -455,7 +449,7 @@
 {
 "name":"Patrice Hathaway",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3APatriceHathaway.png",
+"image":"/File%3APatriceHathaway.png",
 "occupation":"the Violinist",
 "home":"Curiositie Shoppe",
 "unique_ability":"Unique Ability: Inspiring - Any Phase: Patrice may allow the other investigators to spend her Clue tokens, even if they are not in the same location or world.\nOminous Dreams - Any Phase: Patrice gains 1 Clue token each time a gate opens. She also gains 5 Clue tokens when the 9th space on the Ancient One's doom track is filled.",
@@ -469,7 +463,7 @@
 {
 "name":"Rex Murphy",
 "expansion":"Kingsport Horror",
-"Image":"/File%3ARexMurphy.png",
+"image":"/File%3ARexMurphy.png",
 "occupation":"the Reporter",
 "home":"Newspaper",
 "unique_ability":"Unique Ability: Investigation - Any Phase: When Rex gains one or more Clue tokens, he gains one extra Clue token.\nFamily Curse - Rex never checks to discard Curses during his Upkeep.  He may only discard a Curse by being Blessed.",
@@ -483,7 +477,7 @@
 {
 "name":"Rita Young",
 "expansion":"Dunwich Horror",
-"Image":"/File%3ARitaYoung.png",
+"image":"/File%3ARitaYoung.png",
 "occupation":"the Athlete",
 "home":"Police Station",
 "unique_ability":"Unique Ability: Resilient - Any Phase: Whenever Rita draws one or more Injury or Madness cards, she draws one extra card and then discards one of them, keeping the other.  In addition, if Rita gains a duplicate of an Injury or Madness card she already has, the second has no effect.",
@@ -497,7 +491,7 @@
 {
 "name":"Roland Banks",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3ARolandBanks.png",
+"image":"/File%3ARolandBanks.png",
 "occupation":"the Fed",
 "home":"Arkham Asylum",
 "unique_ability":"Unique Ability: Intuitive - Upkeep: If Roland has fewer than 2 Clue tokens, he gains 1 Clue token.\nExpense Account - Upkeep: If Roland has less than $2, he gains $1.",
@@ -511,7 +505,7 @@
 {
 "name":"Silas Marsh",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3ASilasMarsh.png",
+"image":"/File%3ASilasMarsh.png",
 "occupation":"the Sailor",
 "home":"River Docks",
 "unique_ability":"Unique Ability: Able Seaman - Movement: When in an Aquatic location, Silas may pay 2 movement points to move to any other aquatic location. Silas also gains a +2 bonus to all skill checks in aquatic locations.\nTainted Blood - Any Phase: Each time Silas draws one or more Innsmouth Look cards, he must draw one extra Innsmouth Look card.",
@@ -525,7 +519,7 @@
 {
 "name":"Sister Mary",
 "expansion":"",
-"Image":"/File%3ASisterMary.png",
+"image":"/File%3ASisterMary.png",
 "occupation":"the Nun",
 "home":"South Church",
 "unique_ability":"Unique Ability: Guardian Angel - Any Phase: Sister Mary is never Lost in Time and Space.  Instead, if her Sanity is 0, she returns to Arkham Asylum.  If her Stamina is 0, she returns to St. Mary's Hospital.  If neither her Sanity or her Stamina are 0, she returns to South Church.",
@@ -539,7 +533,7 @@
 {
 "name":"\"Skids\" O'Toole",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3ASkidsOToole.png",
+"image":"/File%3ASkidsOToole.png",
 "occupation":"the Ex-Convict",
 "home":"Ma's Boarding House",
 "unique_ability":"Unique Ability: School of Hard Knocks - Any Phase: Once per skill check, \"Skids\" may roll two bonus dice for each \"1\" he rolled. He may do this either before or after spending Clue tokens on the roll.\nCriminal Record - \"Skids\" cannot become the Deputy of Arkham, nor may he gain a Bank Loan.",
@@ -553,7 +547,7 @@
 {
 "name":"Tommy Muldoon",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3ATommyMuldoon.png",
+"image":"/File%3ATommyMuldoon.png",
 "occupation":"the Rookie Cop",
 "home":"Police Station",
 "unique_ability":"Unique Ability: Hero - Mythos: Before a mythos card is drawn, Tommy may cause one or more monsters that are adjacent to his location to move to his location, regardless of their normal movement.\nOn the Force - Any Phase: Tommy may not be arrested. In addition, it only costs him 1 gate trophy or 5 toughness worth of monster trophies to become Deputy of Arkham.",
@@ -567,7 +561,7 @@
 {
 "name":"Tony Morgan",
 "expansion":"Kingsport Horror",
-"Image":"/File%3ATonyMorgan.png",
+"image":"/File%3ATonyMorgan.png",
 "occupation":"the Bounty Hunter",
 "home":"St. Mary's Hospital",
 "unique_ability":"Unique Ability: Clean Takedown - Any Phase: Tony's monster trophies are worth one extra toughness each when spent.\nBlood Money - Upkeep: Once per turn, while in a street area, Tony may spend one monster trophy to gain money equal to that monster's toughness.",
@@ -581,7 +575,7 @@
 {
 "name":"Trish Scarborough",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3ATrishScarborough.png",
+"image":"/File%3ATrishScarborough.png",
 "occupation":"the Spy",
 "home":"Newspaper",
 "unique_ability":"Unique Ability: Abnormal Focus - Upkeep: Trish does not spend focus to adjust her sliders. Instead, at the start of each Upkeep Phase, move her sliders all the way to the left. She may then shift her sliders to the right a total of five shifts.\nBreaking the Limits - Upkeep: Trish may spend 1 Sanity or 1 Stamina for one extra shift to the right when adjusting her skills. She may do this up to three times per turn.",
@@ -595,7 +589,7 @@
 {
 "name":"Ursula Downs",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AUrsulaDowns.png",
+"image":"/File%3AUrsulaDowns.png",
 "occupation":"the Explorer",
 "home":"Player's Choice*",
 "unique_ability":"Unique Ability: Quick-witted - Arkham Encounter: Ursula may have an encounter at a location even after using a location ability that would normally be taken instead.\nAdventurer - Arkham Encounter: After reading her Arkham encounter, but before making any die rolls, Ursula may spend 1 Clue token to cancel the encounter entirely.\n*Ursula may begin the game in any non-Other World location or street",
@@ -609,7 +603,7 @@
 {
 "name":"Vincent Lee",
 "expansion":"",
-"Image":"/File%3AVincentLee.png",
+"image":"/File%3AVincentLee.png",
 "occupation":"the Doctor",
 "home":"St. Mary's Hospital",
 "unique_ability":"Unique Ability: Physician - Upkeep: Dr. Lee may restore 1 Stamina to himself or another character in his location.  He cannot raise a character's Stamina higher than that character's maximum Stamina.",
@@ -623,7 +617,7 @@
 {
 "name":"Wendy Adams",
 "expansion":"Kingsport Horror",
-"Image":"/File%3AWendyAdams.png",
+"image":"/File%3AWendyAdams.png",
 "occupation":"the Urchin",
 "home":"Bank of Arkham",
 "unique_ability":"Unique Ability: Streetwise - Any Phase: Wendy automatically passes any Evade checks made in a street area.\nBlessed is the Child - Any Phase: Wendy cannot be arrested or Cursed while she has an Elder Sign.\nMinor - Wendy cannot gain a Bank Loan.",
@@ -637,7 +631,7 @@
 {
 "name":"William Yorick",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AWilliamYorick.png",
+"image":"/File%3AWilliamYorick.png",
 "occupation":"the Gravedigger",
 "home":"South Church",
 "unique_ability":"Unique Ability: Secrets of the Dead - Any Phase: William may spend his monster trophies as though they were Clue tokens, on a 1-for-1 basis.\nBury Them Deep - Any Phase: Each time William spends a monster trophy, he may decide to return it to the box instead of placing it back in the monster cup.",
@@ -651,7 +645,7 @@
 {
 "name":"Wilson Richards",
 "expansion":"Dunwich Horror",
-"Image":"/File%3AWilsonRichards.png",
+"image":"/File%3AWilsonRichards.png",
 "occupation":"the Handyman",
 "home":"Train Station",
 "unique_ability":"Unique Ability: Jack of All Trades - Upkeep: Wilson's focus is unlimited.\nOdd Jobs - Arkham Encounter: Wilson may gain $1 instead of having an encounter at any location (but not an Other World or street area).",
@@ -665,7 +659,7 @@
 {
 "name":"Zoey Samaras",
 "expansion":"Innsmouth Horror",
-"Image":"/File%3AZoeySamaras.png",
+"image":"/File%3AZoeySamaras.png",
 "occupation":"the Chef",
 "home":"Train Station",
 "unique_ability":"Unique Ability: Killer Instincts - Any Phase: When Zoey makes a Combat check against a monster or Ancient One with Physical and/or Magical Resistance, ignore that ability. If the monster or Ancient One has Magical and/or Physical Immunity, treat it as Resistance instead.",
@@ -675,5 +669,4 @@
 "focus":"1",
 "skills":[{"Speed":[1,2,3,4]},{"Sneak":[4,3,2,1]},{"Fight":[1,2,3,4]},{"Will":[4,3,2,1]},{"Lore":[1,2,3,4]},{"Luck":[5,4,3,2]}],
 "backstory":"The Story So Far: Zoey knew that she was special. She'd known it ever since God had spoken to her one night when she was six years old... the night that terrible fire took away her parents. He told her that He had chosen her from among all the people of the world to be His agent. She would protect the innocent and punish the wicked.\nSince then, He came to her in times of trouble, offering guidance and comfort. He has also come to lead her to an evildoer on several occasions. In each instance, with His aid, good triumphed. Then, one day, He spoke to her, telling her to come to Arkham, where she would face her greatest challenge yet. He has not spoken to her since.\nNow, as Zoey steps off the train onto the platform, she fingers her cross, feeling the wrongness of this place in her bones. Perhaps if she cleanses the city of its taint, He will speak to her once again."
-},
-]
+}]

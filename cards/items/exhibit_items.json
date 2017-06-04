@@ -3,223 +3,222 @@
 "expansion":"Curse of the Dark Pharaoh",
 "count":1,
 "image":"/File%3ABookOfAnubis.png",
-"description":"Type: Tome\nWhen another investigator goes insane, goes unconscious, or is devoured, you gain 1 Stamina and 1 Sanity, and gain any Clue tokens that he discards.\n",
+"description":"Type: Tome\nWhen another investigator goes insane, goes unconscious, or is devoured, you gain 1 Stamina and 1 Sanity, and gain any Clue tokens that he discards.\n"
 },
 {
 "name":"Book of the Dead",
 "expansion":"Miskatonic Horror",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=BookOfTheDead.png",
-"description":"Type: Tome\nYou can claim monsters with the Endless ability as trophies. When you spend a monster trophy, you may return it to the box instead of the monster cup",
+"description":"Type: Tome\nYou can claim monsters with the Endless ability as trophies. When you spend a monster trophy, you may return it to the box instead of the monster cup"
 },
 {
 "name":"Chime of Ra",
 "expansion":"Curse of the Dark Pharaoh",
 "count":2,
 "image":"/File%3AChimeOfRa.png",
-"description":"Type: Magical weapon\nAny: Discard one or more tokens from this card to gain +2 to all Horror checks or Combat checks for each token discarded during this phase.  Discard this card if there are ever no tokens on it.\nHands: Handless\nWhen you receive this card, put 3 tokens on it.\n",
+"description":"Type: Magical weapon\nAny: Discard one or more tokens from this card to gain +2 to all Horror checks or Combat checks for each token discarded during this phase.  Discard this card if there are ever no tokens on it.\nHands: Handless\nWhen you receive this card, put 3 tokens on it.\n"
 },
 {
 "name":"Chime of Ra (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":2,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ChimeOfRaRevised.png",
-"description":"When you lose Sanity due to a Horror check, you may exhaust this card to reduce the Sanity loss by 1 to a minimum of 0, even if the monster has the Nightmarish ability.\n",
+"description":"When you lose Sanity due to a Horror check, you may exhaust this card to reduce the Sanity loss by 1 to a minimum of 0, even if the monster has the Nightmarish ability.\n"
 },
 {
 "name":"Execration Text",
 "expansion":"Miskatonic Horror",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ExecrationText.png",
-"description":"Movement: Discard this card and spend any number of Clue tokens. For each Clue token you spend, choose 1 monster with a moon dimensional symbol (not including Spawn monsters) from Arkham, the Sky, or the Outskirts and return it to the monster cup.",
+"description":"Movement: Discard this card and spend any number of Clue tokens. For each Clue token you spend, choose 1 monster with a moon dimensional symbol (not including Spawn monsters) from Arkham, the Sky, or the Outskirts and return it to the monster cup."
 },
 {
 "name":"Eye of Light and Darkness",
 "expansion":"Curse of the Dark Pharaoh",
 "count":2,
 "image":"/File%3AEyeOfLightAndDarkness.png",
-"description":"Upkeep: Discard up to 5 Sanity or Stamina in any combination.  For each 1 Sanity or 1 Stamina sacrificed, gain +1 to all skill checks for the rest of this turn, to a maximum of +5 to all checks.\n\n",
+"description":"Upkeep: Discard up to 5 Sanity or Stamina in any combination.  For each 1 Sanity or 1 Stamina sacrificed, gain +1 to all skill checks for the rest of this turn, to a maximum of +5 to all checks.\n\n"
 },
 {
 "name":"Eye of Light and Darkness (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":2,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=EyeOfLightAndDarknessRevised.png",
-"description":"Any: Before you make a skill check, you may return this card to the box and lose up to 3 Sanity or Stamina in any combination. For each point of Sanity or Stamina lost, you gain +2 on the skill check.\n\n",
+"description":"Any: Before you make a skill check, you may return this card to the box and lose up to 3 Sanity or Stamina in any combination. For each point of Sanity or Stamina lost, you gain +2 on the skill check.\n\n"
 },
 {
 "name":"First Elder Sign Fragment",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=FirstElderSignFragment.png",
-"description":"Arkham Encounters: When making a Fight check or a Lore check to close a gate, you may return this card to the box and lose either 1 Stamina or 1 Sanity to automatically pass the check.\n\n",
+"description":"Arkham Encounters: When making a Fight check or a Lore check to close a gate, you may return this card to the box and lose either 1 Stamina or 1 Sanity to automatically pass the check.\n\n"
 },
 {
 "name":"Image of the Dark Pharaoh",
 "expansion":"Miskatonic Horror",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ImageOfTheDarkPharaoh.png",
-"description":"Any: Immediately after a monster with a toughness of 1 has dealt its combat damage (and any abilities that add a special effect to combat damage) to you, if you remain in the same area, you may exhaust this item to defeat the monster.",
+"description":"Any: Immediately after a monster with a toughness of 1 has dealt its combat damage (and any abilities that add a special effect to combat damage) to you, if you remain in the same area, you may exhaust this item to defeat the monster."
 },
 {
 "name":"Mask of the Black Pharaoh",
 "expansion":"Curse of the Dark Pharaoh",
 "count":1,
 "image":"/File%3AMaskOfTheBlackPharaoh.png",
-"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters: Kate Winthrop, Darrell Simmons, or Gloria Goldberg.  You gain that character's unique ability while you have this item.\nUpkeep: Do not refresh this card; instead, discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n",
+"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters: Kate Winthrop, Darrell Simmons, or Gloria Goldberg.  You gain that character's unique ability while you have this item.\nUpkeep: Do not refresh this card; instead, discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n"
 },
 {
 "name":"Mask of the Black Pharaoh (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=MaskOfTheBlackPharaohRevised.png",
-"description":"Any: Exhaust this card to either use your Fight -1 instead of your Will for making a Will check or use your Will -1 instead of your Fight for making a Fight check.\n\n",
+"description":"Any: Exhaust this card to either use your Fight -1 instead of your Will for making a Will check or use your Will -1 instead of your Fight for making a Fight check.\n\n"
 },
 {
 "name":"Mask of the Messenger",
 "expansion":"Curse of the Dark Pharaoh",
 "count":1,
 "image":"/File%3AMaskOfTheMessenger.png",
-"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters:  Dexter Drake, Bob Jenkins, or Monterey Jack.  You gain that character's unique ability while you have this item.\nDo not refresh this card; instead discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n",
+"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters:  Dexter Drake, Bob Jenkins, or Monterey Jack.  You gain that character's unique ability while you have this item.\nDo not refresh this card; instead discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n"
 },
 {
 "name":"Mask of the Messenger (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=MaskOfTheMessengerRevised.png",
-"description":"Any: Exhaust this card to either use your Sneak -1 instead of your Speed for making a Speed check or use your Speed -1 instead of your Sneak for making a Sneak check.\n\n",
+"description":"Any: Exhaust this card to either use your Sneak -1 instead of your Speed for making a Speed check or use your Speed -1 instead of your Sneak for making a Sneak check.\n\n"
 },
 {
 "name":"Mask of the Three Fates",
 "expansion":"Curse of the Dark Pharaoh",
 "count":1,
 "image":"/File%3AMaskOfTheThreeFates.png",
-"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters: Sister Mary, Mandy Thompson, or Carolyn Fern.  You gain that character's unique ability while you have this item.\nUpkeep:  Do not refresh this card; instead, discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n",
+"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters: Sister Mary, Mandy Thompson, or Carolyn Fern.  You gain that character's unique ability while you have this item.\nUpkeep:  Do not refresh this card; instead, discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n"
 },
 {
 "name":"Mask of the Three Fates (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=MaskOfTheThreeFatesRevised.png",
-"description":"Any: Exhaust this card and spend 1 Clue token before drawing from any deck except the Mythos deck to examine the top card and return it to either the top or bottom of the deck.\n\n",
+"description":"Any: Exhaust this card and spend 1 Clue token before drawing from any deck except the Mythos deck to examine the top card and return it to either the top or bottom of the deck.\n\n"
 },
 {
 "name":"Mask of Vice",
 "expansion":"Curse of the Dark Pharaoh",
 "count":1,
 "image":"/File%3AMaskOfVice.png",
-"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters: Michael McGlen, \"Ashcan\" Pete, or Jenny Barnes.  You gain that character's unique ability while you have this item.\nUpkeep:  Do not refresh this card; instead, discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n",
+"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters: Michael McGlen, \"Ashcan\" Pete, or Jenny Barnes.  You gain that character's unique ability while you have this item.\nUpkeep:  Do not refresh this card; instead, discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n"
 },
 {
 "name":"Mask of Vice (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=MaskOfViceRevised.png",
-"description":"Any: Exhaust this card to gain any Common Item or Unique Item you currently have the opportunity to purchase without paying for it.\n\n",
+"description":"Any: Exhaust this card to gain any Common Item or Unique Item you currently have the opportunity to purchase without paying for it.\n\n"
 },
 {
 "name":"Mask of Wisdom",
 "expansion":"Curse of the Dark Pharaoh",
 "count":1,
 "image":"/File%3AMaskOfWisdom.png",
-"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters: Harvey Walters, Amanda Sharpe, or Joe Diamond.  You gain that character's unique ability while you have this item.\nUpkeep:  Do not refresh this card; instead, discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n",
+"description":"Type: Masks\nAny: Exhaust to place tokens on this card equal to your current Sanity.  Then choose one of these unused characters: Harvey Walters, Amanda Sharpe, or Joe Diamond.  You gain that character's unique ability while you have this item.\nUpkeep:  Do not refresh this card; instead, discard 1 token from it.  If this card ever has no tokens on it, return it to the box.\n"
 },
 {
 "name":"Mask of Wisdom (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=MaskOfWisdomRevised.png",
-"description":"Any: Exhaust this card to either use your Lore -1 instead of your Luck for making a Luck check or use your Luck -1 instead of your Lore for making a Lore check.\n\n",
+"description":"Any: Exhaust this card to either use your Lore -1 instead of your Luck for making a Luck check or use your Luck -1 instead of your Lore for making a Lore check.\n\n"
 },
 {
 "name":"Parchment of the Elder Sign",
 "expansion":"Curse of the Dark Pharaoh",
 "count":3,
 "image":"/File%3AParchmentOfTheElderSign.png",
-"description":"Any: You may discard this card before attempting to close a gate with a Fight check or Lore check.  If you succeed, remove 1 token from the doom track and the gate is sealed.\n\n",
+"description":"Any: You may discard this card before attempting to close a gate with a Fight check or Lore check.  If you succeed, remove 1 token from the doom track and the gate is sealed.\n\n"
 },
 {
 "name":"Pentagram of Blood",
 "expansion":"Curse of the Dark Pharaoh",
 "count":2,
 "image":"/File%3APentagramOfBlood.png",
-"description":"Movement: Discard this card and X Stamina to ward your current street.  Place this card on the street with X tokens to indicate this.  Monsters must have toughness greater than the tokens on this card in order to enter this street.\nUpkeep:  If this card is on a street, discard 1 token from it.  If there are ever no tokens on this card, return it to the box.\n\n",
+"description":"Movement: Discard this card and X Stamina to ward your current street.  Place this card on the street with X tokens to indicate this.  Monsters must have toughness greater than the tokens on this card in order to enter this street.\nUpkeep:  If this card is on a street, discard 1 token from it.  If there are ever no tokens on this card, return it to the box.\n\n"
 },
 {
 "name":"Pentagram of Blood (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":2,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PentagramOfBloodRevised.png",
-"description":"Movement: Spend X Stamina and discard this card to remove  one monster with X toughness from Arkham and return it to the monster cup.\n\n",
+"description":"Movement: Spend X Stamina and discard this card to remove  one monster with X toughness from Arkham and return it to the monster cup.\n\n"
 },
 {
 "name":"Scales of Thoth",
 "expansion":"Curse of the Dark Pharaoh",
 "count":1,
 "image":"/File%3AScalesOfThoth.png",
-"description":"Upkeep:  Choose a dimension symbol.  This turn, you gain a +3 on all checks against monsters with that symbol and a -1 on all checks against monsters with other symbols.\n\n",
+"description":"Upkeep:  Choose a dimension symbol.  This turn, you gain a +3 on all checks against monsters with that symbol and a -1 on all checks against monsters with other symbols.\n\n"
 },
 {
 "name":"Scales of Thoth (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ScalesOfThothRevised.png",
-"description":"Any: You may exhaust this card to reduce your Sanity to equal your Stamina or reduce your Stamina to equal your Sanity. While this card is exhausted and your Sanity and Stamina are equal, gain +1 on all skill checks.\n\n",
+"description":"Any: You may exhaust this card to reduce your Sanity to equal your Stamina or reduce your Stamina to equal your Sanity. While this card is exhausted and your Sanity and Stamina are equal, gain +1 on all skill checks.\n\n"
 },
 {
 "name":"Second Elder Sign Fragment",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=SecondElderSignFragment.png",
-"description":"Arkham Encounters: After you successfully close a gate, you may return this card to the box and lose either 1 Stamina or 1 Sanity to seal it without spending clue tokens. (Note: this card does not allow you to remove a token from the doom track.)\n\n",
+"description":"Arkham Encounters: After you successfully close a gate, you may return this card to the box and lose either 1 Stamina or 1 Sanity to seal it without spending clue tokens. (Note: this card does not allow you to remove a token from the doom track.)\n\n"
 },
 {
 "name":"Serpent Crown",
 "expansion":"Miskatonic Horror",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=SerpentCrown.png",
-"description":"Any: Exhaust this card to gain 1 Ally. During the Upkeep Phase of the next turn, return that Ally to the box (even if the Ally was discarded).",
+"description":"Any: Exhaust this card to gain 1 Ally. During the Upkeep Phase of the next turn, return that Ally to the box (even if the Ally was discarded)."
 },
 {
 "name":"Spirit Vessel",
 "expansion":"Curse of the Dark Pharaoh",
 "count":2,
 "image":"/File%3ASpiritVessel.png",
-"description":"All of your monster trophies count as being one toughness higher for the purposes of spending them.\n\n",
+"description":"All of your monster trophies count as being one toughness higher for the purposes of spending them.\n\n"
 },
 {
 "name":"Summoning Glass",
 "expansion":"Curse of the Dark Pharaoh",
 "count":2,
 "image":"/File%3ASummoningGlass.png",
-"description":"Arkham Encounters: In addition to your normal encounter, discard this card to resolve the special ability of any Arkham location without a gate.  You may trade in trophies or money as if you were there.\n\n",
+"description":"Arkham Encounters: In addition to your normal encounter, discard this card to resolve the special ability of any Arkham location without a gate.  You may trade in trophies or money as if you were there.\n\n"
 },
 {
 "name":"Tablet of Bast",
 "expansion":"Curse of the Dark Pharaoh",
 "count":2,
 "image":"/File%3ATabletOfBast.png",
-"description":"Type: Tome\nArkham Encounters: Before making any checks during an encounter, you may place 1 token on this card from the bank to skip the encounter.  Discard this card if there are 3 tokens on it.\n",
+"description":"Type: Tome\nArkham Encounters: Before making any checks during an encounter, you may place 1 token on this card from the bank to skip the encounter.  Discard this card if there are 3 tokens on it.\n"
 },
 {
 "name":"Tablet of Bast (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":2,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TabletOfBastRevised.png",
-"description":"Type: Tome\nArkham Encounters: Discard this card after you fail a skill check to ignore the effects of the check.\n",
+"description":"Type: Tome\nArkham Encounters: Discard this card after you fail a skill check to ignore the effects of the check.\n"
 },
 {
 "name":"Third Elder Sign Fragment",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ThirdElderSignFragment.png",
-"description":"Arkham Encounters: After you seal a gate, you may return this card to the box and lose either 1 Stamina or 1 Sanity. If you do, remove 1 doom token from the doom track, flip it over to its elder sign side, and place it on the sealed location.\n\n",
+"description":"Arkham Encounters: After you seal a gate, you may return this card to the box and lose either 1 Stamina or 1 Sanity. If you do, remove 1 doom token from the doom track, flip it over to its elder sign side, and place it on the sealed location.\n\n"
 },
 {
 "name":"Twin Scepters",
 "expansion":"Miskatonic Horror",
 "count":1,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TwinScepters.png",
-"description":"Movement: When you are in the same location or area as a monster with a circle dimensional symbol, you may exhaust this card either to gain an amount of Sanity  equal to its toughness or to defeat the monster and lose an amount of Sanity equal to its toughness.",
-},
-]
+"description":"Movement: When you are in the same location or area as a monster with a circle dimensional symbol, you may exhaust this card either to gain an amount of Sanity  equal to its toughness or to defeat the monster and lose an amount of Sanity equal to its toughness."
+}]

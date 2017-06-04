@@ -17,12 +17,6 @@
 "clue_appears_at":"Devil Reef\nor\nBlack Cave",
 "movement":[{"color":"White","shapes":["Circle"]},{"color":"Black","shapes":["Diamond","Square"]}]},
 {
-"name":"A Sandstorm!?",
-"expansion":"Curse of the Dark Pharaoh",
-"count":1,
-"image":"/File%3AMythos127.png",
-}},
-{
 "name":"A Strange Plague",
 "expansion":"",
 "count":1,
@@ -2264,7 +2258,7 @@
 "count":1,
 "image":"/File%3AMythos61.png",
 "flavor_text":"\"I cannot remember, I\nmust\nnot remember what I saw on that dark and foreboding night..\"",
-"mythos_ability":"Shuffle the mythos deck, being sure to include this card in it.  After the deck is shuffled, draw a new\nmythos card\nfor the turn.",
+"mythos_ability":"Shuffle the mythos deck, being sure to include this card in it.  After the deck is shuffled, draw a new\nmythos card\nfor the turn."
 },
 {
 "name":"The Streets are Flooded",
@@ -2621,5 +2615,4 @@
 "mythos_type":"Environment (Mystic)",
 "gate_opens":"Gate Burst at\nThe Unnamable",
 "clue_appears_at":"*\nWoods",
-"movement":[{"color":"White","shapes":["Plus"]},{"color":"Black","shapes":["Crescent"]}]},
-]
+"movement":[{"color":"White","shapes":["Plus"]},{"color":"Black","shapes":["Crescent"]}]}]

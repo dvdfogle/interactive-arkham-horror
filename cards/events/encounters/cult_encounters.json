@@ -3,28 +3,28 @@
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"\"Do not fear these blessings. The changes will grant you the knowledge and abilities necessary to do that which we shall require of you.\"",
-"description":"\nYou may draw a Skill. If you do, draw 2 Corruption cards. Otherwise, move to the street.",
+"description":"\nYou may draw a Skill. If you do, draw 2 Corruption cards. Otherwise, move to the street."
 },
 {
 "name":"A Cryptic Vision",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"While the cult chants, you are overcome by a nightmarish vision filled with symbols and coded warnings.",
-"description":"\nMake a Lore (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card.",
+"description":"\nMake a Lore (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card."
 },
 {
 "name":"A Debt Must Be Paid",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"What is owed must be paid, either by you or by someone else.",
-"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may draw a Corruption card and gain a \"one of the Thousand\" Cult Membership. If he chooses not to, you must draw 2 Corruption cards.",
+"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may draw a Corruption card and gain a \"one of the Thousand\" Cult Membership. If he chooses not to, you must draw 2 Corruption cards."
 },
 {
 "name":"A Favor Granted",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"\"That which you have asked for shall be done, initiate, but the cost must be borne by you. It must be borne by your flesh and bone.\"",
-"description":"\nYou may choose to discard either an Environment mythos card currently in play or a Rumor mythos card (without triggering either the Pass or Fail effects) in play. If you do so, reduce your maximum Stamina by 1.",
+"description":"\nYou may choose to discard either an Environment mythos card currently in play or a Rumor mythos card (without triggering either the Pass or Fail effects) in play. If you do so, reduce your maximum Stamina by 1."
 },
 {
 "name":"A Simple Choice",
@@ -32,14 +32,14 @@
 "count":2,
 "image":"/File%3ACultEncounter1.png",
 "flavor":"\"These tools are for the collective good.\"",
-"description":"\nDraw 1 Common item, then either discard a different item or draw a Corruption card.",
+"description":"\nDraw 1 Common item, then either discard a different item or draw a Corruption card."
 },
 {
 "name":"An Unnerving Discovery",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"Two others, their faces hidden in darkness, whisper to one another of the terrors that await.",
-"description":"\nLook at the top card of the mythos deck and either return the card to the top of the deck or discard it. Then draw a Corruption card.",
+"description":"\nLook at the top card of the mythos deck and either return the card to the top of the deck or discard it. Then draw a Corruption card."
 },
 {
 "name":"Baptized in Blood",
@@ -47,7 +47,7 @@
 "count":1,
 "image":"/File%3ACultEncounter2.png",
 "flavor":"\"Kneel and receive the Mother's Blessing!\"",
-"description":"\nYou may choose to be blessed, then lose 2 Sanity and draw a Corruption card.  If you choose not to do so, you are Cursed and must discard your Cult Membership, then move to the street.",
+"description":"\nYou may choose to be blessed, then lose 2 Sanity and draw a Corruption card.  If you choose not to do so, you are Cursed and must discard your Cult Membership, then move to the street."
 },
 {
 "name":"Birthing Chant",
@@ -55,14 +55,14 @@
 "count":1,
 "image":"/File%3ACultEncounter3.png",
 "flavor":"\"Iä! Iä! Shub-Niggurath!  The Black Goat of the Woods with a Thousand Young!\"",
-"description":"\nOut of the darkness a grotesque monster appears!",
+"description":"\nOut of the darkness a grotesque monster appears!"
 },
 {
 "name":"Blood of the Beast",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"The foul-smelling black ichor is poured over the cuts across your arms. Your heart beats wildly and your thoughts grow feral.",
-"description":"\nRestore your Stamina to full and draw a Corruption card. All hexagon monsters move as if the hexagon symbol appeared on the black movement box while resolving a mythos card.",
+"description":"\nRestore your Stamina to full and draw a Corruption card. All hexagon monsters move as if the hexagon symbol appeared on the black movement box while resolving a mythos card."
 },
 {
 "name":"Blood Offering",
@@ -70,7 +70,7 @@
 "count":1,
 "image":"/File%3ACultEncounter4.png",
 "flavor":"\"Service demands sacrifice.\"",
-"description":"\nEither discard 1 Ally, discard 2 toughness worth of monster trophies, or lose 3 Stamina.  If you cannot or will not do any of these things, discard your Cult Membership and move to the street.",
+"description":"\nEither discard 1 Ally, discard 2 toughness worth of monster trophies, or lose 3 Stamina.  If you cannot or will not do any of these things, discard your Cult Membership and move to the street."
 },
 {
 "name":"Blood-drenched Altar",
@@ -78,14 +78,14 @@
 "count":1,
 "image":"/File%3ACultEncounter5.png",
 "flavor":"The chanting seems to echo through the trees and in your mind as the circle leader makes a series of ritual cuts in the beast's flesh",
-"description":"\nRaise the terror level by 1.",
+"description":"\nRaise the terror level by 1."
 },
 {
 "name":"Branding the Flesh",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"\"This burn is an oath. You will bring souls to kneel before the alter. Do not break this oath.\"",
-"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may draw a Corruption card and gain a \"One of the Thousand\" Cult Membership. If he chooses not to, you are Cursed.",
+"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may draw a Corruption card and gain a \"One of the Thousand\" Cult Membership. If he chooses not to, you are Cursed."
 },
 {
 "name":"Calling forth the Darkness",
@@ -93,14 +93,14 @@
 "count":1,
 "image":"/File%3ACultEncounter6.png",
 "flavor":"Hooded figures kneel before a stone altar and begin a blasphemous ritual that draws power from a dark and malevolent source.",
-"description":"\nIf you participate in the ceremony, each investigator must draw a Corruption card.  If you choose not to do so, a monster surge occurs.",
+"description":"\nIf you participate in the ceremony, each investigator must draw a Corruption card.  If you choose not to do so, a monster surge occurs."
 },
 {
 "name":"Contest of Wills",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"You feel yourself merging with the creature's consciousness. You believe that if you pushed yourself hard enough, you could control the monstrosity.",
-"description":"\nYou may choose 1 hexagon monster on the board to return it to the box. Do not return it to the monster cup. If you choose to do this, reduce either your maximum Sanity or maximum Stamina by 1.",
+"description":"\nYou may choose 1 hexagon monster on the board to return it to the box. Do not return it to the monster cup. If you choose to do this, reduce either your maximum Sanity or maximum Stamina by 1."
 },
 {
 "name":"Curious Endowment",
@@ -108,7 +108,7 @@
 "count":1,
 "image":"/File%3ACultEncounter7.png",
 "flavor":"A shadowy figure reveals two strange items and whispers \"Choose wisely, friend\"",
-"description":"\nYou may draw 2 Unique items, choose one to keep, and discard the other.  If you do, draw a Corruption card.  Otherwise, move to the street.",
+"description":"\nYou may draw 2 Unique items, choose one to keep, and discard the other.  If you do, draw a Corruption card.  Otherwise, move to the street."
 },
 {
 "name":"Dance of the Chosen",
@@ -116,35 +116,35 @@
 "count":2,
 "image":"/File%3ACultEncounter8.png",
 "flavor":"Deranged figures gyrate around the bonfire, beseeching the Black Goat for power.",
-"description":"\nYou may draw 2 Spells, choose one to keep, and discard the other.  If you do, draw a Corruption card.  Otherwise, move to the street.",
+"description":"\nYou may draw 2 Spells, choose one to keep, and discard the other.  If you do, draw a Corruption card.  Otherwise, move to the street."
 },
 {
 "name":"Drink from the Cup",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"The foul liquid burns your throat. Through the dizziness and nausea, your mind reaches out to some hideous monstrosity.",
-"description":"\nLose 2 Stamina. Then, if you have not been knocked unconscious, gain 2 Clue tokens and you may remove 1 monster with a hexagon dimensional symbol from Arkham, the Sky, or the Outskirts.",
+"description":"\nLose 2 Stamina. Then, if you have not been knocked unconscious, gain 2 Clue tokens and you may remove 1 monster with a hexagon dimensional symbol from Arkham, the Sky, or the Outskirts."
 },
 {
 "name":"Final Words",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"One of the cultists suddenly brings his hand to his chest. He wants to tell you the secrets he's learned about the cult and struggles to form the words before he dies.",
-"description":"\nMake a Speed (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card.",
+"description":"\nMake a Speed (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card."
 },
 {
 "name":"Get Rid of This",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"The summoning ritual has failed and it falls to you to find a way to hide the terrible results of the attempt.",
-"description":"\nGain 1 monster trophy from the monster cup at random, ignoring Endless. Then lose 1 Sanity.",
+"description":"\nGain 1 monster trophy from the monster cup at random, ignoring Endless. Then lose 1 Sanity."
 },
 {
 "name":"Join the Chant",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"The voices grow louder, repeating the phrase, and as you shout along with everyone else, you feel as if you are being pulled out of your own skin.",
-"description":"\nMake a Will (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card.",
+"description":"\nMake a Will (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card."
 },
 {
 "name":"No Turning Back",
@@ -152,21 +152,21 @@
 "count":2,
 "image":"/File%3ACultEncounter9.png",
 "flavor":"Your quickened heartbeat and the drone of chanting voices create a strange rhythm as you approach the stone altar.  You hesitate, then step into its long shadow and feel a bit of your humanity slip away.",
-"description":"\nDraw a Corruption card.",
+"description":"\nDraw a Corruption card."
 },
 {
 "name":"Pass No Further",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"\"Your desire for knowledge is great, but you are not prepared for what lies within that cave.\"",
-"description":"\nMake a Sneak (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card.",
+"description":"\nMake a Sneak (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card."
 },
 {
 "name":"Primitive Ritual",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"\"The cutting and burning of the flesh pushes the mind into the dark places, if you can endure the pain.\"",
-"description":"\nMake a Fight (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card.",
+"description":"\nMake a Fight (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card."
 },
 {
 "name":"Questioned Loyalty",
@@ -174,35 +174,35 @@
 "count":1,
 "image":"/File%3ACultEncounter10.png",
 "flavor":"\"New members often struggle with total commitment\", says a senior cult member.  \"But, a few honest answers about your recent activities should reassure us.\"",
-"description":"\nDiscard 2 Clue tokens, if able.  You may reduce this loss by 1 for each Corruption card you have.  If you cannot or will not, lose 2 Stamina and move to the street.",
+"description":"\nDiscard 2 Clue tokens, if able.  You may reduce this loss by 1 for each Corruption card you have.  If you cannot or will not, lose 2 Stamina and move to the street."
 },
 {
 "name":"Reborn in Flames",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"\"Step into the fire! Cast off your meaningless baubles and become more than mere human!\"",
-"description":"\nYou may discard 2 Common Items to restore your Sanity and Stamina to their maximums. If you do so, draw a Corruption card.",
+"description":"\nYou may discard 2 Common Items to restore your Sanity and Stamina to their maximums. If you do so, draw a Corruption card."
 },
 {
 "name":"Sacrifice Must Be Made",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"\"All must surrender to Shubb-Niggurath!\"",
-"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may draw a Corruption card and gain a \"One of the Thousand\" Cult Membership. If he chooses not to, you must discard 1 Ally, 1 Unique Item, or 1 Spell if able.",
+"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may draw a Corruption card and gain a \"One of the Thousand\" Cult Membership. If he chooses not to, you must discard 1 Ally, 1 Unique Item, or 1 Spell if able."
 },
 {
 "name":"Secrets Revealed",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"You've gained the attention of the cult leaders. They grant you access to their most insidious machinations.",
-"description":"\nYou may choose to discard either an Environment mythos card currently in play or a Rumor mythos card (without triggering either the Pass or Fail effects) in play. If you do so, reduce your maximum Sanity by 1.",
+"description":"\nYou may choose to discard either an Environment mythos card currently in play or a Rumor mythos card (without triggering either the Pass or Fail effects) in play. If you do so, reduce your maximum Sanity by 1."
 },
 {
 "name":"Shattering Vision",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"You fall trembing to the ground. Before you a horrific vision unfolds, a cruel gift from Shubb-Niggurath.",
-"description":"\nYou may lose 2 Sanity to look at the top three cards of the mythos deck and return them to the top of the deck in any order you choose. If you do so, draw a Corruption card.",
+"description":"\nYou may lose 2 Sanity to look at the top three cards of the mythos deck and return them to the top of the deck in any order you choose. If you do so, draw a Corruption card."
 },
 {
 "name":"Startling Revelation",
@@ -210,7 +210,7 @@
 "count":1,
 "image":"/File%3ACultEncounter11.png",
 "flavor":"You bump into a pair of cloaked figures conversing in the darkness and are shocked that you recognize them both!",
-"description":"\nReturn 2 Allies from the Ally deck to the box.  They have joined \"One of the Thousand\" Cult!",
+"description":"\nReturn 2 Allies from the Ally deck to the box.  They have joined \"One of the Thousand\" Cult!"
 },
 {
 "name":"Teetering Sanity",
@@ -218,7 +218,7 @@
 "count":1,
 "image":"/File%3ACultEncounter12.png",
 "flavor":"The reality of the situation suddenly slaps you in the face.  Questioning your motives, you wonder when all of this became so compelling…",
-"description":"\nLose 2 Sanity.",
+"description":"\nLose 2 Sanity."
 },
 {
 "name":"Temptations of Power",
@@ -226,7 +226,7 @@
 "count":1,
 "image":"/File%3ACultEncounter13.png",
 "flavor":"\"The Black Goat favors you.\"",
-"description":"\nYou may search the Spell deck for a card of your choice, then lose 1 Sanity and draw a Corruption card.  If you choose not to do so, discard your Cult Membership and move to the street.",
+"description":"\nYou may search the Spell deck for a card of your choice, then lose 1 Sanity and draw a Corruption card.  If you choose not to do so, discard your Cult Membership and move to the street."
 },
 {
 "name":"The Chosen One",
@@ -234,42 +234,42 @@
 "count":1,
 "image":"/File%3ACultEncounter14.png",
 "flavor":"You stand before the stone altar, knife in hand.  Will it be another's blood, or your own that you shed?",
-"description":"\nYou must either draw 2 Corruption cards and add 1 doom token to the doom track, or remove 1 doom token from the doom track and be devoured.",
+"description":"\nYou must either draw 2 Corruption cards and add 1 doom token to the doom track, or remove 1 doom token from the doom track and be devoured."
 },
 {
 "name":"The Dagger of Initiation",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"\"Either we will have your friends' loyalties or we will have your blood.\"",
-"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may choose to draw a Corruption card and gain a \"One of the Thousand\" Cult Membership. If he does not, you lose 2 Stamina.",
+"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may choose to draw a Corruption card and gain a \"One of the Thousand\" Cult Membership. If he does not, you lose 2 Stamina."
 },
 {
 "name":"The Ritual of Transformation",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"You stand before the alter, chosen to give yourself to the Black Goat, body and soul.",
-"description":"\nYou must either discard your \"One of the Thousand\" Cult Membership and move to the street or gain 3 Corruption cards. For each 2 Clue tokens you discard, you may reduce the number of Corruption cards you gain by 1 (to a minimum of 0).",
+"description":"\nYou must either discard your \"One of the Thousand\" Cult Membership and move to the street or gain 3 Corruption cards. For each 2 Clue tokens you discard, you may reduce the number of Corruption cards you gain by 1 (to a minimum of 0)."
 },
 {
 "name":"The Unending Chant",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"The voices in your head cry out with a desparate need for more and more worshippers.",
-"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may choose to draw a Corruption card and gain a \"One of the Thousand\" Cult Membership. If he does not, you lose 2 Sanity.",
+"description":"\nIf all investigators have a \"One of the Thousand\" Cult Membership, you are Blessed.\nOtherwise, you must choose another investigator who may choose to draw a Corruption card and gain a \"One of the Thousand\" Cult Membership. If he does not, you lose 2 Sanity."
 },
 {
 "name":"These Thoughts Are Not Your Own",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"Your mind fills with a primal strength you've never known. Dark, violent impulses threaten to overtake you.",
-"description":"\nRestore your Sanity to full and draw a Corruption card. All hexagon monsters move as if the hexagon symbol appeared on the white movement box while resolving a mythos card.",
+"description":"\nRestore your Sanity to full and draw a Corruption card. All hexagon monsters move as if the hexagon symbol appeared on the white movement box while resolving a mythos card."
 },
 {
 "name":"Throw the Bones",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"You are given a handful of small animal bones and told to throw them. Afterwards, the cultists divine your future by observing how the bones landed.",
-"description":"\nMake a Luck (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card.",
+"description":"\nMake a Luck (+0) check and gain 1 Clue token for each success. If you gain 3 or more Clue tokens, draw a Corruption card."
 },
 {
 "name":"Tithes That Bind",
@@ -277,7 +277,7 @@
 "count":2,
 "image":"/File%3ACultEncounter15.png",
 "flavor":"\"We require a small donation.\"",
-"description":"\nSpend $3 (or discard items worth at least $3) to gain 2 Clue tokens and a Corruption card.  If you cannot or will not, discard your Cult Membership and move to the street.",
+"description":"\nSpend $3 (or discard items worth at least $3) to gain 2 Clue tokens and a Corruption card.  If you cannot or will not, discard your Cult Membership and move to the street."
 },
 {
 "name":"Unbreakable Oath",
@@ -285,7 +285,7 @@
 "count":1,
 "image":"/File%3ACultEncounter16.png",
 "flavor":"\"The Mother's milk is her most sacred gift.  Drink deeply.\"",
-"description":"\nYou may search the Unique item deck for a Milk of Shub-Niggurath card, if it is available.  If you do, draw a Corruption card.  Otherwise move to the street.",
+"description":"\nYou may search the Unique item deck for a Milk of Shub-Niggurath card, if it is available.  If you do, draw a Corruption card.  Otherwise move to the street."
 },
 {
 "name":"Watching and Waiting",
@@ -293,14 +293,14 @@
 "count":2,
 "image":"/File%3ACultEncounter17.png",
 "flavor":"Cautious subterfuge earns you a glimpse at things to come, yet there is truth in the old adage about the bliss of ignorance.",
-"description":"\nYou may either gain 1 Clue token, or 3 Clue tokens and a Corruption card.",
+"description":"\nYou may either gain 1 Clue token, or 3 Clue tokens and a Corruption card."
 },
 {
 "name":"What Little of You Remains",
 "expansion":"Miskatonic Horror",
 "count":1,
 "flavor":"Looking at the other cultists, seeing how changed they are, you begin to wonder if you're still completely human. In fact, are you still human at all?",
-"description":"\nIf you have no Corruption cards, you are Blessed.\nOtherwise, roll a die for each Corruption card you have. If you roll a 1, lose 1 Sanity. If you roll a 6, discard the Corruption card. Stop rolling if you go insane at any point.",
+"description":"\nIf you have no Corruption cards, you are Blessed.\nOtherwise, roll a die for each Corruption card you have. If you roll a 1, lose 1 Sanity. If you roll a 6, discard the Corruption card. Stop rolling if you go insane at any point."
 },
 {
 "name":"Whispers in Shadows",
@@ -308,6 +308,5 @@
 "count":2,
 "image":"/File%3ACultEncounter18.png",
 "flavor":"\"Take this to help with your cause, friend.\"",
-"description":"\nYou may either gain $3 and draw a Corruption card, or move to the street.",
-},
-]
+"description":"\nYou may either gain $3 and draw a Corruption card, or move to the street."
+}]

@@ -3,188 +3,187 @@
 "expansion":"The Black Goat of the Woods",
 "type":"Membership",
 "image":"/File%3AOneOfTheThousandCultMembershipBack.png",
-"description":"Whenever you have an encounter in the Black Cave, the Unvisited Isle, or the Woods, instead draw a card from the Cult Encounters deck.",
+"description":"Whenever you have an encounter in the Black Cave, the Unvisited Isle, or the Woods, instead draw a card from the Cult Encounters deck."
 },
 {
 "name":"Azure Flame",
 "expansion":"The King in Yellow",
 "type":"Magical Effect",
 "image":"/File%3AAzureFlame.png",
-"description":"Type: Magical effect\nBonus: +4 to Combat checks\nAny phase:  When using the Azure Flame in Combat, all 6's rolled count as 2 successes.\nDiscard this card if your Call the Azure Flame is refreshed or leaves your possession.\nHands: 2",
+"description":"Type: Magical effect\nBonus: +4 to Combat checks\nAny phase:  When using the Azure Flame in Combat, all 6's rolled count as 2 successes.\nDiscard this card if your Call the Azure Flame is refreshed or leaves your possession.\nHands: 2"
 },
 {
 "name":"Bank Loan",
 "expansion":"",
 "type":"",
 "image":"/File%3ABankLoanBack.png",
-"description":"Gain $10 when you take this card.\nUpkeep: Roll a die.  On a 1-3, pay $1 or discard all of your items along with this card.  You cannot get another Bank Loan this game.\nAny Phase: Pay $10 to pay off your Bank Loan and discard this card.  You may choose to take out a new Bank Loan later on during this game.",
+"description":"Gain $10 when you take this card.\nUpkeep: Roll a die.  On a 1-3, pay $1 or discard all of your items along with this card.  You cannot get another Bank Loan this game.\nAny Phase: Pay $10 to pay off your Bank Loan and discard this card.  You may choose to take out a new Bank Loan later on during this game."
 },
 {
 "name":"Beloved Of Bast",
 "expansion":"Kingsport Horror",
 "type":"",
 "image":"/File%3ABelovedOfBastBack.png",
-"description":"When you gain this card, take the Nine Lives card as well.\nUpkeep: Gain 1 Sanity or 1 Stamina.\nDiscard this card if the Ancient One awakens.",
+"description":"When you gain this card, take the Nine Lives card as well.\nUpkeep: Gain 1 Sanity or 1 Stamina.\nDiscard this card if the Ancient One awakens."
 },
 {
 "name":"Blessing",
 "expansion":"",
 "type":"",
 "image":"/File%3ABlessing.png",
-"description":"Upkeep: Roll a die and discard this card on a 1.\nWhen rolling dice, you score successes on a 4, 5, or 6.  If you are Cursed, discard this card instead of gaining a Curse card.",
+"description":"Upkeep: Roll a die and discard this card on a 1.\nWhen rolling dice, you score successes on a 4, 5, or 6.  If you are Cursed, discard this card instead of gaining a Curse card."
 },
 {
 "name":"Blood Pact",
 "expansion":"The Lurker at the Threshold",
 "type":"Dark Pact",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=LurkerBloodPact.png",
-"description":"When you gain a Blood Pact, restore your Stamina to full.\nAny Phase: While this card is refreshed, any time you would gain any amount of Stamina, you may instead gain that amount of Power.\nYou may spend a Power token as either a Clue token or as 1 Sanity when you suffer a Sanity loss.\nUpkeep: Exhaust Blood Pact and lose X Stamina to gain X Power.",
+"description":"When you gain a Blood Pact, restore your Stamina to full.\nAny Phase: While this card is refreshed, any time you would gain any amount of Stamina, you may instead gain that amount of Power.\nYou may spend a Power token as either a Clue token or as 1 Sanity when you suffer a Sanity loss.\nUpkeep: Exhaust Blood Pact and lose X Stamina to gain X Power."
 },
 {
 "name":"Bound Ally",
 "expansion":"The Lurker at the Threshold",
 "type":"Dark Pact",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=LurkerBoundAlly.png",
-"description":"When you gain a Bound Ally, take the top card of the Ally deck and attach it to this card.\nYou gain the services of that Ally. When the Ancient One awakens, discard the Ally and put this card on the Ancient One. For each Bound Ally on the Ancient One, it takes one additional success to remove a doom token.\nYou may spend a Power token as either a Clue token or as $1.",
+"description":"When you gain a Bound Ally, take the top card of the Ally deck and attach it to this card.\nYou gain the services of that Ally. When the Ancient One awakens, discard the Ally and put this card on the Ancient One. For each Bound Ally on the Ancient One, it takes one additional success to remove a doom token.\nYou may spend a Power token as either a Clue token or as $1."
 },
 {
 "name":"Captain of the White Ship",
 "expansion":"Kingsport Horror",
 "type":"",
 "image":"/File%3ACaptainOfTheWhiteShipBack.png",
-"description":"When you gain this card, take the White Ship as well.\nYou are never delayed in Other World areas.\nDiscard this card and the White Ship if you are ever Lost in Time and Space.",
+"description":"When you gain this card, take the White Ship as well.\nYou are never delayed in Other World areas.\nDiscard this card and the White Ship if you are ever Lost in Time and Space."
 },
 {
 "name":"Curse",
 "expansion":"",
 "type":"",
 "image":"/File%3ACurse.png",
-"description":"Upkeep: Roll a die and discard this card on a 1.\nAny Phase: When rolling dice, you only score successes on a 6.  If you are Blessed, discard this card instead of gaining a Blessing card.",
+"description":"Upkeep: Roll a die and discard this card on a 1.\nAny Phase: When rolling dice, you only score successes on a 6.  If you are Blessed, discard this card instead of gaining a Blessing card."
 },
 {
 "name":"Changed",
 "expansion":"Kingsport Horror",
 "type":"",
 "image":"/File%3AChangedBack.png",
-"description":"When you gain this card, take the Great Seal as well.\n+1 Maximum Sanity\n+1 Maximum Stamina\nAny Phase: Exhaust instead of spending a Clue token.",
+"description":"When you gain this card, take the Great Seal as well.\n+1 Maximum Sanity\n+1 Maximum Stamina\nAny Phase: Exhaust instead of spending a Clue token."
 },
 {
 "name":"Coded Messages",
 "expansion":"Dunwich Horror",
 "type":"Condition",
 "image":"/File%3ACodedMessagesBack.png",
-"description":"Condition: Investigators may trade Clue tokens with other investigators in the same area during the Movement phase as though Clue tokens were items.",
+"description":"Condition: Investigators may trade Clue tokens with other investigators in the same area during the Movement phase as though Clue tokens were items."
 },
 {
 "name":"Darke's Blessing",
 "expansion":"Dunwich Horror",
 "type":"Condition",
 "image":"/File%3ADarkesBlessingBack.png",
-"description":"Condition - Any Phase: Any investigator may exhaust this card to re-roll a skill check that he or she has just failed.  This card refreshes at the start of each Upkeep phase.",
+"description":"Condition - Any Phase: Any investigator may exhaust this card to re-roll a skill check that he or she has just failed.  This card refreshes at the start of each Upkeep phase."
 },
 {
 "name":"Deputy of Arkham",
 "expansion":"",
 "type":"",
 "image":"/File%3ADeputyOfArkhamBack.png",
-"description":"When you gain this card, take the Deputy's Revolver and the Patrol Wagon as well.\nUpkeep: Gain $1",
+"description":"When you gain this card, take the Deputy's Revolver and the Patrol Wagon as well.\nUpkeep: Gain $1"
 },
 {
 "name":"Deputy's Revolver",
 "expansion":"",
 "type":"",
 "image":"/File%3ADeputyOfArkhamBack.png",
-"description":"Type: Physical Weapon\nBonus: +3 Combat check\nDeputy's Revolver cannot be lost or stolen unless you choose to allow it.\nHands: 1",
+"description":"Type: Physical Weapon\nBonus: +3 Combat check\nDeputy's Revolver cannot be lost or stolen unless you choose to allow it.\nHands: 1"
 },
 {
 "name":"Inner Beast",
 "expansion":"The King in Yellow",
 "type":"Magical Effect",
 "image":"/File%3AInnerBeast.png",
-"description":"Type: Magical effect\nBonus:\n+1 Maximum Stamina\n-2 Maximum Sanity\n+2 to Combat checks\nMovement:  You receive 1 extra movement point.\nDiscard this card if your Summon the Beast Within is refreshed or leaves your possession.",
+"description":"Type: Magical effect\nBonus:\n+1 Maximum Stamina\n-2 Maximum Sanity\n+2 to Combat checks\nMovement:  You receive 1 extra movement point.\nDiscard this card if your Summon the Beast Within is refreshed or leaves your possession."
 },
 {
 "name":"Nine Lives",
 "expansion":"Kingsport Horror",
 "type":"",
 "image":"/File%3ABelovedOfBastBack.png",
-"description":"While you have this card, you cannot be devoured unless you choose to allow it.\nDiscard this card if the Ancient One awakens.",
+"description":"While you have this card, you cannot be devoured unless you choose to allow it.\nDiscard this card if the Ancient One awakens."
 },
 {
 "name":"Patrol Wagon",
 "expansion":"",
 "type":"",
 "image":"/File%3ADeputyOfArkhamBack.png",
-"description":"Movement:  If you are in Arkham, you may move to any street area or location in Arkham instead of your normal movement.\nRoll a die at the end of each Combat and whenever you return to Arkham from an Other World. On a 1, return this card to the box.\n",
+"description":"Movement:  If you are in Arkham, you may move to any street area or location in Arkham instead of your normal movement.\nRoll a die at the end of each Combat and whenever you return to Arkham from an Other World. On a 1, return this card to the box.\n"
 },
 {
 "name":"Rare Book Collection",
 "expansion":"Dunwich Horror",
 "type":"Condition",
 "image":"/File%3ARareBookCollectionBack.png",
-"description":"Condition: The Library has the following special ability:\nRare Book Collection:  Instead of having an encounter here, you may lose 1 Sanity to gain 1 Clue token.",
+"description":"Condition: The Library has the following special ability:\nRare Book Collection:  Instead of having an encounter here, you may lose 1 Sanity to gain 1 Clue token."
 },
 {
 "name":"Rail Pass",
 "expansion":"Dunwich Horror",
 "type":"",
 "image":"/File%3ARailPassBack.png",
-"description":"You do not have to pay $1 to travel between towns (by rail).",
+"description":"You do not have to pay $1 to travel between towns (by rail)."
 },
 {
 "name":"Retainer",
 "expansion":"",
 "type":"",
 "image":"/File%3ARetainer.png",
-"description":"Upkeep: Gain $2, then roll a die.  Discard this card on a 1.",
+"description":"Upkeep: Gain $2, then roll a die.  Discard this card on a 1."
 },
 {
 "name":"Sheldon Gang Membership",
 "expansion":"Dunwich Horror",
 "type":"Membership",
 "image":"/File%3ASheldonGangMembershipBack.png",
-"description":"Upkeep: If you are in a street area, you may roll a die and consult the chart below to engage in some petty larceny.",
+"description":"Upkeep: If you are in a street area, you may roll a die and consult the chart below to engage in some petty larceny."
 },
 {
 "name":"Silver Twilight Lodge Membership",
 "expansion":"",
 "type":"Membership",
 "image":"/File%3ASilverTwilightLodgeMembershipBack.png",
-"description":"Any Phase: Whenever you have an encounter at the Silver Twilight Lodge, you have an encounter at the Inner Sanctum instead.",
+"description":"Any Phase: Whenever you have an encounter at the Silver Twilight Lodge, you have an encounter at the Inner Sanctum instead."
 },
 {
 "name":"Soul Pact",
 "expansion":"The Lurker at the Threshold",
 "type":"Dark Pact",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=LurkerSoulPact.png",
-"description":"When you gain a Soul Pact, restore your Sanity to full.\nAny Phase: While this card is refreshed, anytime you would gain any amount of Sanity, you may instead gain that amount of Power.\nYou may spend a Power token as either a Clue token or as 1 Stamina when you suffer a Stamina loss.\nUpkeep: Exhaust Soul Pact and lose X Sanity to gain X Power.",
+"description":"When you gain a Soul Pact, restore your Sanity to full.\nAny Phase: While this card is refreshed, anytime you would gain any amount of Sanity, you may instead gain that amount of Power.\nYou may spend a Power token as either a Clue token or as 1 Stamina when you suffer a Stamina loss.\nUpkeep: Exhaust Soul Pact and lose X Sanity to gain X Power."
 },
 {
 "name":"The Great Seal",
 "expansion":"Kingsport Horror",
 "type":"",
 "image":"/File%3AChangedBack.png",
-"description":"Any Phase: When you seal a gate, you may place this card on the sealed location along with the Elder Sign token.  That elder sign token cannot be removed by any game effect, including gate bursts.",
+"description":"Any Phase: When you seal a gate, you may place this card on the sealed location along with the Elder Sign token.  That elder sign token cannot be removed by any game effect, including gate bursts."
 },
 {
 "name":"The White Ship",
 "expansion":"Kingsport Horror",
 "type":"",
 "image":"/File%3ACaptainOfTheWhiteShipBack.png",
-"description":"Movement:  If you are in Arkham or an Other World, you may move to the first area of any Other World instead of your normal movement.  You may do this even if there are no open gates leading to that Other World.",
+"description":"Movement:  If you are in Arkham or an Other World, you may move to the first area of any Other World instead of your normal movement.  You may do this even if there are no open gates leading to that Other World."
 },
 {
 "name":"Third Eye",
 "expansion":"The King in Yellow",
 "type":"Magical Effect",
 "image":"/File%3AThirdEye.png",
-"description":"Type: Magical effect\nBonus:\n+1 Maximum Sanity\n-2 Maximum Stamina\n+2 to Horror checks\nYou may not be Cursed.  (If you are already Cursed, this card does not change that.)\nDiscard this card if your Open the Third Eye is refreshed or leaves your possession.",
+"description":"Type: Magical effect\nBonus:\n+1 Maximum Sanity\n-2 Maximum Stamina\n+2 to Horror checks\nYou may not be Cursed.  (If you are already Cursed, this card does not change that.)\nDiscard this card if your Open the Third Eye is refreshed or leaves your possession."
 },
 {
 "name":"Velma's Gratitude",
 "expansion":"Dunwich Horror",
 "type":"Condition",
 "image":"/File%3AVelmasGratitudeBack.png",
-"description":"Condition: Investigators may ignore any money losses caused by Velma's Diner encounters and are always considered to have spent the maximum amount of money allowed during encounters there.",
-},
-]
+"description":"Condition: Investigators may ignore any money losses caused by Velma's Diner encounters and are always considered to have spent the maximum amount of money allowed during encounters there."
+}]

@@ -5,7 +5,7 @@
 "image":"/File%3AAlchemicalProcess.png",
 "casting_modifier":0,
 "sanity_cost":1,
-"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust to gain $3.",
+"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust to gain $3."
 },
 {
 "name":"Arcane Insight",
@@ -14,7 +14,7 @@
 "image":"/File%3AArcaneInsight.png",
 "casting_modifier":-4,
 "sanity_cost":1,
-"description":"Casting phase: Upkeep\nEffect: Cast and exhaust to look at the top 3 Mythos cards in the deck, then replace them on top of the deck in any order you choose.  When casting this spell, you gain a +1 bonus to your Spell check for each Tome in your possession.",
+"description":"Casting phase: Upkeep\nEffect: Cast and exhaust to look at the top 3 Mythos cards in the deck, then replace them on top of the deck in any order you choose.  When casting this spell, you gain a +1 bonus to your Spell check for each Tome in your possession."
 },
 {
 "name":"Astral Travel",
@@ -23,7 +23,7 @@
 "image":"/File%3AAstralTravel.png",
 "casting_modifier":-1,
 "sanity_cost":2,
-"description":"Casting phase: Arkham Encounters\nEffect: Instead of having an encounter, cast and discard to immediately enter an open gate anywhere in Arkham.\nHands: 0\n",
+"description":"Casting phase: Arkham Encounters\nEffect: Instead of having an encounter, cast and discard to immediately enter an open gate anywhere in Arkham.\nHands: 0\n"
 },
 {
 "name":"Astral Travel (Revised)",
@@ -32,7 +32,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=AstralTravelRevised.png",
 "casting_modifier":-2,
 "sanity_cost":1,
-"description":"Casting phase: Arkham Encounters\nEffect: When in Arkham, instead of having an encounter, cast and discard to move to the first area of any Other World.\nHands: 0\n",
+"description":"Casting phase: Arkham Encounters\nEffect: When in Arkham, instead of having an encounter, cast and discard to move to the first area of any Other World.\nHands: 0\n"
 },
 {
 "name":"Bind Monster",
@@ -41,7 +41,7 @@
 "image":"/File%3ABindMonster.png",
 "casting_modifier":4,
 "sanity_cost":2,
-"description":"Any Phase: Cast and Discard this spell to pass one Combat check.  You must roll successes equal to the monster's toughness to cast this spell.  This spell doesn't work on Ancient Ones.\nHands: 2",
+"description":"Any Phase: Cast and Discard this spell to pass one Combat check.  You must roll successes equal to the monster's toughness to cast this spell.  This spell doesn't work on Ancient Ones.\nHands: 2"
 },
 {
 "name":"Bless",
@@ -50,16 +50,16 @@
 "image":"/File%3ABless.png",
 "casting_modifier":-1,
 "sanity_cost":2,
-"description":"Upkeep Phase: You may cast and discard to choose one investigator (even yourself).  That investigator is Blessed.",
+"description":"Upkeep Phase: You may cast and discard to choose one investigator (even yourself).  That investigator is Blessed."
 },
 {
 "name":"Call Ancient One",
 "expansion":"The Black Goat of the Woods",
 "count":1,
 "image":"/File%3ACallAncientOne.png",
-"casting_modifier":-X,
-"sanity_cost":X,
-"description":"Casting phase: Any\nEffect: Discard X monster and/or gate trophies, then cast and discard this spell to immediately awaken the Ancient One.  Then, remove X doom tokens from its doom track.",
+"casting_modifier":"-X",
+"sanity_cost":"X",
+"description":"Casting phase: Any\nEffect: Discard X monster and/or gate trophies, then cast and discard this spell to immediately awaken the Ancient One.  Then, remove X doom tokens from its doom track."
 },
 {
 "name":"Call Down the Storm",
@@ -68,7 +68,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=CallDownTheStorm.png",
 "casting_modifier":1,
 "sanity_cost":1,
-"description":"Casting phase: Movement\nEffect: Cast and exhaust while in Arkham to add +2 to any Combat check that takes place in your neighborhood until the end of the phase.\nHands: 1",
+"description":"Casting phase: Movement\nEffect: Cast and exhaust while in Arkham to add +2 to any Combat check that takes place in your neighborhood until the end of the phase.\nHands: 1"
 },
 {
 "name":"Call Friend",
@@ -77,7 +77,7 @@
 "image":"/File%3ACallFriend.png",
 "casting_modifier":0,
 "sanity_cost":1,
-"description":"Movement Phase: Cast and exhaust to choose an investigator in Arkham who has not moved this turn.  Move that investigator to your current space (even an Other World).  The investigator may not move again this turn.",
+"description":"Movement Phase: Cast and exhaust to choose an investigator in Arkham who has not moved this turn.  Move that investigator to your current space (even an Other World).  The investigator may not move again this turn."
 },
 {
 "name":"Call the Azure Flame",
@@ -86,7 +86,7 @@
 "image":"/File%3ACallTheAzureFlame.png",
 "casting_modifier":1,
 "sanity_cost":1,
-"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust to take an Azure Flame special card.\nIf this card is exhausted at the start of your Upkeep phase, you may pay 1 Sanity to keep it from refreshing.",
+"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust to take an Azure Flame special card.\nIf this card is exhausted at the start of your Upkeep phase, you may pay 1 Sanity to keep it from refreshing."
 },
 {
 "name":"Cloud Memory",
@@ -95,7 +95,7 @@
 "image":"/File%3ACloudMemory.png",
 "casting_modifier":1,
 "sanity_cost":0,
-"description":"Upkeep Phase: You may cast and exhaust.  Spend 1 Stamina.  You or another investigator in your area gains 1 Sanity.",
+"description":"Upkeep Phase: You may cast and exhaust.  Spend 1 Stamina.  You or another investigator in your area gains 1 Sanity."
 },
 {
 "name":"Control Gate",
@@ -104,7 +104,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ControlGate.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Casting phase: Movement\nEffect: Cast and discard to search through the Gate marker stack for the gate of your choice. Replace an existing open Gate with that Gate marker, then shuffle the Gate marker stack.",
+"description":"Casting phase: Movement\nEffect: Cast and discard to search through the Gate marker stack for the gate of your choice. Replace an existing open Gate with that Gate marker, then shuffle the Gate marker stack."
 },
 {
 "name":"Curse of Darkness",
@@ -113,7 +113,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=CurseOfDarkness.png",
 "casting_modifier":-1,
 "sanity_cost":2,
-"description":"Casting phase: Any Phase\nEffect: Cast and discard to choose a monster in your neighborhood and move it to the Outskirts.",
+"description":"Casting phase: Any Phase\nEffect: Cast and discard to choose a monster in your neighborhood and move it to the Outskirts."
 },
 {
 "name":"Denying the Ancient One",
@@ -122,7 +122,7 @@
 "image":"/File%3ADenyingTheAncientOne.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Casting phase: Upkeep\nEffect: Worshippers of the Ancient One lose any abilities granted to them by the Ancient One this turn.\nHands: 0\n",
+"description":"Casting phase: Upkeep\nEffect: Worshippers of the Ancient One lose any abilities granted to them by the Ancient One this turn.\nHands: 0\n"
 },
 {
 "name":"Denying the Ancient One (Revised)",
@@ -131,7 +131,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=DenyingTheAncientOneRevised.png",
 "casting_modifier":-1,
 "sanity_cost":2,
-"description":"Casting phase: Upkeep\nEffect: Cast and exhaust. If you are driven insane or knocked unconscious during this turn, keep all of your items and clues.\nHands: 0\n",
+"description":"Casting phase: Upkeep\nEffect: Cast and exhaust. If you are driven insane or knocked unconscious during this turn, keep all of your items and clues.\nHands: 0\n"
 },
 {
 "name":"Dread Curse of Azathoth",
@@ -140,7 +140,7 @@
 "image":"/File%3ADreadCurseOfAzathoth.png",
 "casting_modifier":-2,
 "sanity_cost":2,
-"description":"Any Phase: Cast and exhaust to gain +9 to Combat checks until the end of this combat.\nHands: 2",
+"description":"Any Phase: Cast and exhaust to gain +9 to Combat checks until the end of this combat.\nHands: 2"
 },
 {
 "name":"Enchant Weapon",
@@ -149,7 +149,7 @@
 "image":"/File%3AEnchantWeapon.png",
 "casting_modifier":0,
 "sanity_cost":1,
-"description":"Any Phase: Cast and exhaust to make one Physical weapon a Magical weapon until the end of this combat.",
+"description":"Any Phase: Cast and exhaust to make one Physical weapon a Magical weapon until the end of this combat."
 },
 {
 "name":"Feeding the Mind",
@@ -158,7 +158,7 @@
 "image":"/File%3AFeedingTheMind.png",
 "casting_modifier":-1,
 "sanity_cost":0,
-"description":"Casting phase: Upkeep\nEffect: You may cast, exhaust, and sacrifice an amount of Stamina up to the number of successes you rolled on your Spell check.  For each Stamina sacrificed you gain 2 Sanity.\nHands: 0\n",
+"description":"Casting phase: Upkeep\nEffect: You may cast, exhaust, and sacrifice an amount of Stamina up to the number of successes you rolled on your Spell check.  For each Stamina sacrificed you gain 2 Sanity.\nHands: 0\n"
 },
 {
 "name":"Feeding the Mind (Revised)",
@@ -167,7 +167,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=FeedingTheMindRevised.png",
 "casting_modifier":-2,
 "sanity_cost":0,
-"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust, then spend up to 3 Stamina. For each Stamina sacrificed, gain 2 Sanity.\nHands: 0\n",
+"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust, then spend up to 3 Stamina. For each Stamina sacrificed, gain 2 Sanity.\nHands: 0\n"
 },
 {
 "name":"Find Gate",
@@ -176,7 +176,7 @@
 "image":"/File%3AFindGate.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Movement: Cast and exhaust to immediately return to Arkham from an Other World.",
+"description":"Movement: Cast and exhaust to immediately return to Arkham from an Other World."
 },
 {
 "name":"Fist of Yog-Sothoth",
@@ -185,7 +185,7 @@
 "image":"/File%3AFistOfYog-Sothoth.png",
 "casting_modifier":2,
 "sanity_cost":1,
-"description":"Any Phase: Cast and exhaust to gain +X to Combat checks until the end of this combat, where X is the number of successes you rolled on your Spell check.\nHands: 1",
+"description":"Any Phase: Cast and exhaust to gain +X to Combat checks until the end of this combat, where X is the number of successes you rolled on your Spell check.\nHands: 1"
 },
 {
 "name":"Flesh Ward",
@@ -194,7 +194,7 @@
 "image":"/File%3AFleshWard.png",
 "casting_modifier":-2,
 "sanity_cost":1,
-"description":"Any Phase: Cast and exhaust to ignore all Stamina loss being dealt to you from one source.  Discard this spell if the Ancient One awakens.",
+"description":"Any Phase: Cast and exhaust to ignore all Stamina loss being dealt to you from one source.  Discard this spell if the Ancient One awakens."
 },
 {
 "name":"Forced Learning",
@@ -203,7 +203,7 @@
 "image":"/File%3AForcedLearning.png",
 "casting_modifier":-1,
 "sanity_cost":2,
-"description":"Upkeep Phase: You may cast and discard to gain 1 Skill.",
+"description":"Upkeep Phase: You may cast and discard to gain 1 Skill."
 },
 {
 "name":"Foresee",
@@ -212,7 +212,7 @@
 "image":"/File%3AForesee.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Any Phase: Cast and exhaust to re-roll any one skill check you just made.",
+"description":"Any Phase: Cast and exhaust to re-roll any one skill check you just made."
 },
 {
 "name":"Greater Banishment",
@@ -221,7 +221,7 @@
 "image":"/File%3AGreaterBanishment.png",
 "casting_modifier":-2,
 "sanity_cost":2,
-"description":"Upkeep Phase: You may cast and discard to choose one dimensional symbol other than the moon.  All monsters with that symbol are returned to the monster cup.",
+"description":"Upkeep Phase: You may cast and discard to choose one dimensional symbol other than the moon.  All monsters with that symbol are returned to the monster cup."
 },
 {
 "name":"Heal",
@@ -230,7 +230,7 @@
 "image":"/File%3AHeal.png",
 "casting_modifier":1,
 "sanity_cost":1,
-"description":"Upkeep Phase: You may cast and exhaust.  You or another investigator in your area gains Stamina equal to the successes you rolled on your Spell check.  This Stamina cannot be split between multiple investigators.",
+"description":"Upkeep Phase: You may cast and exhaust.  You or another investigator in your area gains Stamina equal to the successes you rolled on your Spell check.  This Stamina cannot be split between multiple investigators."
 },
 {
 "name":"Implant Suggestion",
@@ -239,7 +239,7 @@
 "image":"/File%3AImplantSuggestion.png",
 "casting_modifier":-2,
 "sanity_cost":0,
-"description":"Movement Phase: You may cast and exhaust while in Arkham to choose one monster in your location and have it move either in the direction of the white or black arrow in that location.",
+"description":"Movement Phase: You may cast and exhaust while in Arkham to choose one monster in your location and have it move either in the direction of the white or black arrow in that location."
 },
 {
 "name":"Intervene",
@@ -248,7 +248,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=Intervene.png",
 "casting_modifier":-1,
 "sanity_cost":2,
-"description":"Casting phase: Any Phase\nEffect: Cast and exhaust before an investigator makes a Combat check to give that investigator +3 to the check.\nHands: 2",
+"description":"Casting phase: Any Phase\nEffect: Cast and exhaust before an investigator makes a Combat check to give that investigator +3 to the check.\nHands: 2"
 },
 {
 "name":"Lure Monster",
@@ -257,34 +257,34 @@
 "image":"/File%3ALureMonster.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Upkeep Phase: You may cast and exhaust while in Arkham to choose one monster on the board (including the Sky, but not the Outskirts).  Move that monster to your current space.",
+"description":"Upkeep Phase: You may cast and exhaust while in Arkham to choose one monster on the board (including the Sky, but not the Outskirts).  Move that monster to your current space."
 },
 {
 "name":"Markings of Isis",
 "expansion":"Curse of the Dark Pharaoh",
 "count":3,
 "image":"/File%3AMarkingsOfIsis.png",
-"casting_modifier":Special,
+"casting_modifier":"Special",
 "sanity_cost":0,
-"description":"Casting phase: Any\nEffect: Cast and exhaust to pass a Horror check.  The casting modifier is equal to the monster's horror rating.\nHands: 1\n",
+"description":"Casting phase: Any\nEffect: Cast and exhaust to pass a Horror check.  The casting modifier is equal to the monster's horror rating.\nHands: 1\n"
 },
 {
 "name":"Markings of Isis (Revised)",
 "expansion":"Curse of the Dark Pharaoh (Revised Edition)",
 "count":3,
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=MarkingsOfIsisRevised.png",
-"casting_modifier":Special,
+"casting_modifier":"Special",
 "sanity_cost":0,
-"description":"Casting phase: Any\nEffect: Cast and exhaust to pass a Horror check.  The casting modifier is equal to the monster's horror rating.\nHands: 0\n",
+"description":"Casting phase: Any\nEffect: Cast and exhaust to pass a Horror check.  The casting modifier is equal to the monster's horror rating.\nHands: 0\n"
 },
 {
 "name":"Mists of Releh",
 "expansion":"",
 "count":4,
 "image":"/File%3AMistsOfReleh.png",
-"casting_modifier":Special,
+"casting_modifier":"Special",
 "sanity_cost":0,
-"description":"Any Phase: Cast and exhaust to pass an Evade check. The casting modifier is equal to the monster's Awareness.",
+"description":"Any Phase: Cast and exhaust to pass an Evade check. The casting modifier is equal to the monster's Awareness."
 },
 {
 "name":"Open the Third Eye",
@@ -293,7 +293,7 @@
 "image":"/File%3AOpenTheThirdEye.png",
 "casting_modifier":0,
 "sanity_cost":0,
-"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust to take a Third Eye special card.\nIf this card is exhausted at the start of your Upkeep phase, you do not have to refresh it.",
+"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust to take a Third Eye special card.\nIf this card is exhausted at the start of your Upkeep phase, you do not have to refresh it."
 },
 {
 "name":"Plague of Locusts",
@@ -302,7 +302,7 @@
 "image":"/File%3APlagueOfLocusts.png",
 "casting_modifier":-2,
 "sanity_cost":1,
-"description":"Casting phase: Movement\nEffect: This spell effects all investigators and monsters in this neighborhood.  Investigators lose 1 Stamina, and monsters' toughness is reduced by 1.  Monsters with 0 toughness are returned to the cup.\nHands: 0\n",
+"description":"Casting phase: Movement\nEffect: This spell effects all investigators and monsters in this neighborhood.  Investigators lose 1 Stamina, and monsters' toughness is reduced by 1.  Monsters with 0 toughness are returned to the cup.\nHands: 0\n"
 },
 {
 "name":"Plague of Locusts (Revised)",
@@ -311,7 +311,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PlagueOfLocustsRevised.png",
 "casting_modifier":0,
 "sanity_cost":2,
-"description":"Casting phase: Movement\nEffect: Cast and exhaust to choose 1 monster in a street area. Return it to the cup and remove all clue tokens in the same neighborhood.\nHands: 0\n",
+"description":"Casting phase: Movement\nEffect: Cast and exhaust to choose 1 monster in a street area. Return it to the cup and remove all clue tokens in the same neighborhood.\nHands: 0\n"
 },
 {
 "name":"Plumb the Void",
@@ -320,7 +320,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PlumbTheVoid.png",
 "casting_modifier":0,
 "sanity_cost":2,
-"description":"Casting phase: Movement\nEffect: Cast and discard while in Arkham. Move one investigator in an Other World to any location with a Gate matching his Other World (he receives an explored token) or to your location.",
+"description":"Casting phase: Movement\nEffect: Cast and discard while in Arkham. Move one investigator in an Other World to any location with a Gate matching his Other World (he receives an explored token) or to your location."
 },
 {
 "name":"Premonition",
@@ -329,7 +329,7 @@
 "image":"/File%3APremonition.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Casting phase: Any\nEffect: Cast and exhaust to move one skill slider up to 2 stops.\nHands: 0",
+"description":"Casting phase: Any\nEffect: Cast and exhaust to move one skill slider up to 2 stops.\nHands: 0"
 },
 {
 "name":"Red Sign of Shudde M'ell",
@@ -338,7 +338,7 @@
 "image":"/File%3ARedSignOfShuddeMell.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Any Phase: Cast and exhaust to lower a monster's toughness by 1 (to a minimum of 1) and ignore one of its special abilities other than Magical Immunity until the end of this combat.\nHands: 1",
+"description":"Any Phase: Cast and exhaust to lower a monster's toughness by 1 (to a minimum of 1) and ignore one of its special abilities other than Magical Immunity until the end of this combat.\nHands: 1"
 },
 {
 "name":"Revelation of Script",
@@ -347,7 +347,7 @@
 "image":"/File%3ARevelationOfScript.png",
 "casting_modifier":1,
 "sanity_cost":0,
-"description":"Casting phase: Any\nEffect: Cast and exhaust to gain +3 to all Lore checks (except Spell checks) until the end of this phase.\nHands: 0\n",
+"description":"Casting phase: Any\nEffect: Cast and exhaust to gain +3 to all Lore checks (except Spell checks) until the end of this phase.\nHands: 0\n"
 },
 {
 "name":"Revelation of Script (Revised)",
@@ -356,7 +356,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=RevelationOfScriptRevised.png",
 "casting_modifier":-1,
 "sanity_cost":0,
-"description":"Casting phase: Upkeep\nEffect: Cast and exhaust this card to gain one clue token for each Unique Item or Exhibit Item you gain until the end of the turn.\nHands: 0\n",
+"description":"Casting phase: Upkeep\nEffect: Cast and exhaust this card to gain one clue token for each Unique Item or Exhibit Item you gain until the end of the turn.\nHands: 0\n"
 },
 {
 "name":"Shrivelling",
@@ -365,7 +365,7 @@
 "image":"/File%3AShrivelling.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Any Phase: Cast and exhaust to gain +6 to Combat checks until the end of this combat.\nHands: 1",
+"description":"Any Phase: Cast and exhaust to gain +6 to Combat checks until the end of this combat.\nHands: 1"
 },
 {
 "name":"Shroud of Shadow",
@@ -373,8 +373,8 @@
 "count":3,
 "image":"/File%3AShroudOfShadow.png",
 "casting_modifier":-1,
-"sanity_cost":Special,
-"description":"Casting phase: Any\nEffect: Cast, exhuast, and discard an amount of Sanity of your choice.  For each point of Sanity you choose to discard, gain +2 to a Sneak check.\nHands: 0\n",
+"sanity_cost":"Special",
+"description":"Casting phase: Any\nEffect: Cast, exhuast, and discard an amount of Sanity of your choice.  For each point of Sanity you choose to discard, gain +2 to a Sneak check.\nHands: 0\n"
 },
 {
 "name":"Shroud of Shadow (Revised)",
@@ -383,7 +383,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ShroudOfShadowRevised.png",
 "casting_modifier":-2,
 "sanity_cost":1,
-"description":"Casting phase: Upkeep\nEffect: Cast and exhaust to reduce the toughness of every monster you combat during this turn by 1 (to a minimum of 1).\nHands: 0\n",
+"description":"Casting phase: Upkeep\nEffect: Cast and exhaust to reduce the toughness of every monster you combat during this turn by 1 (to a minimum of 1).\nHands: 0\n"
 },
 {
 "name":"Sigil of Hermes Trismegistus",
@@ -392,7 +392,7 @@
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=SigilOfHermesTrismegistus.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Casting phase: Any Phase\nEffect: Cast and exhaust when you or another player attempts to close a Gate. That player receives a +2 to the check.",
+"description":"Casting phase: Any Phase\nEffect: Cast and exhaust when you or another player attempts to close a Gate. That player receives a +2 to the check."
 },
 {
 "name":"Spectral Razor",
@@ -401,7 +401,7 @@
 "image":"/File%3ASpectralRazor.png",
 "casting_modifier":2,
 "sanity_cost":2,
-"description":"Any Phase: Cast and exhaust to gain +X to Combat checks until the end of this combat, where X is twice the number of successes you rolled on your Spell check.\nHands: 2",
+"description":"Any Phase: Cast and exhaust to gain +X to Combat checks until the end of this combat, where X is twice the number of successes you rolled on your Spell check.\nHands: 2"
 },
 {
 "name":"Steal Life",
@@ -410,7 +410,7 @@
 "image":"/File%3AStealLife.png",
 "casting_modifier":-2,
 "sanity_cost":1,
-"description":"Casting phase: Any\nEffect: Cast and exhuast to gain +3 to Combat checks until the end of this combat.  For every success you roll, gain 1 Stamina.\nHands: 2",
+"description":"Casting phase: Any\nEffect: Cast and exhuast to gain +3 to Combat checks until the end of this combat.  For every success you roll, gain 1 Stamina.\nHands: 2"
 },
 {
 "name":"Storm of Spirits",
@@ -419,7 +419,7 @@
 "image":"/File%3AStormOfSpirits.png",
 "casting_modifier":-1,
 "sanity_cost":0,
-"description":"Casting phase: Any\nEffect: Cast and exhaust to gain +3 to Combat checks and to use Lore instead of Fight on your Combat checks until the end of this combat.\nHands: 2",
+"description":"Casting phase: Any\nEffect: Cast and exhaust to gain +3 to Combat checks and to use Lore instead of Fight on your Combat checks until the end of this combat.\nHands: 2"
 },
 {
 "name":"Summon Monster",
@@ -428,7 +428,7 @@
 "image":"/File%3ASummonMonster.png",
 "casting_modifier":0,
 "sanity_cost":1,
-"description":"Casting phase: Movement\nEffect: Cast and exhaust to draw a monster from the cup and place it in your current location.",
+"description":"Casting phase: Movement\nEffect: Cast and exhaust to draw a monster from the cup and place it in your current location."
 },
 {
 "name":"Summon Shantak",
@@ -437,7 +437,7 @@
 "image":"/File%3ASummonShantak.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Movement Phase: Cast and exhaust to gain 1 movement point.  In addition, you may leave or end your movement in spaces containing monsters without encountering the monsters this turn.",
+"description":"Movement Phase: Cast and exhaust to gain 1 movement point.  In addition, you may leave or end your movement in spaces containing monsters without encountering the monsters this turn."
 },
 {
 "name":"Summon the Beast Within",
@@ -446,7 +446,7 @@
 "image":"/File%3ASummonTheBeastWithin.png",
 "casting_modifier":-2,
 "sanity_cost":0,
-"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust to take an Inner Beast special card.\nIf this card is exhausted at the start of your Upkeep phase, you do not have to refresh it.",
+"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust to take an Inner Beast special card.\nIf this card is exhausted at the start of your Upkeep phase, you do not have to refresh it."
 },
 {
 "name":"The Yellow Mist",
@@ -455,7 +455,7 @@
 "image":"/File%3ATheYellowMist.png",
 "casting_modifier":-3,
 "sanity_cost":1,
-"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust.  For each success on your Spell check, you may return one monster from the Outskirts to the monster cup.",
+"description":"Casting phase: Upkeep\nEffect: You may cast and exhaust.  For each success on your Spell check, you may return one monster from the Outskirts to the monster cup."
 },
 {
 "name":"Vision Quest",
@@ -464,7 +464,7 @@
 "image":"/File%3AVisionQuest.png",
 "casting_modifier":0,
 "sanity_cost":1,
-"description":"Movement Phase: Cast and exhaust after ending your movement to take all Clue tokens that are on the board in your current neighborhood.",
+"description":"Movement Phase: Cast and exhaust after ending your movement to take all Clue tokens that are on the board in your current neighborhood."
 },
 {
 "name":"Voice of Ra",
@@ -473,7 +473,7 @@
 "image":"/File%3AVoiceOfRa.png",
 "casting_modifier":-1,
 "sanity_cost":1,
-"description":"Upkeep Phase: You may cast and exhaust to gain +1 to all skill checks for the rest of this turn.",
+"description":"Upkeep Phase: You may cast and exhaust to gain +1 to all skill checks for the rest of this turn."
 },
 {
 "name":"Wither",
@@ -482,7 +482,7 @@
 "image":"/File%3AWither.png",
 "casting_modifier":0,
 "sanity_cost":0,
-"description":"Any Phase: Cast and exhaust to gain +3 to Combat checks until the end of this combat.\nHands: 1",
+"description":"Any Phase: Cast and exhaust to gain +3 to Combat checks until the end of this combat.\nHands: 1"
 },
 {
 "name":"Wrack",
@@ -491,6 +491,5 @@
 "image":"/File%3AWrack.png",
 "casting_modifier":-2,
 "sanity_cost":1,
-"description":"Any Phase: Cast and exhaust before making a Combat check.  This combat immediately ends as though you had succeeded at an Evade check.  Discard this spell if the Ancient One awakens.",
-},
-]
+"description":"Any Phase: Cast and exhaust before making a Combat check.  This combat immediately ends as though you had succeeded at an Evade check.  Discard this spell if the Ancient One awakens."
+}]

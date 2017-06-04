@@ -1,239 +1,238 @@
 [{
-"name":"A",
+"name":"A Humble Servant",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=AHumbleServantReckoning.png",
-"description":"\nAdd 1 doom token to the doom track for each investigator with 3 Dark Pacts.",
+"description":"\nAdd 1 doom token to the doom track for each investigator with 3 Dark Pacts."
 },
 {
-"name":"A",
+"name":"A Little Taste",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ALittleTasteReckoning.png",
-"description":"\nThe investigator(s) with the least Power gain 1 Power, even if he does not have a Dark Pact. Note, however, that an investigator needs a Dark Pact to spend Power.",
+"description":"\nThe investigator(s) with the least Power gain 1 Power, even if he does not have a Dark Pact. Note, however, that an investigator needs a Dark Pact to spend Power."
 },
 {
-"name":"A",
+"name":"An Offer You Can't Refuse",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=AnOfferYouCantRefuseReckoning.png",
-"description":"\nThe first player chooses an investigator. That investigator must take a Dark Pact if able. If not able, that investigator is devoured.",
+"description":"\nThe first player chooses an investigator. That investigator must take a Dark Pact if able. If not able, that investigator is devoured."
 },
 {
-"name":"A",
+"name":"An Unsettling Trend",
 "expansion":"Miskatonic Horror",
-"description":"\nFor each investigator with a Bound Ally, raise the terror level by 1.",
+"description":"\nFor each investigator with a Bound Ally, raise the terror level by 1."
 },
 {
-"name":"B",
+"name":"Bargain of the Gate",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=BargainOfTheGateReckoning.png",
-"description":"\nThe investigator with the most Power moves to the Other World of his choice (ties broken by the first player).",
+"description":"\nThe investigator with the most Power moves to the Other World of his choice (ties broken by the first player)."
 },
 {
-"name":"B",
+"name":"Beyond Control",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator with a Soul Pact gains 1 Power for each point of Sanity he currently has. He then reduces his maximum Sanity by 2.",
+"description":"\nEach investigator with a Soul Pact gains 1 Power for each point of Sanity he currently has. He then reduces his maximum Sanity by 2."
 },
 {
-"name":"B",
+"name":"Blood Boils",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator with a Blood Pact gains 1 Power for each point of Stamina he currently has. He then reduces his maximum Stamina by 2.",
+"description":"\nEach investigator with a Blood Pact gains 1 Power for each point of Stamina he currently has. He then reduces his maximum Stamina by 2."
 },
 {
-"name":"D",
+"name":"Dark Reward",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=DarkRewardReckoning.png",
-"description":"\nEach investigator with a Dark Pact gains 1 Power per Dark Pact he has.",
+"description":"\nEach investigator with a Dark Pact gains 1 Power per Dark Pact he has."
 },
 {
-"name":"D",
+"name":"Debt Comes Due",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=DebtComesDueReckoning.png",
-"description":"\nFor each 3 Power possessed by the investigators as a group, add 1 doom token to the doom track (round down).",
+"description":"\nFor each 3 Power possessed by the investigators as a group, add 1 doom token to the doom track (round down)."
 },
 {
-"name":"D",
+"name":"Devil's Bargain",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=DevilsBargainReckoning.png",
-"description":"\nThe investigators must choose: either each investigator with Power must discard a Common or Unique Item, or add 1 doom token to the doom track.",
+"description":"\nThe investigators must choose: either each investigator with Power must discard a Common or Unique Item, or add 1 doom token to the doom track."
 },
 {
-"name":"D",
+"name":"Devotion Beyond Reason",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator with a Bound Ally must discard all of his money and items.",
+"description":"\nEach investigator with a Bound Ally must discard all of his money and items."
 },
 {
-"name":"F",
+"name":"Further Temptation",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=FurtherTemptationReckoning.png",
-"description":"\nEach investigator with a Dark Pact draws 1 Spell.",
+"description":"\nEach investigator with a Dark Pact draws 1 Spell."
 },
 {
-"name":"G",
+"name":"Give the Devil his Due",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=GiveTheDevilHisDueReckoning.png",
-"description":"\nEach investigator with a Dark Pact must discard 1 Gate trophy or 5 toughness worth of monster trophies or 5 Clue tokens, if able. If he cannot, he must discard all his monster trophies and Clues.",
+"description":"\nEach investigator with a Dark Pact must discard 1 Gate trophy or 5 toughness worth of monster trophies or 5 Clue tokens, if able. If he cannot, he must discard all his monster trophies and Clues."
 },
 {
-"name":"H",
+"name":"He Is Everywhere",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=HeIsEverywhereReckoning.png",
-"description":"\nIf every investigator has 1 or more Dark Pacts and/or 1 or more Power, add a doom token to the doom track.",
+"description":"\nIf every investigator has 1 or more Dark Pacts and/or 1 or more Power, add a doom token to the doom track."
 },
 {
-"name":"H",
+"name":"His Undivided Attention",
 "expansion":"Miskatonic Horror",
-"description":"\nDraw the next 2 Reckoning cards from the deck and resolve them both, one at a time in the order drawn.",
+"description":"\nDraw the next 2 Reckoning cards from the deck and resolve them both, one at a time in the order drawn."
 },
 {
-"name":"H",
+"name":"Humanity Lost",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=HumanityLostReckoning.png",
-"description":"\nThe investigator with the most Power is devoured (ties broken by the first player). If no investigators have Power, there is no effect.",
+"description":"\nThe investigator with the most Power is devoured (ties broken by the first player). If no investigators have Power, there is no effect."
 },
 {
-"name":"I",
+"name":"In Too Deep",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=InTooDeepReckoning.png",
-"description":"\nEach investigator with only 1 Dark Pact must immediately choose and take a second Dark Pact.",
+"description":"\nEach investigator with only 1 Dark Pact must immediately choose and take a second Dark Pact."
 },
 {
-"name":"L",
+"name":"Lest You Wither Away",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator may choose to immediately gain 1 or more Dark Pacts. Then, if there is at least 1 investigator who does not have a Dark Pact, each investigator who does have a Dark Pact reduces his maximum Stamina by 1.",
+"description":"\nEach investigator may choose to immediately gain 1 or more Dark Pacts. Then, if there is at least 1 investigator who does not have a Dark Pact, each investigator who does have a Dark Pact reduces his maximum Stamina by 1."
 },
 {
-"name":"M",
+"name":"Merely a Vessel",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator with 1 or more Power tokens in Arkham is delayed. Each investigator with 1 or more Power tokens in an Other World is lost in time and space.",
+"description":"\nEach investigator with 1 or more Power tokens in Arkham is delayed. Each investigator with 1 or more Power tokens in an Other World is lost in time and space."
 },
 {
-"name":"P",
+"name":"Power Begets Power",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PowerBegetsPowerReckoning.png",
-"description":"\nEach investigator with at least 1 Power gains 1 Power.",
+"description":"\nEach investigator with at least 1 Power gains 1 Power."
 },
 {
-"name":"P",
+"name":"Power Corrodes",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PowerCorrodesReckoning.png",
-"description":"\nEach investigator loses 1 Sanity for each Power he has.",
+"description":"\nEach investigator loses 1 Sanity for each Power he has."
 },
 {
-"name":"P",
+"name":"Power Corrupts",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PowerCorruptsReckoning.png",
-"description":"\nEach investigator loses 1 Sanity or 1 Stamina for each Power he has.",
+"description":"\nEach investigator loses 1 Sanity or 1 Stamina for each Power he has."
 },
 {
-"name":"P",
+"name":"Power Decays",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PowerDecaysReckoning.png",
-"description":"\nEach investigator loses 1 Stamina for each Power he has.",
+"description":"\nEach investigator loses 1 Stamina for each Power he has."
 },
 {
-"name":"P",
+"name":"Prisoner's Dilemma",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PrisonersDilemmaReckoning.png",
-"description":"\nThe investigators must choose: either the investigator with the most Power is devoured, or the investigator with the least Power is driven insane.",
+"description":"\nThe investigators must choose: either the investigator with the most Power is devoured, or the investigator with the least Power is driven insane."
 },
 {
-"name":"S",
+"name":"So Easy to Break",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator that has a Dark Pact but does not currently have a Blood Pact loses 2 Stamina.",
+"description":"\nEach investigator that has a Dark Pact but does not currently have a Blood Pact loses 2 Stamina."
 },
 {
-"name":"S",
+"name":"Spread the Word",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=SpreadTheWordReckoning.png",
-"description":"\nEach investigator may choose to gain one or more Dark Pacts. Then, if there is at least one investigator who does not have a Dark Pact, each investigator who does have a Dark Pact is Cursed.",
+"description":"\nEach investigator may choose to gain one or more Dark Pacts. Then, if there is at least one investigator who does not have a Dark Pact, each investigator who does have a Dark Pact is Cursed."
 },
 {
-"name":"S",
+"name":"Strange Behavior",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=StrangeBehaviorReckoning.png",
-"description":"\nEach investigator with a Bound Ally must discard 3 Clue tokens. For each investigator that fails to do this, increase the terror level by 1.",
+"description":"\nEach investigator with a Bound Ally must discard 3 Clue tokens. For each investigator that fails to do this, increase the terror level by 1."
 },
 {
-"name":"S",
+"name":"Surrender Your Soul",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator that has a Dark Pact but does not currently have a Soul Pact loses 2 Sanity.",
+"description":"\nEach investigator that has a Dark Pact but does not currently have a Soul Pact loses 2 Sanity."
 },
 {
-"name":"T",
+"name":"Terrible Realization",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TerribleRealizationReckoning.png",
-"description":"\nEach investigator with a Blood Pact loses 2 Sanity.",
+"description":"\nEach investigator with a Blood Pact loses 2 Sanity."
 },
 {
-"name":"T",
+"name":"The Barriers Crumble",
 "expansion":"Miskatonic Horror",
-"description":"\nA gate opens and a monster appears in each unstable location containing an investigator with 1 or more Dark Pacts (if there is not already a gate in that location).",
+"description":"\nA gate opens and a monster appears in each unstable location containing an investigator with 1 or more Dark Pacts (if there is not already a gate in that location)."
 },
 {
-"name":"T",
+"name":"The Body a Temple",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TheBodyATempleReckoning.png",
-"description":"\nEach investigator with a Soul Pact loses 2 Stamina.",
+"description":"\nEach investigator with a Soul Pact loses 2 Stamina."
 },
 {
-"name":"T",
+"name":"The Body Decays",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TheBodyDecaysReckoning.png",
-"description":"\nEach investigator with a Dark Pact loses 1 Stamina per Dark Pact he has.",
+"description":"\nEach investigator with a Dark Pact loses 1 Stamina per Dark Pact he has."
 },
 {
-"name":"T",
+"name":"The Legacy of Blood",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator with a Blood Pact is devoured. The new investigator chosen to replace him starts with a Blood Pact and 3 Power tokens in addition to his other fixed possessions.",
+"description":"\nEach investigator with a Blood Pact is devoured. The new investigator chosen to replace him starts with a Blood Pact and 3 Power tokens in addition to his other fixed possessions."
 },
 {
-"name":"T",
+"name":"The Legacy of Madness",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator with a Soul Pact is devoured. The new investigator chosen to replace him starts with a Soul Pact and 3 Power tokens in addition to his other fixed possessions.",
+"description":"\nEach investigator with a Soul Pact is devoured. The new investigator chosen to replace him starts with a Soul Pact and 3 Power tokens in addition to his other fixed possessions."
 },
 {
-"name":"T",
+"name":"The Master of Magic",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TheMasterOfMagicReckoning.png",
-"description":"\nEach investigator with at least 1 Spell gains 1 Power.",
+"description":"\nEach investigator with at least 1 Spell gains 1 Power."
 },
 {
-"name":"T",
+"name":"The Mind Unravels",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TheMindUnravelsReckoning.png",
-"description":"\nEach investigator with a Dark Pact loses 1 Sanity per Dark Pact he has.",
+"description":"\nEach investigator with a Dark Pact loses 1 Sanity per Dark Pact he has."
 },
 {
-"name":"T",
+"name":"The Voices Beckon",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator may choose to immediately gain 1 or more Dark Pacts. Then, if there is at least 1 investigator who does not have a Dark Pact, each investigator who does have a Dark Pact reduces his maximum Sanity by 1.",
+"description":"\nEach investigator may choose to immediately gain 1 or more Dark Pacts. Then, if there is at least 1 investigator who does not have a Dark Pact, each investigator who does have a Dark Pact reduces his maximum Sanity by 1."
 },
 {
-"name":"T",
+"name":"Through the Threshold",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=ThroughTheThresholdReckoning.png",
-"description":"\nEvery investigator in Arkham with 1 or more Power is drawn through the closest open Gate (his choice if there is a tie).",
+"description":"\nEvery investigator in Arkham with 1 or more Power is drawn through the closest open Gate (his choice if there is a tie)."
 },
 {
-"name":"T",
+"name":"Traveler of the Paths",
 "expansion":"Miskatonic Horror",
-"description":"\nEach investigator with 2 or more Dark Pacts must immediately return all of his gate trophies face down to the bottom of the pile of gate markers.",
+"description":"\nEach investigator with 2 or more Dark Pacts must immediately return all of his gate trophies face down to the bottom of the pile of gate markers."
 },
 {
-"name":"T",
+"name":"Turning On One Another",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TurningOnOneAnotherReckoning.png",
-"description":"\nDiscard 1 Ally from the Ally deck for each Bound Ally card in play. For each Ally that you cannot discard (because the deck is empty), increase the terror level by 1.",
+"description":"\nDiscard 1 Ally from the Ally deck for each Bound Ally card in play. For each Ally that you cannot discard (because the deck is empty), increase the terror level by 1."
 },
 {
-"name":"U",
+"name":"Uncertain Future",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=UncertainFutureReckoning.png",
-"description":"\nShuffle the Reckoning deck and its discard pile together (including this card), then draw a new Reckoning card.",
+"description":"\nShuffle the Reckoning deck and its discard pile together (including this card), then draw a new Reckoning card."
 },
 {
-"name":"U",
+"name":"Unsettling Aura",
 "expansion":"The Lurker at the Threshold",
 "image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=UnsettlingAuraReckoning.png",
-"description":"\nIf the total Power possessed by the investigators as a group is greater than the total number of investigators in the game, increase the terror level by 1.",
-},
-]
+"description":"\nIf the total Power possessed by the investigators as a group is greater than the total number of investigators in the game, increase the terror level by 1."
+}]

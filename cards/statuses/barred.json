@@ -3,62 +3,61 @@
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromDowntownBack.png",
 "image":"/File%3ABarredFromDowntown.png",
-"description":"\nMove to the street when you receive this card.  You may not enter any Downtown locations during the Movement phase except those with open gates.\nYou may enter Downtown locations via other means during other phases (for instance, as a result of an Arkham encounter or when being sent to Arkham Asylum).\nDiscard this card if the terror level increases.",
+"description":"\nMove to the street when you receive this card.  You may not enter any Downtown locations during the Movement phase except those with open gates.\nYou may enter Downtown locations via other means during other phases (for instance, as a result of an Arkham encounter or when being sent to Arkham Asylum).\nDiscard this card if the terror level increases."
 },
 {
 "name":"Barred from Easttown",
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromEasttownBack.png",
 "image":"/File%3ABarredFromEasttown.png",
-"description":"\nYou may not enter any Easttown locations during the Movement phase unless they have gates.\nYou may enter Easttown locations via other means during other phases (for instance, as a result of an Arkham encounter or when being arrested.\nDiscard this card if the terror level increases.",
+"description":"\nYou may not enter any Easttown locations during the Movement phase unless they have gates.\nYou may enter Easttown locations via other means during other phases (for instance, as a result of an Arkham encounter or when being arrested.\nDiscard this card if the terror level increases."
 },
 {
 "name":"Barred from French Hill",
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromFrenchHillBack.png",
 "image":"/File%3ABarredFromFrenchHill.png",
-"description":"\nMove to the street when you receive this card.  You may not enter any French Hill locations during the Movement phase except those with open gates.\nYou may enter French Hill locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases.",
+"description":"\nMove to the street when you receive this card.  You may not enter any French Hill locations during the Movement phase except those with open gates.\nYou may enter French Hill locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases."
 },
 {
 "name":"Barred from Merchant District",
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromMerchantDistrictB.png",
 "image":"/File%3ABarredFromMerchantDistrict.png",
-"description":"\nMove to the street when you receive this card.  You may not enter any Merchant District locations during the Movement phase except those with open gates.\nYou may enter Merchant District locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases.",
+"description":"\nMove to the street when you receive this card.  You may not enter any Merchant District locations during the Movement phase except those with open gates.\nYou may enter Merchant District locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases."
 },
 {
 "name":"Barred from Miskatonic U.",
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromMikatonicUBack.png",
 "image":"/File%3ABarredFromMiskatonicU.png",
-"description":"\nMove to the street when you receive this card.  You may not enter any Miskatonic University locations during the Movement phase except those with open gates.\nYou may enter Miskatonic University locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases.",
+"description":"\nMove to the street when you receive this card.  You may not enter any Miskatonic University locations during the Movement phase except those with open gates.\nYou may enter Miskatonic University locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases."
 },
 {
 "name":"Barred from Northside",
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromNorthsideBack.png",
 "image":"/File%3ABarredFromNorthside.png",
-"description":"\nMove to the street when you receive this card.  You may not enter any Northside locations during the Movement phase except those with open gates.\nYou may enter Northside locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases.",
+"description":"\nMove to the street when you receive this card.  You may not enter any Northside locations during the Movement phase except those with open gates.\nYou may enter Northside locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases."
 },
 {
 "name":"Barred from Rivertown",
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromRivertownBack.png",
 "image":"/File%3ABarredFromRivertown.png",
-"description":"\nMove to the street when you receive this card.  You may not enter any Rivertown locations during the Movement phase except those with open gates.\nYou may enter Rivertown locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases.",
+"description":"\nMove to the street when you receive this card.  You may not enter any Rivertown locations during the Movement phase except those with open gates.\nYou may enter Rivertown locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases."
 },
 {
 "name":"Barred from Southside",
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromSouthsideBack.png",
 "image":"/File%3ABarredFromSouthside.png",
-"description":"\nMove to the street when you receive this card.  You may not enter any Southside locations during the Movement phase except those with open gates.\nYou may enter Southside locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases.",
+"description":"\nMove to the street when you receive this card.  You may not enter any Southside locations during the Movement phase except those with open gates.\nYou may enter Southside locations via other means during other phases (for instance, as a result of an Arkham encounter or when returning from being Lost in Time and Space).\nDiscard this card if the terror level increases."
 },
 {
 "name":"Barred from Uptown",
 "expansion":"Curse of the Dark Pharaoh",
 "image_back":"/File%3ABarredFromUptownBack.png",
 "image":"/File%3ABarredFromUptown.png",
-"description":"\nMove to the street when you receive this card.  You may not enter any Uptown locations during the Movement phase except those with open gates.\nYou may enter Uptown locations via other means during other phases (for instance, as a result of an Arkham encounter or when being sent to St. Mary's Hospital).\nDiscard this card if the terror level increases.",
-},
-]
+"description":"\nMove to the street when you receive this card.  You may not enter any Uptown locations during the Movement phase except those with open gates.\nYou may enter Uptown locations via other means during other phases (for instance, as a result of an Arkham encounter or when being sent to St. Mary's Hospital).\nDiscard this card if the terror level increases."
+}]
