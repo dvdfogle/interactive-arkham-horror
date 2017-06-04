@@ -1,0 +1,103 @@
+[{
+"name":"The Best of Friends",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=TheBestOfFriendsRelationship.png",
+"description":"If you or your partner are in the same neighborhood, either of you may exhaust this card before making a check to gain +1 on that check. If the Ancient One has awakened, this card may not be used.",
+},
+{
+"name":"Business Associates",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=BusinessAssociatesRelationship.png",
+"description":"After the initial setup, any time either you or your partner gains $1 or more (from any game effect other than this card), the other gains $1.",
+},
+{
+"name":"Collectors",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=CollectorsRelationship.png",
+"description":"After the initial setup, any time either you or your partner gains 1 or more Common Items or Unique Items (from any game effect other than this card), the other may draw a random card of the same type and purchase it for the list price.",
+},
+{
+"name":"Courageous Inspirations",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=CourageousInspirationsRelationship.png",
+"description":"Either you or your partner may exhaust this card before making a Horror check to gain a +1 to the check.",
+},
+{
+"name":"Fellow Travelers",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=FellowTravelersRelationship.png",
+"description":"Either you or your partner may exhaust this card to gain 1 extra movement point.",
+},
+{
+"name":"Friendly Rivals",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=FriendlyRivalsRelationship.png",
+"description":"Between you and your partner, the investigator with fewer monster trophies gains a +1 on Combat checks, and the investigator with fewer Gate trophies gains a +1 on Fight or Lore checks to close Gates. There is no effect in the case of ties.",
+},
+{
+"name":"Hunters",
+"expansion":"Miskatonic Horror",
+"description":"When you or your partner are in the same neighborhood, either of you may exhaust this card before making a Combat check against a monster to reduce its toughness by 1 (to a minimum of 1) during this Combat check.",
+},
+{
+"name":"I'll Vouch for My Friend",
+"expansion":"Miskatonic Horror",
+"description":"After the initial setup, each time you or your partner gains a Bank Loan, Retainer, Silver Twilight Lodge Membership, Sheldon Gang Membership, Rail Pass, or \"One of the Thousand\" Cult Membership, the other may choose to take a card of the same type if he does not already have one.",
+},
+{
+"name":"Keen Analysts",
+"expansion":"Miskatonic Horror",
+"description":"If you or your partner are in the same location or street area and you both have at least 2 Clue tokens, either of you may exhaust this card to gain 1 Clue token.",
+},
+{
+"name":"Members of the Book Club",
+"expansion":"Miskatonic Horror",
+"description":"Anytime either you or your partner attempts to use a Tome (other than as a result of this card), the other may immediately attempt to use the same Tome, even if it has been exhausted or discarded.",
+},
+{
+"name":"Mystic Knights",
+"expansion":"Miskatonic Horror",
+"description":"Any time either you or your partner passes a Spell check with 2 or more successes, the casting investigator may exhaust this card. If he does so, you and your partner each gain 1 Sanity.",
+},
+{
+"name":"Practitioners of the Art",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=PracticionersOfTheArtRelationship.png",
+"description":"Whenever you or your partner casts a Spell, either or both of you may contribute toward paying the Sanity cost.\nEither you or your partner may exhaust this card before making a Spell check to gain a +1 to the check.",
+},
+{
+"name":"Skullcrackers",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=SkullcrackersRelationship.png",
+"description":"Either you or your partner may exhaust this card before making a Combat check to gain a +1 to the check.",
+},
+{
+"name":"Socially Connected",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=SociallyConnectedRelationship.png",
+"description":"After the initial setup, any time either you or your partner gains an Ally (from any game effect other than this card), the other draws an Ally at random from the Ally deck. If he currently has no Allies, he keeps it. If he does have one or more Allies, he keeps it and then chooses one of his Allies to reshuffle back into the Ally deck.",
+},
+{
+"name":"Students of the Arcane",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=StudentsOfTheArcaneRelationship.png",
+"description":"After the initial setup, any time either you or your partner gains a Spell (from any game effect other than this card),  the other draws a random Spell from the Spell deck.",
+},
+{
+"name":"Survivors",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=SurvivorsRelationship.png",
+"description":"Either you or your partner may exhaust this card before making an Evade check to gain a +1 to the check.",
+},
+{
+"name":"Take Me Instead",
+"expansion":"Miskatonic Horror",
+"description":"While you and your partner are in the same location or street area, anytime either of you loses Sanity, loses Stamina, or is arrested, Cursed, or delayed, the other may choose to suffer the effects instead. If the Ancient One has been awakened, this card may not be used.",
+},
+{
+"name":"World Ain't Big Enough for Us",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=WorldAintBigEnoughForUsRelationship.png",
+"description":"If you or your partner is in an Other World location, either of you may exhaust this card before making a check to gain +1 on that check. If the Ancient One has awakened, this card may not be used.",
+},
+]

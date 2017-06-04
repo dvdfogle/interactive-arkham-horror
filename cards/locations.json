@@ -1,0 +1,400 @@
+[{
+"name":"607 Water St.",
+"expansion":"Kingsport Horror",
+"neighborhood":"Harborside",
+"stability":"Stable",
+"filename":"607_water_st"
+},
+{
+"name":"7th House on the Left",
+"expansion":"Kingsport Horror",
+"neighborhood":"Central Hill",
+"stability":"Stable",
+"filename":"7th_house_on_the_left"
+},
+{
+"name":"Administration Building",
+"expansion":"",
+"neighborhood":"Miskatonic University",
+"stability":"Stable",
+"filename":"administration_building"
+},
+{
+"name":"Arkham Asylum",
+"expansion":"",
+"neighborhood":"Downtown",
+"stability":"Stable",
+"filename":"arkham_asylum"
+},
+{
+"name":"Artists' Colony",
+"expansion":"Kingsport Horror",
+"neighborhood":"South Shore",
+"stability":"Stable",
+"filename":"artists_colony"
+},
+{
+"name":"Bank of Arkham",
+"expansion":"",
+"neighborhood":"Downtown",
+"stability":"Stable",
+"filename":"bank_of_arkham"
+},
+{
+"name":"Bishop's Brook Bridge",
+"expansion":"Dunwich Horror",
+"neighborhood":"Village Commons",
+"stability":"Stable",
+"filename":"bishops_brook_bridge"
+},
+{
+"name":"Black Cave",
+"expansion":"",
+"neighborhood":"Rivertown",
+"stability":"Unstable",
+"filename":"black_cave"
+},
+{
+"name":"Cold Spring Glen",
+"expansion":"Dunwich Horror",
+"neighborhood":"Backwoods Country",
+"stability":"Unstable",
+"filename":"cold_spring_glen"
+},
+{
+"name":"Congregational Hospital",
+"expansion":"Kingsport Horror",
+"neighborhood":"Central Hill",
+"stability":"Stable",
+"filename":"congregational_hospital"
+},
+{
+"name":"Curiositie Shoppe",
+"expansion":"",
+"neighborhood":"Northside",
+"stability":"Stable",
+"filename":"curiositie_shoppe"
+},
+{
+"name":"Darke's Carnival",
+"expansion":"Dunwich Horror",
+"neighborhood":"Village Commons",
+"stability":"Stable",
+"filename":"darkes_carnival"
+},
+{
+"name":"Devil Reef",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Innsmouth Shore",
+"stability":"Unstable",
+"filename":"devil_reef"
+},
+{
+"name":"Devil's Hopyard",
+"expansion":"Dunwich Horror",
+"neighborhood":"Blasted Heath",
+"stability":"Unstable",
+"filename":"devils_hopyard"
+},
+{
+"name":"Dunwich Village",
+"expansion":"Dunwich Horror",
+"neighborhood":"Village Commons",
+"stability":"Stable",
+"filename":"dunwich_village"
+},
+{
+"name":"Esoteric Order of Dagon",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Church Green",
+"stability":"Unstable",
+"filename":"esoteric_order_of_dagon"
+},
+{
+"name":"Falcon Point",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Innsmouth Shore",
+"stability":"Stable",
+"filename":"falcon_point"
+},
+{
+"name":"First National Grocery",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Factory District",
+"stability":"Stable",
+"filename":"first_national_grocery"
+},
+{
+"name":"Gardners' Place",
+"expansion":"Dunwich Horror",
+"neighborhood":"Blasted Heath",
+"stability":"Unstable",
+"filename":"gardners_place"
+},
+{
+"name":"General Store",
+"expansion":"",
+"neighborhood":"Rivertown",
+"stability":"Stable",
+"filename":"general_store"
+},
+{
+"name":"Gilman House Hotel",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Factory District",
+"stability":"Stable",
+"filename":"gilman_house_hotel"
+},
+{
+"name":"Graveyard",
+"expansion":"",
+"neighborhood":"Rivertown",
+"stability":"Unstable",
+"filename":"graveyard"
+},
+{
+"name":"Hall School",
+"expansion":"Kingsport Horror",
+"neighborhood":"South Shore",
+"stability":"Stable",
+"filename":"hall_school"
+},
+{
+"name":"Harney Jones' Shack",
+"expansion":"Dunwich Horror",
+"neighborhood":"Blasted Heath",
+"stability":"Stable",
+"filename":"harney_jones_shack"
+},
+{
+"name":"Hibb's Roadhouse",
+"expansion":"",
+"neighborhood":"Easttown",
+"stability":"Unstable",
+"filename":"hibbs_roadhouse"
+},
+{
+"name":"Historical Society",
+"expansion":"",
+"neighborhood":"Southside",
+"stability":"Unstable",
+"filename":"historical_society"
+},
+{
+"name":"Independence Square",
+"expansion":"",
+"neighborhood":"Downtown",
+"stability":"Unstable",
+"filename":"independence_square"
+},
+{
+"name":"Inner Sanctum",
+"expansion":"",
+"neighborhood":"French Hill",
+"stability":"",
+"filename":"inner_sanctum"
+},
+{
+"name":"Innsmouth Jail",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Church Green",
+"stability":"Stable",
+"filename":"innsmouth_jail"
+},
+{
+"name":"Jail Cell",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Church Green",
+"stability":"",
+"filename":"jail_cell"
+},
+{
+"name":"Library",
+"expansion":"",
+"neighborhood":"Miskatonic University",
+"stability":"Stable",
+"filename":"library"
+},
+{
+"name":"Ma's Boarding House",
+"expansion":"",
+"neighborhood":"Southside",
+"stability":"Stable",
+"filename":"mas_boarding_house"
+},
+{
+"name":"Marsh Refinery",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Factory District",
+"stability":"Unstable",
+"filename":"marsh_refinery"
+},
+{
+"name":"Neil's Curiosity Shop",
+"expansion":"Kingsport Horror",
+"neighborhood":"South Shore",
+"stability":"Stable",
+"filename":"neils_curiosity_shop"
+},
+{
+"name":"Newspaper",
+"expansion":"",
+"neighborhood":"Northside",
+"stability":"Stable",
+"filename":"newspaper"
+},
+{
+"name":"North Point Lighthouse",
+"expansion":"Kingsport Horror",
+"neighborhood":"Harborside",
+"stability":"Stable",
+"filename":"north_point_lighthouse"
+},
+{
+"name":"Police Station",
+"expansion":"",
+"neighborhood":"Easttown",
+"stability":"Stable",
+"filename":"police_station"
+},
+{
+"name":"River Docks",
+"expansion":"",
+"neighborhood":"Merchant District",
+"stability":"Stable",
+"filename":"river_docks"
+},
+{
+"name":"Science Building",
+"expansion":"",
+"neighborhood":"Miskatonic University",
+"stability":"Unstable",
+"filename":"science_building"
+},
+{
+"name":"Silver Twilight Lodge",
+"expansion":"",
+"neighborhood":"French Hill",
+"stability":"Unstable",
+"filename":"silver_twilight_lodge"
+},
+{
+"name":"South Church",
+"expansion":"",
+"neighborhood":"Southside",
+"stability":"Stable",
+"filename":"south_church"
+},
+{
+"name":"St. Erasmus's Home",
+"expansion":"Kingsport Horror",
+"neighborhood":"Central Hill",
+"stability":"Stable",
+"filename":"st_erasmuss_home"
+},
+{
+"name":"St. Mary's Hospital",
+"expansion":"",
+"neighborhood":"Uptown",
+"stability":"Stable",
+"filename":"st_marys_hospital"
+},
+{
+"name":"Strange High House",
+"expansion":"Kingsport Horror",
+"neighborhood":"Kingsport Head",
+"stability":"Stable",
+"filename":"strange_high_house"
+},
+{
+"name":"The Causeway",
+"expansion":"Kingsport Horror",
+"neighborhood":"Kingsport Head",
+"stability":"Stable",
+"filename":"the_causeway"
+},
+{
+"name":"The Rope and Anchor",
+"expansion":"Kingsport Horror",
+"neighborhood":"Harborside",
+"stability":"Stable",
+"filename":"the_rope_and_anchor"
+},
+{
+"name":"The Unnamable",
+"expansion":"",
+"neighborhood":"Merchant District",
+"stability":"Unstable",
+"filename":"the_unnamable"
+},
+{
+"name":"The Witch House",
+"expansion":"",
+"neighborhood":"French Hill",
+"stability":"Unstable",
+"filename":"the_witch_house"
+},
+{
+"name":"Train Station",
+"expansion":"",
+"neighborhood":"Northside",
+"stability":"Stable",
+"filename":"train_station"
+},
+{
+"name":"Unvisited Isle",
+"expansion":"",
+"neighborhood":"Merchant District",
+"stability":"Unstable",
+"filename":"unvisited_isle"
+},
+{
+"name":"Velma's Diner",
+"expansion":"",
+"neighborhood":"Easttown",
+"stability":"Stable",
+"filename":"velmas_diner"
+},
+{
+"name":"Whateley Farm",
+"expansion":"Dunwich Horror",
+"neighborhood":"Backwoods Country",
+"stability":"Unstable",
+"filename":"whateley_farm"
+},
+{
+"name":"Wireless Station",
+"expansion":"Kingsport Horror",
+"neighborhood":"Kingsport Head",
+"stability":"Stable",
+"filename":"wireless_station"
+},
+{
+"name":"Wizard's Hill",
+"expansion":"Dunwich Horror",
+"neighborhood":"Backwoods Country",
+"stability":"Unstable",
+"filename":"wizards_hill"
+},
+{
+"name":"Woods",
+"expansion":"",
+"neighborhood":"Uptown",
+"stability":"Unstable",
+"filename":"woods"
+},
+{
+"name":"Y'ha-nthlei",
+"expansion":"Innsmouth Horror",
+"neighborhood":"Innsmouth Shore",
+"stability":"Unstable",
+"filename":"yha-nthlei"
+},
+{
+"name":"Ye Olde Magick Shoppe",
+"expansion":"",
+"neighborhood":"Uptown",
+"stability":"Stable",
+"filename":"ye_olde_magick_shoppe"
+},
+]

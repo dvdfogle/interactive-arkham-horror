@@ -1,0 +1,152 @@
+import threading
+import requests
+from bs4 import BeautifulSoup
+
+class FetchThread(threading.Thread):
+	def __init__(self, item_list):
+		threading.Thread.__init__(self)
+		self.list = item_list
+		self.results = ""
+	
+	def run(self):
+		for (name, url, exp, count) in self.list:
+			page = requests.get(url)
+			source = page.content
+			self.results += self.gatherDetails(name, exp, count, BeautifulSoup(source, "html.parser"))
+			self.results += "},\n"
+
+	def gatherDetails(self, name, exp, count, soup):
+		results = '{{\n"name":"{}",\n"expansion":"{}",\n"count":{},\n'.format(cleanUp(name),
+																			  exp,
+																			  cleanUp(count))
+		
+		start = soup.find('div', id='bodyContent')
+		try:
+			image = start.find_next(imageLink)
+			results += '"image":"{}",\n'.format(image["href"])
+		except:
+			print('Could not find image for ' + name)
+		
+		start = soup.find('span', string='Card info')
+		try:
+			cast = start.find_next('p')
+			temp = nextNotWhitespace(cast.find('b'))
+			results += '"casting_modifier":{},\n'.format(cleanUp(temp))
+		except:
+			print('Could not find casting modifier for ' + name)
+		
+		try:
+			cost = cast.find_next('p')
+			temp = nextNotWhitespace(cost.find('b'))
+			results += '"sanity_cost":{},\n'.format(cleanUp(temp))
+		except:
+			print('Could not find sanity cost for ' + name)
+		
+		try:
+			desc = cost.find_next('p')
+			temp = desc.text
+			runon = findRunOn(desc)
+			while runon:
+				if runon.find('ul'):
+					for tag in runon.find_all('li'):
+						if 'Price' in tag.text:
+							pass
+						temp += '\\n'+cleanUp(tag.text)
+				elif 'Price' not in runon.text:
+					temp += '\\n'+runon.text.strip()
+				runon = findRunOn(runon)
+			results += '"description":"{}",\n'.format(temp)
+		except Exception as e:
+			print('Could not find description for ' + name)
+			results += '"description":"{}",\n'.format(temp)
+			print(temp)
+		
+		return results
+
+
+def nextNotWhitespace(tag):
+	for t in tag.next_siblings:
+		try:
+			if t.isspace():
+				pass
+			else:
+				return t
+		except:
+			if t is None:
+				pass
+			else:
+				return t
+
+def imageLink(tag):
+	return tag.name == "a" and ('.png' in tag['href'] or '.jpg' in tag['href'])
+				
+def nextNotWhitespace(tag):
+	for t in tag.next_siblings:
+		try:
+			if t.isspace():
+				pass
+			else:
+				return t
+		except:
+			if t is None:
+				pass
+			else:
+				return t
+				
+def findRunOn(tag):
+	sibling = nextNotWhitespace(tag)
+	if sibling.name == "p" or sibling.name == "a":
+		return sibling
+	else:
+		return False
+		
+def getItemList(soup, base_url):
+	start = soup.find(id="List_of_spells").parent
+	table = nextNotWhitespace(start)
+	rows = table.find_all("tr")
+	details = [row.find_all("td") for row in rows]
+	return_list = []
+	for row in details[1:]:
+		item = row[0].find("a")
+		exp_img = row[-2].find("a")
+		return_list.append((item.text,
+							base_url+item["href"],
+							exp_img["title"] if exp_img else "",
+							row[-1].text))
+	return return_list
+
+def cleanUp(text):
+	step1 = text.strip()
+	step1 = step1.replace('"', '\\"')
+	step1 = step1.replace(': ', '')
+	return step1
+
+base_url = "http://www.arkhamhorrorwiki.com"
+page = requests.get(base_url + "/Spell")
+page.encoding = "ISO-8859-1"
+source_soup = BeautifulSoup(page.text, "html.parser")
+unique_items = getItemList(source_soup, base_url)
+
+threads = []
+numThreads = 3
+threadLength = len(unique_items)//numThreads
+start = 0
+for i in range(0,numThreads):
+	thread = FetchThread(unique_items[start:start+threadLength])
+	thread.start()
+	threads.append(thread)
+	start += threadLength
+thread = FetchThread(unique_items[start:])
+thread.start()
+threads.append(thread)
+
+for t in threads:
+	t.join()
+
+inv_json = "["
+for t in threads:
+	inv_json += t.results
+inv_json += "]"
+
+with open("spells.json", "w", encoding="utf8") as outfile:
+	outfile.write(inv_json)
