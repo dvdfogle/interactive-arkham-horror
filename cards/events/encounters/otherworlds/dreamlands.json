@@ -1,0 +1,401 @@
+[{
+"expansion":"Kingsport Horror",
+"encounter":"\"And whosoever perseveres in delving its secrets,\" reads the faded scripture, \"will learn untold mysteries.\" You are delayed, but take a Clue token.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"\"We claim this as our own,\" the ghouls demand, \"or we shall pain you greatly.\" Discard a Tome or lose 2 Stamina and 1 Sanity.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"A band of pirates attack! Make a Fight (+0) [2] check. If you fail, lose 1 Stamina and discard one item of your choosing. If you pass, you steal their ship and return to Arkham!",
+"check":"Fight +0 [2]"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"A bored cat challenges you to a riddle contest. Make a Lore (+0) [2] check. If you pass, the cat leads you to a cache containing 1 Unique Item. If you fail, you are delayed.",
+"check":"Lore +0 [2]"},
+{
+"expansion":"The King in Yellow",
+"encounter":"A cat brushes against your leg and meows. Regain 1 Sanity.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"A cat offers you some advice. Make a Lore (-1) check to see how well you interpret it. Gain 1 Clue token for each success. If you fail the check, lose 1 Sanity for taking a cat's advice.",
+"check":"Lore -1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"A craftsman offers you some of his wares. The quality is excellent but the prices seem high. Draw 2 Common Items. You may purchase one of them for $1 more than the list price. Discard any items not purchased.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"A powerful wind scours away your memories, good and bad. Discard all of the following: Blessing, Curse, Detriment cards, and Benefit cards.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"A squat little creature offers to serve as your guide. Make a Luck (+1) check and consult the chart below:Successes:\n0) Lost in time and space\n1) Move to the Abyss\n2) Move to the Plateau of Leng\n3+) Return to Arkham",
+"check":"Luck +1"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"A strange man in a turban tells you, \"In Dylath-Leen, they will exchange anything for a ruby such as this.\" If you take the ruby, search the Unique Item deck for a card of your choice, but then you lose 3 Sanity and are Cursed.",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"A terrible storm strikes the ship which carries you. Pass a Fight (-2) check or lose 2 Stamina.",
+"check":"Fight -2"},
+{
+"expansion":"",
+"encounter":"A thief attempts to rob you. Pass a Sneak (+0) check to notice him. If you fail, lose half your items (your choice) and half your money (rounded up).",
+"check":"Sneak +0"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"A very wise old man sits in a temple offering useful but cryptic advice. Make a Lore (-2) check and gain a Clue token for each success.",
+"check":"Lore -2"},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"After meditating, you are prepared to try dreaming up an object. You may search either the Common Item or Unique Item deck for an item of your choice. However, after you've selected an item, roll a die and add the result to the item's list price. Lose a number of points of Sanity and/or Stamina equal to the total, divided however you like. If you are reduced to 0 Sanity or Stamina, the strain is too great, and you tear yourself apart. You are devoured.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"All things of which humanity dreams are here. Pass a Luck (+0) check to gain $1 per success rolled. If you fail, lose 1 Sanity.",
+"check":"Luck +0"},
+{
+"expansion":"",
+"encounter":"As you are climbing the cliffs in the underworld, your pocket gets caught and tears open. Pass a Speed (-1) check or lose all your money.",
+"check":"Speed -1"},
+{
+"expansion":"",
+"encounter":"At the south gate of Thran, you are stopped by a red-robed sentry until you can tell three dreams beyond belief. Pass a Luck (-1) check to tour the golden spires of Thran, gaining 2 Clue tokens in the process. If you fail, stay here next turn.",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"Avalanche! Pass a Speed (-1) check or lose 3 Stamina.",
+"check":"Speed -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Bandits with hooves and horns set upon you! Make a Fight (-2) check to beat them off or lose 2 Items of your choice.",
+"check":"Fight -2"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Cresting the hill, you come across a sight that is intended only for you, and it fills your heart with joy. Either restore your Sanity to its maximum value or discard one of your Madness cards.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Even in such a strange locale, banditry is ever the same. Pay $2, or discard your most expensive item. If several equally expensive items qualify, choose one of them to discard.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Even mind and memory stumble on such strange ground. Pass a Luck (-1) check or lose a Spell.",
+"check":"Luck -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Exhilerated- and drenched!- by sea-spray, it's an effort of resolve to keep all that you have learned in mind. Pass a Will (-2) check or discard all but four of your Clue tokens.",
+"check":"Will -2"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"From this strange mindscape you can see into the dreams of those sleeping in Arkham. Make a Speed (-1) check. If you pass, you catch the delicate wisps of their thoughts, and gain 2 Clue tokens. If you fail, their slumbering minds lash out at you, and you lose 2 Sanity.",
+"check":"Speed -1"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"Ghouls have feasted here and left behind a grisly mess. Pass a Will (-2) check or lose 2 Sanity.",
+"check":"Will -2"},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"Halfway up the mountains, you come across a dark cave. Do you venture inside, or continue toward the golden city you saw atop the peak?If you enter the cave, make a Luck (-2) check. If you pass, the cave wall has a glowing inscription on it. As you read it, it burns itself into your mind, and then you find yourself home once more. Draw 1 Spell, then return to Arkham. If you fail, a monster lurks in the cave.If you continue to climb, pass a Fight (-2) check to reach the top, where an order of monks teach you their secrets. Draw 1 Skill. If you fail, you fall and are lost in time and space.",
+"check":"Luck -2ORFight -2"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"Have an encounter at a location of your choice in Arkham, then return here. If you wish, you may pass a Luck (-1) check to realize that it was all a dream, and negate any Sanity or Stamina loss as a result of that encounter.",
+"check":"Luck -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"Have an encounter at a location of your choice in Arkham, then return to the Dreamlands.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"Hearing an unwholesome flapping from above, you press yourself into the shadows. A nightgaunt flies overhead, not noticing you, and drops a sheet of parchment. Draw 1 Spell.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"Humans are not the only creatures to dream. Make a Speed (-1) check. If you pass, a monster appears. If you fail, a monster surprises you.",
+"check":"Speed -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"If humans dream of monsters, do monsters dream of us? A monster surprises you, but seems terrified by your very humanity. Make a Will (-1) check. For each success you roll, you gain a +1 to all checks during this combat.",
+"check":"Will -1"},
+{
+"expansion":"",
+"encounter":"In the valley of Pnoth, where the dholes crawl and burrow nastily, you hear a slithering among the mountains of bone. Make a Sneak (-1) check. If you fail, you are devoured. If you pass, gain 3 Clue tokens and return immediately to Arkham.",
+"check":"Sneak -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"It's lovely here, and perfect... so perfect you might stay forever. Make a Will (+3) check. If you pass, gain 2 Sanity. If you fail, you are devoured.",
+"check":"Will +3"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"King Kurantes would like a souvenir. If you have a Common Item, you may trade it to him for 2 Clue tokens. If not, nothing happens.",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"Looking over the lake of Yath and taking in the fragrent air, you find yourself comforted. Gain 1 Sanity.",
+"check":""},
+{
+"expansion":"",
+"encounter":"Make a Luck (-1) check. If you pass, then, waving goodbye, the happy villagers bestow a gift upon you. Draw 1 Common Item.",
+"check":"Luck -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"Make a Will (-1) check. If you pass, you view the dreams around you with an objective eye: Gain 2 Clue tokens. If you fail, the dreams are not so easily forgotten: Take the Harried card.",
+"check":"Will -1"},
+{
+"expansion":"The King in Yellow",
+"encounter":"Make a Will (-2) check to whisper to a sleeper in his dreams. If you pass, one investigator in Arkham of your choice gains Clue tokens equal to the number of successes you rolled.",
+"check":"Will -2"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Maybe you shouldn't have eaten that strangely-colored fruit. Lose 1 Sanity, then make a Fight (-1) check. If you fail, lose 2 Stamina.",
+"check":"Fight -1"},
+{
+"expansion":"The King in Yellow",
+"encounter":"Others' nightmares are not meant to be witnessed, even indirectly. Lose either 2 Sanity or 1 Stamina.",
+"check":""},
+{
+"expansion":"",
+"encounter":"Pass a Lore (+0) check to fight off your desire to sleep. If you fail, you freeze in the night. You are lost in time and space. If you succeed, return to Arkham.",
+"check":"Lore +0"},
+{
+"expansion":"",
+"encounter":"Pass a Luck (+0) check or stumble into a spider's web. Lose 2 Sanity and stay here next turn while struggling to get free.",
+"check":"Luck +0"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Pass a Luck (-1) check to be permitted an audience with King Kuranes. He tells you of many things of importance in the Dreamlands. Gain 2 Clue tokens.",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"Pass a Luck (-1) check to chance across one of the little red singing birds of Celephais. Its song brings solace and strength to your heart. Restore your Sanity and Stamina to their maximum values.",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"Pass a Luck (-1) check to come across a riding zebra and save some traveling time. If you are in the first area of the Dreamlands, move to the second area. If you are in the second area, return to Arkham.",
+"check":"Luck -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Pass a Luck (-2) check to meet the dreamself of a familiar face from Arkham: Joey \"the Rat\". Draw 3 Common Items and purchase any of them for $1 less than their listed prices. Discard any you don't buy.",
+"check":"Luck -2"},
+{
+"expansion":"",
+"encounter":"Pass a Will (-1) check to convince the Rulers of Rokol to share their wealth with you. If so, roll two dice and add them together. Gain that much money.",
+"check":"Will -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Pass a Will (-1) check to gain 1 Common Item from traveling merchants.",
+"check":"Will -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Sensing that fortune favors you, the Sages among Zoog-kind in the Enchanted Wood turn their attention to your troubles. If you are Blessed, gain the Young Zoog Ally card, or take 5 Clue tokens if it is unavailable.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Something small bites you and flies away. Lose 1 Stamina.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"Staring into the depths of the river, you know that you can go no further today. You are delayed.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Stopping awhile in the town of Inganok, you are presented with a small onyx statue said to bring luck. You are Blessed.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"The ghouls show you a secret tunnel under the graveyard. Return to Arkham, but lose 1 Sanity.",
+"check":""},
+{
+"expansion":"",
+"encounter":"The golden city of your dreams is threatening to become an obsession. Pass a Luck (-1) check or stay here next turn to hunt for it.",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"The ice bridge begins to crack. Pass a Luck (-1) check or fall into the icy depths. If you fall, you are lost in time and space.",
+"check":"Luck -1"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"The inhuman ghosts of Sarnath grope and grasp at your flesh as you run through the city in terror. Pass a Will (-1) check or lose 2 Sanity.",
+"check":"Will -1"},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"The light filtering down through the forest trees is fading rapidly, but the clearing gives you an uneasy feeling. Camp here or press on in the dark?If you camp, a monster attacks you as you settle down for the night. You automatically fail any Evade checks you make against this monster. However, if you defeat it, draw your choice of 1 Spell, 2 Common Items, or 1 Unique Item.If you press on into the night, you get lost in the woods. You are delayed.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"The light of the moon seems to bend and twist the night around you into fearsome shapes. Pass a Will (-2) check or lose 1 Sanity and 1 Stamina.",
+"check":"Will -2"},
+{
+"expansion":"The King in Yellow",
+"encounter":"The man in the corner asks you for a match. You can tell right away, he's not ordinary. Pass a Will (-2) check to be Blessed.",
+"check":"Will -2"},
+{
+"expansion":"",
+"encounter":"The meeping of the ghouls in the tunnels echoes in your ears. Pass a Will (-2) check or lose 2 Sanity.",
+"check":"Will -2"},
+{
+"expansion":"",
+"encounter":"The shantak claws at you as it swoops past overhead. Pass a Speed (-2) check or lose 2 Stamina as its claws rake your chest.",
+"check":"Speed -2"},
+{
+"expansion":"",
+"encounter":"The stone face reveals to you one of the deepest secrets of the Dreamlands. Pass a Lore (-1) [2] check to gain 4 Clue tokens. If you fail the check, however, the sight claims your last shred of sanity. Lose all your Sanity.",
+"check":"Lore -1 [2]"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"The voice of Nodens can be heard bellowing across the landscape. Make a Lore (-2) check to interpret his words. Gain 1 Clue token for each success you roll.",
+"check":"Lore -2"},
+{
+"expansion":"",
+"encounter":"The wind increases, and you feel your feet go numb. Pass a Fight (-1) check or lose 2 Stamina.",
+"check":"Fight -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"The zoog sages warn you that the knowledge they are willing to impart comes at a steep price, and you reconsider. You may become Cursed. If so, take 5 Clue tokens.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"The zoogs and the cats are at war! You must choose. Either side with the zoogs and make a Sneak (-1) check or side with the cats and make a Fight (-1) check. If you fail your check, lose 2 Stamina.",
+"check":"Sneak -1ORFight -1"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"The Zoogs are making so much noise you don't hear the other creatures in this forest. A monster appears. Treat this monster as if it had the Ambush special ability.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Their caravan passes into the trackless desert, leaving you lighter of step but wiser. If you wish, you may discard any number of your items, taking a Clue token for each.",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"Time passes differently in the Dreamlands, and you've needed to learn a few things to survive. Gain 1 Skill.",
+"check":""},
+{
+"expansion":"",
+"encounter":"Touring the perfumed jungles of Kied, you come across an ancient ivory palace. Pass a Luck (-1) check to explore it without getting caught. Draw 1 Spell. If you fail the check, lose 1 item of your choice.",
+"check":"Luck -1"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"While lost at sea, you are overjoyed to see the twin lighthouses Thon and Thal, and you know that you have come to the island of Oriab. Gain 1 Sanity.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"While trudging through the rocky terrain, a stone slips out from under your foot. Pass a Luck (-1) check or you tumble to the bottom of the hill. If you are in the second area of the Dreamlands, move to the first area. If you are in the first area, stay here next turn.",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"While wandering the phosphorescent woods, you are surrounded by hungry zoogs! Make a Luck (-2) check. If you pass, they take a liking to you and give you a gourd of moon-tree wine. Gain 1 Sanity and 1 Clue token. If you fail, the zoogs close in around you, their teeth gleaming. You are lost in time and space.",
+"check":"Luck -2"},
+{
+"expansion":"The King in Yellow",
+"encounter":"You are reunited with your relatives in a pleasant dream. Regain your choice of either 1 Sanity or 1 Stamina.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"You are surrounded by thousands of tiny blue men. Make a Will (-1) [2] check (or discard a Whiskey card to pass it automatically) to talk them out of robbing you, or lose all your Common Items. They seem oddly uninterested in your Unique Items and money.",
+"check":"Will -1 [2]"},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"You come across a small bridge across a ravine, guarded by a knight in rusted armor riding a zebra. He demands either a story or rare knowledge to let you pass.You may spend 1 gate trophy, 5 toughness worth of monster trophies, or discard 1 Skill to pass. If you do so, you are Blessed and return to Arkham.If you decline to pay the toll, the rusted knight attacks you. Pass a Combat (-3) [3] check to defeat him and cross the bridge, returning to Arkham. If you fail, he knocks you into the ravine, and you are lost in time and space.",
+"check":"Combat -3 [3]"},
+{
+"expansion":"",
+"encounter":"You come across an abandoned onyx quarry whose chiselled vacancies are so vast that it staggers your mind. Pass a Lore (-1) check to avoid awakening anything here, or else lose 3 Sanity.",
+"check":"Lore -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"You come upon the borderlands. Pass a Lore (-2) check to gain 1 Stamina and 1 Sanity and return to Arkham. If you fail, move to the Plateau of Leng and your turn ends.",
+"check":"Lore -2"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"You cross a great stone bridge and are suddenly overwhelmed with a horrifying despair. Make a Will (+0) check. If you fail, draw a Madness card.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"You drift through tranquil fields that others have created as they sleep. Pass a Sneak (-1) check to gain a Clue token.",
+"check":"Sneak -1"},
+{
+"expansion":"",
+"encounter":"You drink impure water from the River Kra. Pass a Luck (-1) check or lose 1 Stamina and stay here next turn due to illness.",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"You encounter the talking cats of Ulthar. Pass a Will (+0) check to draw 1 Spell.",
+"check":"Will +0"},
+{
+"expansion":"The King in Yellow",
+"encounter":"You end up in a childhood dream, but it now seems dark and cold. Pass a Will (-1) check or lose 2 Sanity.",
+"check":"Will -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"You find the corpses of a party of cultists. Make a Fight (-1) check to drag their bodies from the pit. If you pass, take a number of Cultists as trophies from the monster cup equal to the number of successes you rolled.",
+"check":"Fight -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"You find yourself on a rise overlooking an intricate hedge maze with a fabulous temple at its center. You may enter and make a Lore (-1) [2] check to find the center. If you pass, gain 1 Unique Item from the temple within. If you fail, stay here next turn.",
+"check":"Lore -1 [2]"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You find yourself reliving a moment in your past that you have always regretted, only this time everything goes as well as you could ever hope. Gain 2 Sanity.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"You find yourself surrounded by unblinking cats. Pass a Will (-1) check to pass by unharmed. If you fail, lose 1 Sanity.",
+"check":"Will -1"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You have inadvertantly stumbled into a dangerous area. From the shadows, a monster appears!",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You have inadvertantly stumbled into a dangerous area. From the shadows, a monster appears!",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You must face the guardian to claim your prize. A monster appears! If you defeat it, you do not collect it as a monster trophy, but you do gain 1 Unique Item.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"You see a young man weeping over a marble statue of a beautiful young woman. The curses he cries out against the gods chill your bones. Lose 1 Sanity.",
+"check":""},
+{
+"expansion":"",
+"encounter":"You see the mountains move. Lose 1 Sanity from the terror.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"You stand before the gatekeepers Nasht and Kamen-Tha. Pass a Lore (-2) check or return to Arkham, but do not receive an explored token.",
+"check":"Lore -2"},
+{
+"expansion":"The King in Yellow",
+"encounter":"You stop to smell an unusual flower in the woods, only to feel your memories fading. You must pass a Will (+0) check or discard all of your Clue tokens.",
+"check":"Will +0"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You stumble across a hidden pocket of lava. Pass a Speed (-2) check or lose 2 Stamina from the burns.",
+"check":"Speed -2"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"You stumble upon a nightmare, and must relive your past battles with horrible creatures. One of your monster trophies, chosen at random, returns to life and surprises you!",
+"check":""},
+{
+"expansion":"",
+"encounter":"You wander in the frozen wastes. No encounter.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"You wander into the Enchanted Forest. Make a Luck (-1) check. If you pass, you find succulent fruit that restores 1 Stamina. If you fail, you get lost and are delayed.",
+"check":"Luck -1"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"You've found yourself in the Fantastic Realms and the terrain twists back upon itself in physically impossible ways. Make a Will (-1) check to navigate your way out again. If you fail, lose 1 Sanity and you are delayed.",
+"check":"Will -1"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"Your zebra has run off without you. Now, you are delayed.",
+"check":""}
+]

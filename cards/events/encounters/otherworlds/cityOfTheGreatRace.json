@@ -1,0 +1,201 @@
+[{
+"expansion":"Kingsport Horror",
+"encounter":"\"Gate-portal?\" buzzes its mouths within your head. \"All time-places are gate-portals.\" You grasp at its meaning, the favor of fortune your only defense against an accidental and disastrous misunderstanding. Pass a Luck (-2) check or take this card. While you have it, your difficulty to close gates is increased by 1. Discard this card when you close a gate.",
+"check":"Luck -2"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"\"Transcribe for us every knowledge you possess regarding this object,\" buzzes the conical being. \"Disregard these others.\" Discard a Unique Item of your choice, then draw a Unique Item. If you have no Unique Items, lose all of your Clue tokens.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"A flash of insight- the method by which the members of this Great Race project themselves to the future! Choose another investigator and swap locations with him.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"A monster erupts from the ground and surprises you! You suffer a -2 to all checks against this monster, but you may discard Spells during this combat as if they were Clue tokens.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"All cities are but a reflection of Carcosa. Make a Lore (-2) check to remember the street's patterns from \"The King in Yellow.\" If you pass, you immediately return to Arkham. If you fail, you are delayed.",
+"check":"Lore -2"},
+{
+"expansion":"The King in Yellow",
+"encounter":"Alone and far from home you've struggled. Pass a Will (-2) check or lose 2 Sanity.",
+"check":"Will -2"},
+{
+"expansion":"The King in Yellow",
+"encounter":"Coming to, you find yourself strapped down to a table. One of the strange beings picks up a sharp metal instrument and brings it towards your eye. You are delayed and lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Deciding that you have to take the chance if you're to return home, you activate the strange device. Roll a die. On a success, gain 2 Clue tokens. On a failure, nothing happens.",
+"check":""},
+{
+"expansion":"",
+"encounter":"Glancing behind you, you see that the beasts are still chasing you. Pass a Speed (-1) check or be lost in time and space.",
+"check":"Speed -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"If you can just climb this bizarre structure, you think you can reach your destination! Make a Fight (-2) check to return to Arkham. If you fail, stay here next turn.",
+"check":"Fight -2"},
+{
+"expansion":"",
+"encounter":"In a flash of insight, you realize the purpose of the bladed artifact. Shivering, you put it back where you found it. Lose 1 Sanity but gain 1 Clue token.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"In this alien place, mundane objects serve to remind you that Earth still exists, somewhere, somewhen. Pass a Will (-3) check to gain 2 Sanity. You gain a +1 bonus to the check for each Common Item you have.",
+"check":"Will -3"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"In your wanderings through this city, you come across a strangely marked stone of onyx. Pass a Lore (-1) check to read it and draw 1 Spell. If you fail, stay here next turn.",
+"check":"Lore -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"It's a horrible collection of impossible things! Roll 3 dice. For each success, gain 1 Clue token. For each die that is not a success, lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Make a Luck (-1) [2] check. If you pass, one of the alien scientists imparts a great secret to you. If you have fewer than 5 Clue tokens, you gain enough to bring your total to 5. If you fail, nothing happens.",
+"check":"Luck -1 [2]"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"One of the strange creatures wants to take one of your items. Pass a Fight (-2) check to hold onto it. if you do not, choose 1 Common or Unique Item and discard it.",
+"check":"Fight -2"},
+{
+"expansion":"",
+"encounter":"Pass a Luck (-1) check to find something useful among the incomprehensible artifacts. If so, draw 1 Unique Item.",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"Sometimes, violence is the answer. Pass a Fight (-1) check to break free of your captors and return to Arkham.",
+"check":"Fight -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Somewhere in this room is something valuable! Make a Lore (-2) check to find it and draw 1 Unique Item. If you fail, lose 1 Sanity and 1 Stamina from what you do find.",
+"check":"Lore -2"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"Strange instruments of metal and glass surround you. Make a Will (-1) check. If you fail, you are delayed. If you pass, you may discard any number of Clue tokens, all at once, then draw a number of cards from the Unique Item or Exhibit Item deck equal to the total number of Clue tokens discarded. You may take one card from among those drawn, then discard the rest.",
+"check":"Will -1"},
+{
+"expansion":"The King in Yellow",
+"encounter":"The bells ring ten, eleven, then midnight. But what does time mean, here? If you Sanity is 3 or less, you are lost in time and space.",
+"check":""},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"The buzzing creature asks if you would prefer to see your past or your future.If you choose to view your past, the creature shows you a kaleidoscope of images from your life, many of which you had forgotten. Roll a die and gain that many Clue tokens.If you choose to look at your future, take this card. At any time, instead of rolling for a skill check, you may discard this card to get 3 automatic successes on that skill check.",
+"check":""},
+{
+"expansion":"",
+"encounter":"The buzzing language of your captors begins to make sense to you. Gain 2 Clue tokens. The you must pass a Luck (-1) check to avoid hearing about the origins of mankind and thereby lose 2 Sanity.",
+"check":"Luck -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"The conical beings here try to speak to you. Make a Lore (-2) check. If you fail, you are delayed. If you pass, you learn that they are enemies of the Ancient Ones; gain 3 Clue tokens.",
+"check":"Lore -2"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"The conical creatures wish you to return an item to your own world. They have no need for it. Gain $3.",
+"check":""},
+{
+"expansion":"",
+"encounter":"The conical entity tries to teach you some magic. Pass a Lore (-2) [2] check to draw 2 Spells.",
+"check":"Lore -2 [2]"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"The creature exchanges its mind with yours for a time. You may choose to lose 1 or more Sanity, gaining an equal number of Clue tokens.",
+"check":""},
+{
+"expansion":"",
+"encounter":"The hideous whistling fills your ears. Pass a Will (-1) check or lose 2 Sanity.",
+"check":"Will -1"},
+{
+"expansion":"",
+"encounter":"The odd plant has you in its clutches. Pass a Fight (-1) check to break free. If you fail, lose 1 Stamina and 1 Sanity as it partially digests you.",
+"check":"Fight -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"The thing that enters your mind is particularly intersted in your Spells.  For each Spell you have, gain 1 Clue token but lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"These beings knew of senses beyond the five you possess. If your maximum Sanity is higher than your maximum Stamina, take the Psychic card. If your maximum Stamina is higher than your maximum Sanity, take the Visions card.",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"These creatures don't want you to leave just yet. Pass a Sneak (-3) check or be delayed.",
+"check":"Sneak -3"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"They've been collecting people! Make a Lore (-2) [2] check to determine how to release the victims. If you pass, you may search the Ally deck and take any Ally of your choice. If you fail, you are taken captive yourself, and are delayed.",
+"check":"Lore -2 [2]"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"When your mind returns to your body something seems to have happened to you while you were away. Make a Luck (+0) check. If you pass, lose 1 Stamina. If you fail, draw an Injury card.",
+"check":"Luck +0"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"You awaken briefly and stare at your hands, which are the hands of another. Choose another investigator and take all of his Clue tokens. Lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"You awaken on a steel table, only to find a strange insect creature performing surgery on you. \"Your form is so inefficient,\" it buzzes, \"This one will improve it. Should this one improve your mind or body?\"If you answer \"Mind,\" draw 3 Skills, keeping 1 and discarding the others. However, your maximum Sanity is reduced by 1.If you answer \"Body,\" your maximum Stamina is increased by 1, but you must discard 1 Skill and all of your Spells.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"You can't understand the alien creatures, but they seem upset over what's happening in Arkham and intend to send you back as soon as possible using a machine. Make a Will (-1) check. If you fail, you are unable to block out the searing pain the machine inflicts upon you and you lose 2 Stamina. Then, regardless of whether you passed or failed the check, you may return to Arkham.",
+"check":"Will -1"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"You catch sight of yourself in a reflective surface and realize that you are no longer inside your own body. In fact, you body is no longer that of a human being. Lose 1 Sanity.",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You examine strange glyphs and begin to understand their purpose. Pass a Lore (-2) check to gain 1 Spell.",
+"check":"Lore -2"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You feel other minds trying to contact you and warn you of something. Gain 2 Clue tokens.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"You find a map of this strange place. The streets are laid out in a horrible pattern! Pass a Will (+1) check or lose 1 Sanity.",
+"check":"Will +1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"You find a room containing strange artifacts on towering pedistals. You may choose to make a Fight (-1) check to climb the smooth surfaces to reach one of the objects. If you pass, gain 1 Unique Item. If you fail, lose 1 Stamina from your fall.",
+"check":"Fight -1"},
+{
+"expansion":"",
+"encounter":"You find yourself in an ancient and abandoned temple. Pass a Luck (-1) check to find a golden statue worth $10. However, if you take it, you are Cursed.",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"You may choose to try and infiltrate one of the angled structures. If so, make a Sneak (-1) check. If you pass, draw 2 Unique Items and keep 1 of them. If you fail, you are lost in time and space.",
+"check":"Sneak -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"You may take 1 Spell, but must pass a Will (+0) check or lose 1 Sanity.",
+"check":"Will +0"},
+{
+"expansion":"",
+"encounter":"You must have that device if you are to escape from this accursed city. Pass a Sneak (-1) [2] check to draw 1 Unique Item and return to Arkham. If you fail, your captors are none too kind. Lose 3 Sanity and 1 Stamina.",
+"check":"Sneak -1 [2]"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You read a detailed description of humanity's extinction. Pass a Will (-1) check or lose 2 Sanity.",
+"check":"Will -1"},
+{
+"expansion":"",
+"encounter":"You wander the empty streets of the city. No encounter.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"You've seen the creatures use this machine to learn, but you're not sure what effect it'll have on you. If you use it, make a Luck (-2) check and draw 1 Skill. If you fail the check, however, you also draw 1 Madness card.",
+"check":"Luck -2"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Your mind is not your own! Make a Will (-1) [2] check to endure the experience. If you pass, gain 2 Clue tokens when you are restored to your body. If you fail, the mind-wipe is successful. Lose 2 Sanity, less 1 for each Clue token you discard.",
+"check":"Will -1 [2]"}
+]

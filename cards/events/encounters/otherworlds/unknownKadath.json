@@ -1,0 +1,129 @@
+[{
+"expansion":"Kingsport Horror",
+"encounter":"A monster appears, as uncaring as the wastes.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"A monster appears, intent on your destruction.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"A monster from the unmapped reaches appears.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Curse of the Dark Pharaoh component",
+"encounter":"An enormous pillar is carved in the image of the Dark Pharaoh. A powerful force is trying to compel you toward it. You may approach the pillar or try to walk away from it.If you approach, make a Will (-1) check to keep your composure as an ancient intelligence floods your thoughts. If you pass, take the Visions card if it is available. If you fail, discard all of your Clue tokens.If you walk away from the pillar, make a Luck (-1) check and gain 1 Sanity for each success. If you fail, you feel the Pharaoh's presence continue to haunt you. Take the Harried card if it is available.",
+"check":"Will -1ORLuck -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Ascending through the great valley, mountainous effigies portend even less knowable encounters ahead. Lose 1 Sanity, then immediately have another encounter here.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Facing its awfulness head-on is the only way to avoid madness. Pass a Will (-2) check or lose 3 Sanity.",
+"check":"Will -2"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"From a ledge above you, a monster appears!",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"From atop the peak, you can see nothing, forever. You have no encounter.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"If only one of their onyx-laden caravans should pass by before the blizzard consumes you! Make a Luck (+0) check. Your Stamina is reduced to the number of successes you roll.",
+"check":"Luck +0"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"In response to your pitiful knocking, the massive gate of the Castle of the Great Old Ones swings wide. Lose 1 Stamina and 1 Sanity. If you are devoured as a result, the Ancient One immediately awakens.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"No path can be discerned and the towering peaks make it difficult to keep your bearings. Make a Luck (-1) check. If you fail, you have lost your way. Move to the first area of the Dreamlands and immediately have an encounter there.",
+"check":"Luck -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"North of where these Dreamlands intersect those of alien reaches, you must make a Luck (+0) check. Your Sanity is reduced to the number of successes rolled.",
+"check":"Luck +0"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"Someone hid a precious treasure where they believed no one would dare go. Yet they did not leave it unprotected. Gain 1 Unique Item and you are Cursed.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Standing before the keep at the Castle of the Great Old Ones, a gong reverberates below your ability to hear. If you are Cursed, add 2 doom tokens to the Ancient One's doom track.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Lurker at the Threshold component",
+"encounter":"The Ancient Ones will offer you a bargain. You may take personal power at the possible expense of the rest of humanity.If you accept the bargain, gain 1 Spell and you are Blessed. Then add 1 doom token to the doom track.If you do not accept the bargain, you are Cursed",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"The cold air pierces through you. Lose 1 Stamina. Then, if you are still conscious, make a Will (-1) check to keep moving. If you fail, you are delayed",
+"check":"Will -1"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"The door to the Castle of the Great Old Ones opens. Pass a Will (+1) check or your fragile mind snaps. Draw 1 Madness card if you fail the check.",
+"check":"Will +1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"The enormous silhouette of some unthinkably large creature looms on the horizon. You prudently choose to travel in a different direction. You have no encounter.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"The great mountain chain shakes, and every corner of your reality with it. Roll one die for each open gate. For every failure, discard either a Clue token or an item.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: King in Yellow component",
+"encounter":"The ground is littered with typed notes from a play that mentions you by name as a character! The pages provide directions for you. Will you follow the script?If you do follow the script, lose 2 Sanity. Then, if you are still sane, return to Arkham.If you do not follow the script, make a Will (-1) check. If you pass, gain 1 Sanity. If you fail, a monster appears.",
+"check":"Will -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"The onyx Castle of the Great Old Ones looms horrible in the distance, Wisely, you turn away, and have no encounter.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"The Steward Who Watches denies you entry. Return to Arkham, but do not take an explored token.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"There is no sound but the stony echoes of your footsteps. No encounter.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Black Goat of the Woods component",
+"encounter":"This is a place not meant for humans. To remain here, you may have to sacrifice your very humanity. Will you remain?If you stay here, make a Will (+1) check. If you fail, gain 2 Corruption cards.If you choose to leave, make a  Luck (-2) check. If you pass, return to Arkham. If you fail, you are lost in time and space.",
+"check":"Will +1ORLuck -2"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Though the whirling blizzard on the night-face of this nightmare peak swirls around you, you grasp tightly to the object of your desires. Make a Will (-1) check. If you fail, lose 1 Sanity and 2 Stamina. If you succeed, draw a Unique Item.",
+"check":"Will -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Those things you have tossed aside chew the flesh from your bones. Lose 1 Stamina for each card you possess that is currently exhausted.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"You advance a pawn, hoping desperately that the Creeping Chaos will not notice your vulnerability. Pass a Luck (-1) check or choose an elder sign token on the board and discard it.",
+"check":"Luck -1"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"You are not welcome here! Some invisible force lifts you up and flings you through the sky. Make a Luck (-2) check. If you pass, return to Arkham. If you fail, move to the first area of the Dreamlands and immediately have an encounter there.",
+"check":"Luck -2"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"You can see a message written high on a cliff face. If you wish, you may try to scale the rock wall to read it. If you do, make a Fight (-1) check. If you pass, you gain 1 Spell. If you fail, lose 1 Stamina.",
+"check":"Fight -1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"You climb and climb, ascending into the clouds. Make a Luck (+0) check to make your way through the dense mist. If you fail, you come out of the clouds somewhere else. Move to the first area of the Plateau of Leng.",
+"check":"Luck +0"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"You hear a horrible sound an instant before a sanity-shattering image appears in front of you. Make a Speed (+0) check to avert your eyes. If you fail, your mind suffers a terrible shock. Discard all of your Clue tokens.",
+"check":"Speed +0"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Your only hope: to avoid the attention of this transgression against the knowable. Pass a Sneak (-2) check or you are reduced to 1 Stamina and 1 Sanity, and are lost in time and space.",
+"check":"Sneak -2"}
+]

@@ -1,0 +1,205 @@
+[{
+"expansion":"The Lurker at the Threshold",
+"encounter":"\"Ia! Ia! Cthulhu Fhtagn!\" Where is that chanting coming from? Make a Luck (-2) check. If you succeed, gain 2 Clue tokens as you follow the robed figures. If you fail, lose 2 Sanity and 2 Stamina.",
+"check":"Luck -2"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"A foul wind tears through the great stone monoliths. Make a Fight (+0) check. If you fail, choose 1 item to discard as the wind carries it off into the darkness.",
+"check":"Fight +0"},
+{
+"expansion":"",
+"encounter":"A horrible visage captures your gaze. Pass a Will (+0) check to look away or lose 1 Stamina and stay here next turn.",
+"check":"Will +0"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"A large cavernous entrance into the citadel is masked in shadow. But you gaze too long and see something gargantuan beginning to exit. Make a Will (-1) check. If you pass, lose 1 Sanity. If you fail, draw a Madness card.",
+"check":"Will -1"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"A massive wave crashes over you and washes one of your items out to sea. Choose 1 of your Common or Unique Items and discard it. If you have none, nothing happens.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"A miracle! A boat appears, hailing from the nearby island of Ponape. Pass a Will (-3) check to convince them to take you back to the normal world. If you pass, immediately return to Arkham.",
+"check":"Will -3"},
+{
+"expansion":"",
+"encounter":"A slimy monster appears!",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"A steamer ship looms out of the fog. If you jump on board, return to Arkham on the gate you entered and place an explored marker on it. Then make a Luck (-3) check. If you fail, they end up being pirates, and you lose all of your money and items.",
+"check":"Luck -3"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"As you stare out across the waters, a monster appears!",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"As you stumble across this inhuman isle, you feel a rumbling beneath your feet. It has begun to sink beneath the waves! Pass a Speed (-2) check or you are lost in time and space. If you pass, immediately return to Arkham.",
+"check":"Speed -2"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"As you turn a corner, a leering idol startles you. Pass a Will (-2) check or jump back and fall down a steep slope. If you fail, you lose 2 Stamina and are delayed.",
+"check":"Will -2"},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"Backing up against the cliff, you must either face the horrible creature in front of you or leap into the choppy waters below.If you face the monster, draw a monster from the cup. If it has less than 3 toughness, return it to the cup and draw again until you either draw a monster with at least 3 toughness or you have drawn 5 times, in which case you fight whatever monster you've drawn, regardless of it's toughness.If you jump, roll a die. On a success, you return to Arkham. On a failure, you are devoured.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Finding a small, rusted mirror lying on the shore, you can sense immense power within it. If you want, you may gaze into the mirror. If you do so, draw 1 Madness card and become Blessed. If you do not gaze into the mirror, nothing happens.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Flight! You throw all behind you, lest all be lost!Discard a Spell and a Weapon or lose 3 Stamina.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"Great Cthulhu spares the faithful. If you wish, you may attempt a Lore (-3) check. If you fail, you are devoured. If you pass, take this card. Discard this card the next time you would be devoured to instead be reduced to 1 Sanity and 1 Stamina.",
+"check":"Lore -3"},
+{
+"expansion":"",
+"encounter":"Hurricane winds smash you against the cyclopean stones. Pass a Fight (-1) check or lose 3 Stamina.",
+"check":"Fight -1"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"If Cthulhu is the Ancient One, then a green, flabby arm reaches out of the shadows towards you. Pass a Speed (+1) [3] check or you are devoured. If Cthulhu is not the Ancient One, nothing happens.",
+"check":"Speed +1 [3]"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Of what use, in such a place, is but a single thread, to suspend such a vital thing as your lucid thinking? Better to surrender than to dangle in such a precarious state. If you have only 1 Sanity, you are devoured.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"One of the silhouetted forms on the horizon begins to move. A monster appears!",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Only brute strength will get you out of this stone trap. Make a Fight (-2) check or you are delayed.",
+"check":"Fight -2"},
+{
+"expansion":"",
+"encounter":"Pass a Speed (-1) check or you slip and slide down a barnacled surface, slashing your skin to ribbons. Lose 3 Stamina.",
+"check":"Speed -1"},
+{
+"expansion":"",
+"encounter":"Slip on wet stones and slide into a pit. Pass a Luck (+0) check to climb out. If you fail, lose 1 Sanity and stay here next turn.",
+"check":"Luck +0"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"Something horrid and vast, a creature all of green and tentacles yet horribly human, lies in state in the mausoleum before you. Creatures cast from the same mold, yet merely man-sized, swarm over it in the hundreds. Gain 2 Clue tokens and lose 2 Sanity, then pass a Sneak (-1) check. If you fail, a monster appears!",
+"check":"Sneak -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Terrible stone edifices loom above you, horrifying in their non-Euclidean splendor. Make a Will (-1) check and lose 2 Sanity, less 1 for every success.",
+"check":"Will -1"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"That is not dead which can eternal lie, and with strange eons even death may die!\nYou must immediately fight Cthulhu! Since there is only one player in this combat, you need one success to remove a doom token. If you reach 0 Sanity or 0 Stamina, you are devoured. If you defeat Cthulhu, he retreats back into slumber and you may escape to Arkham immediately. The gate to R'lyeh is sealed behind you, and you may take it as a trophy.\nIf Cthulhu is the Ancient One in play, do not fill up his doom track before this combat; also, successes allow you to temporarily flip over the doom tokens to their elder sign sides instead of removing them. Once the battle is over, regardless of the outcome, flip all of the tokens on Cthulhu's doom track back to their doom token side and continue play.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"The bodies of the drowned clutch at your ankles. Make a Speed (-2) check or lose 1 Stamina.",
+"check":"Speed -2"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"The child is wracked with pain and begins to mutate. Pass a Speed (-1) check to gain Sanity equal to the number of successes rolled. If you fail, a monster surprises you and you suffer a -2 to all Horror checks against it!",
+"check":"Speed -1"},
+{
+"expansion":"",
+"encounter":"The city is filled with unnerving alien angles. Pass a Speed (-1) check to avoid touching them or lose 1 Sanity.",
+"check":"Speed -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"The earth shakes-- is the city sinking? Make a Luck (-1) [2] check to escape. If you fail, you are lost in time and space.",
+"check":"Luck -1 [2]"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"The island has begun to sink back beneath the waves. If you do not hurry, the ocean will swallow you as well! Pass a Speed (-2) check or you are reduced to 0 Stamina.",
+"check":"Speed -2"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"The mottled green stone that the city is carved from seems to whisper to you of the vastness of space and the horror of the things that live therein. Lose 1 Sanity.",
+"check":""},
+{
+"expansion":"",
+"encounter":"The night stars change and the brazen temple doors open, pouring forth a vast, black corpulence. Roll a die and lose that much Sanity.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"The sea laps at the island's shore, reflecting strange stars above. You can make out a constellation beneath the waves. Pass a Lore (-1) check to gain 1 Clue token.",
+"check":"Lore -1"},
+{
+"expansion":"",
+"encounter":"The shadow tries to force its way between your lips. Pass a Fight (-2) check or lose 2 Stamina and stay here next turn.",
+"check":"Fight -2"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"The sonorous wind of a sleeping leviathan echoes around you. You rest, but you do not rest easy. Gain 1 Stamina, but lose 1 Sanity.",
+"check":""},
+{
+"expansion":"",
+"encounter":"The stink of this place is unbearable. Pass a Will (-1) check or lose 1 Stamina, 1 Sanity, and your lunch.",
+"check":"Will -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Though your mind's eye closes to that material blackness, your weak flesh yet succumbs. If you have only 1 Stamina, you are devoured.",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"To your horror, the unearthly geometry of the place is starting to make sense. Take a number of Clue tokens equal to the difference between your current Sanity score and your maximum.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Too slow- too slow!- is the fleeing mind encumbered by the thoughts that sane men think in such places! Pass a Speed (-1) check or immediately draw and resolve a mythos card.",
+"check":"Speed -1"},
+{
+"expansion":"",
+"encounter":"You become tangled in the damp seaweed. Pass a Luck (-1) check to pull free before something finds you while you're helpless. If you fail, roll a die and lose that much Stamina.",
+"check":"Luck -1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"You discover a series of heiroglyphics, barely visible afters eons of ocean water washing across the stone face. Upon examination, they begin to make sense to you. You may choose to lose 2 Sanity to make a Lore (+1) check. Gain 1 Clue token for each success.",
+"check":"Lore +1"},
+{
+"expansion":"The King in Yellow",
+"encounter":"You find a body floating upon the waves. Can you revive it? Pass a Lore (-2) [2] check to draw a random Ally.",
+"check":"Lore -2 [2]"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"You find a human corpse... which then sits up! Make a Lore (+1) check. If you fail, lose 2 Sanity. If you pass, you realize that it is a zombie and may draw an Ally. Place tokens on it equal to the number of successes rolled. Discard 1 token from it during each Upkeep Phase. If it has no tokens at the beginning of the Upkeep Phase, discard the Ally instead.",
+"check":"Lore +1"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You hear a monstrous roar behind you and a voice within tells you to run and not look back. Pass a Will (-2) check to do exactly that. Otherwise you give into temptation and glance back at the creature. losing 2 Sanity and becoming lost in time and space.",
+"check":"Will -2"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You hear distant chants. You feel you may learn more if you stop to listen. If you wish, you may gain 1 Spell, but you will be delayed.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"You plunge into the icy waters. Even drowning is better than seeing that terrible form again. If your Stamina is 3 or less, you are lost in time and space.",
+"check":""},
+{
+"expansion":"",
+"encounter":"You run for the boat. Pass a Speed (-1) [2] check to reach it in time. If you do, you escape with vital information. Gain 5 Clue tokens. If you fail, stay here next turn, hiding from your pursuer.",
+"check":"Speed -1 [2]"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You stand before the massive citadel and feel baleful forces inspecting you. Make a Lore (-2) check. If you roll no successes you have been Cursed!",
+"check":"Lore -2"},
+{
+"expansion":"The King in Yellow",
+"encounter":"You tread water, looking for any sign of land, when something brushes against your leg. Spend 1 gate trophy, 5 toughness worth of monster trophies, or 3 Clue tokens. If you cannot, you are devoured.",
+"check":""},
+{
+"expansion":"",
+"encounter":"You trip over a stone outcropping that shouldn't be there. Pass a Speed (-1) check or you are lost in time and space.",
+"check":"Speed -1"},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"Your captor subjects you to a terrifying array of mental and physical tortures for his own amusement. You are reduced to 1 Sanity and 1 Stamina. In addition, your maximum Sanity and Stamina are each reduced by 1. Keep this card to remind you.However, you have discovered an inner reserve of strength and willpower as a result of the torture. Gain 3 Clue tokens gain 1 Skill, and increase your Focus by 1.",
+"check":""}
+]

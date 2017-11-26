@@ -1,0 +1,129 @@
+[{
+"expansion":"Miskatonic Horror: King in Yellow component",
+"encounter":"A ghoul offers you a splendid diadem of blazing gold. Will you accept it?If you do not accept the crown, the ghoul lashes out in rage. Pass a Fight (+1) check or reduce your maximum Stamina by 1.If you do accept the crown, gain $8 and reduce your maximum Sanity by 1.",
+"check":"Fight +1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"A monster appears, bursting from the ground itself!",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"A nightgaunt drops some hapless person from the darkness above. The victim did not survive the impact but he seems to be holding a book. Make a Luck (-2) check. If you pass, search the Unique Item deck and take the first Tome you find. If you fail, search the Common Item deck and take the first Tome you find.",
+"check":"Luck -2"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"A pack of ghasts chase after you. Climb up to the sunlight as fast as you can! Make a Speed (+1) check. If you fail, gain an Injury card from their ferocious attack.",
+"check":"Speed +1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"A pack of ghouls are feasting on carrion. It is a truly repugnant sight to behold. Lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Creeping forward, you see that the black shape near the pool is a mutilated corpse, ripped asunder by God-knows-what. But wait! There's something clutched among three of the fingers that remain on the right hand! Lose 2 Sanity, but draw 1 Unique Item.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"From the shadowy depths, a monster appears!",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"Gigantic, four-armed creatures are fast asleep. Make a Sneak (+1) check. If you fail, lose 1 Stamina and you are lost in time and space.",
+"check":"Sneak +1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"Here in the Vale of Pnath, you discover a friend once thought lost. Make a Luck (-2) check. If you pass, draw an Ally. If you fail, your friend is in no condition to return with you. Lose 1 Sanity and return the top card of the Ally deck to the box.",
+"check":"Luck -2"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"How can these winds of change blow so fiercely beneath the earth, where weather itself will not descend? Pass a Will (-2) check or move all of your skill sliders to their leftmost positions.",
+"check":"Will -2"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Ia, Ia, Tsathoggua! cry their voices as one. Ia! Ia! If Eihort is the Ancient One, become Cursed, or gain a brood token.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"If only your hasty disguise will hold in this city of ghouls! The things you might learn! Pass a Luck (-2) check to gain 1 Clue token, 1 Stamina, 1 Sanity, and return to Arkham.",
+"check":"Luck -2"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"In the house of Shuggob, many dark secrets are known, and revealed to you. Draw a Spell.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Learn what these visions may tell at physical cost? Or flee, sparing your wits? You must choose to either gain 1 Stamina and lose 1 Sanity, or lose 1 Stamina and gain 1 Sanity.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"Nodens wishes to thwart the forces of the Ancient One. You may choose 1 monster in Kingsport and 1 in Dunwich, each with 2 or less toughness, and remove them from the board. Then discard 1 item, if able, which Nodens claims as tribute.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Obscene fungal growths tower above, but all is silent. Nothing happens.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Lurker at the Threshold component",
+"encounter":"On the face of one of the granite mountains, in letters larger than any house you've ever seen, a message is written in a language you are somehow able to interpret. The message informs you of how to warp reality and control the doors between reality, but it also warns of terrible dangers that threaten any who do so.If you attempt to control the doors between realities, make a Lore (-1) check. If you pass the check, search the Spell deck for the Control Gate spell and take it. If the spell is not available, nothing happens. If you fail the check, draw a monster for each open rift and place the monster on the rift's current location. If there are no open rifts, nothing happens.If you do not attempt to control the doors, gain 3 Clue tokens and you are Cursed.",
+"check":"Lore -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Nuguth-Yug demands homage be paid to Nodens, his lord. Discard any number of Clue tokens, then roll that many dice. Your Sanity and Stamina are reduced to the number of successes you roll. If they are reduced to zero, or if you had no Clue tokens to discard, you are devoured",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Shuggob will share his secrets, but won't you sample his fine meats? You may draw a Spell if you wish, but if you do, lose Sanity equal to the drawn Spell's Sanity cost.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Standing before the bas-relief of Nodens in his temple in the Vale of Pnath, the air turns louder and darker at the edges of your perception. Make a Luck (-1) check. If you fail, either lose all of your Clue tokens or roll a die. If you roll a die and get a success, nothing happens. If you roll and fail, you are Devoured.",
+"check":"Luck -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Tak, the Vampire Prince of Karoth, deems you no threat to him. You have no encounter.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"The entire city whispers and laughs, but the source of the sounds- if they originate anywhere at all- remains always beyond the edge of your vision. You must lose 1 Sanity and 1 Stamina for each Clue token you wish to keep; otherwise, discard them all.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Black Goat of the Woods component",
+"encounter":"The ghouls want to transform you into one of them! You may either fight them or allow their corrupting influence to affect you.If you attempt to fight against them, make a Fight (-1) check. If you pass, gain 1 Sanity as you free yourself from their foul influence. If you fail, lose 2 Stamina in the course of the struggle.If you allow yourself to be exposed to their corrupting influence, gain 2 Corruption cards and increase your maximum Stamina by 1.",
+"check":"Fight -1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"The granite peaks are nearly impossible to pass. Lose 1 Stamina and then make a Fight (-1) check.  If you fail, you are delayed.",
+"check":"Fight -1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"The longer you spend in this desolate place, the more it erodes your mind. If you are in the first area of the Underworld, lose 1 Sanity. If you are in the second area of the Underworld, lose 2 Sanity.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"The Sea of Pitch roils, and your balance shifts as the world spins around you. Pass a Luck (-1) check or you are delayed.",
+"check":"Luck -1"},
+{
+"expansion":"Miskatonic Horror: Curse of the Dark Pharaoh component",
+"encounter":"The sickly phosphorescence that permeates this place does not continue into the chambers ahead. You may try to collect some of the strange substance to light your way as you continue.If you collect the eerily glowing material, you find your way out of the Underworld, but the phosphorescence burns your skin. Return to Arkham and then lose 1 Stamina.If you stumble forward into the dark without any light, make a Luck (-1) check to make your way. If you fail, you are delayed.",
+"check":"Luck -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"There it is! The stairway! But you must remain hidden for a while longer from these accursed ghouls... Make a Sneak (-1) check. If you succeed, return to Arkham. If you fail, you are delayed.",
+"check":"Sneak -1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"You find a Gug lying motionless, apparently dead. You may examine the body if you like. If you do, make a Luck (-1) check. If you pass, you discover what killed the monstrosity. Search the Unique Item deck and take the first Weapon you find. If you fail, the thing still has a little fight left in it. Lose 1 Stamina as it lashes out with the last of its strength.",
+"check":"Luck -1"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"You hear gurgling voices echoing from somewhere in the darkness above you. At first, the sound is unnerving, but soon you realize they are unaware that you are listening. Make a Sneak (-1) check to get what information you can without alerting the speakers of your presence. If you pass, gain 1 Clue token for each success.",
+"check":"Sneak -1"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"You may choose to make a Fight (-2) check to scare the ghouls away from their quarry. If you pass, claim 1 monster trophy at random from the cup, ignoring the Endless ability.",
+"check":"Fight -2"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"You scrabble for the thing briefly after fumbling it, but it spins and bounces from your fingertips, falling away into the faint light radiated by the Throken Peaks themselves. Discard your least expensive Weapon.",
+"check":""}
+]
