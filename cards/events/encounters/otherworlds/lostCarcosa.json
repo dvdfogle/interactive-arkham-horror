@@ -1,0 +1,129 @@
+[{
+"expansion":"Miskatonic Horror: King in Yellow component",
+"encounter":"A man steps in front of you with a knife in one hand and a writ for your execution in the other, but he seems to hesitate. Do you attack him?If you charge him, make a Fight (+0) check. If you pass, search the Common Item deck and take the Knife card. If you fail, lose 1 Stamina.If you do not attack him, make a Luck (+0) check. If you pass, he introduces himself as Osgood Oswald Vance and tells you where he's hidden a large sum of money. Gain $10. If you fail, he lashes out suddenly. Gain an Injury card.",
+"check":"Fight +0ORLuck +0"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"A strange little man speaks to you for a time, and after he leaves, you find yourself pondering his words. Roll 4 dice, gaining a Clue token for each success you roll, but losing 1 Sanity for each failure.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"A thick mist is coming off the Lake of Hali, and as you try to navigate through it, you find yourself suddenly walking through the door of a house. Have an encounter at the Strange High House in the Mist (or use the location's ability, if able) and immediately return here.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"An opulent crown rests on velvet within a safe. Make a Will (+0) check. If you pass, you see through the illusion and recognize it as a tin toy. If you fail, you become obsessed with becoming the kind and are lost in time and space.",
+"check":"Will +0"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"As soon as your eyes fall upon that cursed city, you know its name to be Carcosa. Looking down upon its empty streets, you are enlightened. Gain 1 Clue token.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"As the light dims on the shore of Lake Hali, you wander the streets of the forgotten city, alone and lost. Stay here next turn and lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"As the sun sets, you see your own shadow twist and your thoughts begin to reshape it. Lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"Following the lake shore, you come to a place that looks familiar. Gain 1 Sanity and then choose any aquatic location that does not have a gate marker on it. Have one encounter there (or use the location's ability, if able) and immediately return here.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Frustrated and alone, you cry out, and your voice echoes through the city streets. Instantly, you realize that you shouldn't have done that. You are Cursed.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Hearing the sounds of approaching footsteps and tattered cloth blowing in the wind, you are abruptly terrified. Pass a Will (-2) check or you flee from this place as fast as you can. Return to Arkham, but do not gain an explored token.",
+"check":"Will -2"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"If Hastur is the Ancient One, then you are in grave danger. The exiled King in Yellow is coming. Pass a Horror (+0) [3] check or you are devoured. If Hastur is not the Ancient One, nothing happens.",
+"check":"Horror +0 [3]"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"In the streets where flap the tatters of the King, you hear the maddening songs of the Hyades and are transformed forevermore. Discard 1 Skill, then draw 1 Skill and lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"In the waters of Lake Hali, you can see the dreams of people you know. You find yourself unconsciously manipulating the dreams. Make a Will (+0) check. If you pass, choose 1 rift progress marker and turn it facedown if its associated rift is open, or discard the token if its associated rift is closed. If you fail the check, raise the terror level by 1.",
+"check":"Will +0"},
+{
+"expansion":"Miskatonic Horror: Curse of the Dark Pharaoh component",
+"encounter":"Inside a glass case you see a strange Egyptian object next to a painting of yourself taking it from the case. Will you take the artifact or not?If you take the artifact gain 1 Exhibit Item and 1 Madness card. You may then return to Arkham if you wish.If you leave the artifact, you see a duplicate of yourself open the case and take the object. Make a Will (-1) check. If you pass, you manage to have a conversation with yourself and learn much. Gain 3 Clue tokens. If you fail, the experience is too unnerving. Lose 1 Sanity and you are delayed.",
+"check":"Will -1"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Looking up at the shrouded sky, you are startled to see two moons. Lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Lurker at the Threshold component",
+"encounter":"Noatalba is performing a ritual to open the doors between Carcosa and other places. You may come closer to learn what he's doing or stay a safe distance away.If you approach, make a Sneak (-1) check. If you pass, you learn his secret. Search the Spell deck and take the Control Gate spell, if it is available. If it is not, gain 3 Clue tokens. If you fail, you disturb his ritual and a monster appears.If you stay a safe distance away, you learn much, perhaps too much. Roll 3 dice and gain 1 Clue token for each success. If all 3 dice roll successes gain a Madness card.",
+"check":"Sneak -1"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Peering up at the towers of the city, the rising moon appears to you to be in front of them rather than behind. Lose 1 Sanity.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Resting beside the cobbled lane as the shadows grow long in the abandoned streets you wonder if you'll live to see this thing through. No encounter.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Rowing the small boat across the turbulent lake, you are nearly pulled into the water by a grasping tentacle. As it is, you lose an item to its clutches. Lose 1 item of your choice.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"Several blocks away, you see a group of people walking, wearing elaborate masks. You chase after them. Make a Luck (-1) check. If you pass, they've disappeared but dropped a few gold coins. Gain $2.",
+"check":"Luck -1"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Shivering, you feel the light of a baleful star upon you, but upon looking up, you see only darkness where you know the star to be. Either lose 3 Sanity or you are Cursed.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"Somewhere in the city you hear the gentle sound of metal striking against metal. You find it very soothing but completely lose tack of time. Restore your Sanity to full. You are then delayed",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"The barriers between worlds have grown too thin. If two or more rifts are open, you are lost in time and space. If one or fewer rifts are open, you manage to use it to your advantage and return to Arkham.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"The mists of Carcosa link the city with a risen isle. Move to R'lyeh and have an encounter there, then immediately return here.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"The mists settle around you, then depart, leaving you in a dark cavern. Move to the Abyss and have an encounter there, then immediately return here.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"The streets of this city are a maze that defies logic. Make a Speed (+1) check. If you fail, you are delayed.",
+"check":"Speed +1"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"Two men in strange robes are having a heated argument about obscure rules of imperial succession. Make a Lore (-2) check. If you pass, they are impressed with your acumen and offer you a gift. Gain 1 Unique Item.",
+"check":"Lore -2"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Wandering through the red-lit desert, you come across a great tree, at the root of which is a great stone. Looking at the stone, you find that it is inscribed with your full name, the date of your birth, and -- God in Heaven-- the date of your death! Draw 1 Madness card, but gain 3 Clue tokens.",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"Within the opulent rooms of the palace you find Mr. Darke gazing out a window. Make a Luck (-2) check.  If you fail, he pushes you out the window and you are lost in time and space. If you pass he's delighted to see you and you are Blessed. If you are already Blessed, you may discard your Blessing card to turn the Darke's Blessing card faceup. If you are already Blessed and pass the check, but do not wish to discard your Blessing (or the Darke's Blessing card is already faceup), nothing happens.",
+"check":"Luck -2"},
+{
+"expansion":"Miskatonic Horror: Black Goat of the Woods component",
+"encounter":"You discover an ornate goat mask lying forgotten on a chair. You may try it on, if you like.If you try on the goat mask, gain 2 Stamina and then make a Will (-1) check as it attempts to revert your mind to a primal state. If you fail, draw a Corruption card.If you do not put on the goat mask, it seems to move of its own accord, turning to look at you. Suddenly a monster appears. If the monster is defeated, you may return to Arkham.",
+"check":"Will -1"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"You find plates of a strange flat bread. If you choose to sample some, gain 2 Stamina and then make a Luck (-1) check. If you fail, you forget where you were going and are lost in time and space",
+"check":"Luck -1"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"You walk around the shores of Lake Hali, seeking to reach the distant and shrouded sity that sits there. However, no matter how far you walk, it always remains on the far side of the lake. Stay here next turn.",
+"check":""}
+]

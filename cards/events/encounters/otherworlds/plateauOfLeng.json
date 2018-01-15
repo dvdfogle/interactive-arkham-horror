@@ -1,0 +1,205 @@
+[{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"'Ware the walker of the icy wastes!\nYou must immediately fight Ithaqua! Since there is only one player in this combat, you need one success to remove a doom token. If you reach 0 Stamina, you are devoured. If you defeat Ithaqua, he disperses into an icy wind and you may escape to Arkham immediately. The gate to the Plateau of Leng is sealed behind you, and you may take it as a trophy.\nIf Ithaqua is the Ancient One in play, do not fill up his doom track before this combat; also, successes allow you to temporarily flip over the doom tokens to their elder sign sides instead of removing them. Once the battle is over, regardless of the outcome, flip all of the tokens on Ithaqua's doom track back to their doom token side and continue play.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"A captive has been bound to a pole above the natives' cooking fire. If you want to try to free him, make a Fight (-3) check. If you fail, lose 2 Stamina. If you pass, draw an Ally.",
+"check":"Fight -3"},
+{
+"expansion":"",
+"encounter":"A monster appears from the shadows!",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"A monster appears from the shadows!",
+"check":""},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"A monster appears from the shadows!",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"A strange idol looms over the trail. Is it staring at you? Make a Luck (-1) check. If you pass, it was your imagination. If you fail, it's a monster, and it attacks!",
+"check":"Luck -1"},
+{
+"expansion":"",
+"encounter":"A vast stirring rumbles through the plateau. Pass a Sneak (+0) check or roll a die and lose that much Stamina.",
+"check":"Sneak +0"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"From these alien heights, everything seems so clear... gain 1 Clue token, then pass a Will (+1) check to snap out of your reverie and descend to a safe elevation. If you fail, lose 1 Stamina and continue making the check until you pass or are knocked unconscious. Each check after the first, the modifier decreases by one (0 on the second check, -1 on the third, and so on).",
+"check":"Will +1"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"If Nyarlathotep is the Ancient One, then an elephantine shantak picks you up in its claws and deposits you before the Crawling Chaos himself. Laughing at the futility of your quest, Nyarlathotep hurls you away using his powers. You are lost in time and space. If Nyarlathotep is not the Ancient One, nothing happens.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"It seems you are in an entire forest of webs. Make a Sneak (-2) check to avoid getting ensnared. If you fail, you are lost in time and space.",
+"check":"Sneak -2"},
+{
+"expansion":"The King in Yellow",
+"encounter":"It suddenly strikes you that you've never been so alone and so lost. It doesn't seem possible that you'll ever get back home. Pass a Will (-3) check or lose 1 Sanity.",
+"check":"Will -3"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"It's cold, windy, and dangerous here. Fortunately, there's a ship headed for warmer climes. If you like, you may move to the Dreamlands.",
+"check":""},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Loathe as they are to guide you across these trackless wastes, the Tcho-tchos are even less inclined to see you remain. You may spend 3 Stamina to return to Arkham.",
+"check":""},
+{
+"expansion":"Dunwich Horror",
+"encounter":"Looking at the sleeping guardian, you weigh the risks. If you choose to chance it, make a Luck (-2) check. If you pass, draw 1 Spell and 1 Common Item. If you fail, lose 2 Sanity and 2 Stamina.",
+"check":"Luck -2"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"One of the villagers has a prized possession of unknown origins. Pass a Sneak (+1) check to successfully claim it as he sleeps. Draw 1 Common Item.",
+"check":"Sneak +1"},
+{
+"expansion":"",
+"encounter":"Pass a Luck (-2) check to find some useful things among the bones. If so, draw 1 Common Item and 1 Spell.",
+"check":"Luck -2"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"Run! Run for your life! Make a Speed (-1) check and lose 3 Stamina, less 1 per success.",
+"check":"Speed -1"},
+{
+"expansion":"The King in Yellow",
+"encounter":"Someone has taught the locals to read ancient tongues. If you appease them by discarding a Tome, they offer you food and shelter: Gain 2 Stamina. If you do not, you lose 1 Stamina.",
+"check":""},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"Something is here, frozen beneath the snow. Draw a monster from the cup and take it as a monster trophy, even if it has the Endless ability.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"Something is racing after you! Make a Speed (-2) check or lose 1 Stamina.",
+"check":"Speed -2"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"The campfire-talk of the strange traders with their onyx-wagons proves enlightening and profitable. Either draw a Unique Item or take 2 Clue tokens.",
+"check":""},
+{
+"expansion":"The King in Yellow",
+"encounter":"The cold chills your soul and steals your memories instead of your warmth. Pass a Fight (-1) check or discard 2 Clue tokens.",
+"check":"Fight -1"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"The High Priest at the great stone temple demands a sacrifice. Discard your most expensive Unique Item. If several equally expensive items qualify, choose one to discard.",
+"check":""},
+{
+"expansion":"",
+"encounter":"The hooved, wide-mouthed traders of this land are wealthy, but dangerous. You may make a Lore (-2) check to trade with them. If you pass, gain $6. If you fail, you are lost in time and space.",
+"check":"Lore -2"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"The ice beneath your feet begins to crack. You need to move fast to get back on solid ground. Make a Speed (+1) [2] check. If you fail, large chunks of ice smash into you as you fall endlessly into the darkness. Lose 2 Stamina and you are lost in time and space.",
+"check":"Speed +1 [2]"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"The icy weather has damaged one of your items beyond repair. Discard 1 Common or Unique Item of your choice. If you have no items, lose 1 Stamina.",
+"check":""},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"The icy winds bite at you as you struggle through the deep snow. You have to find shelter, and soon. Do you enter a nearby cave or follow a plume of smoke?If you enter the cave, pass a Luck (-2) [2] check or 2 monsters appear! If you defeat the monsters or they do not appear, draw either 2 Common Items or 1 Unique Item.If you follow the smoke, you are led to a small hut. Inside is a strange, dark-skinned corpse wrapped in thick furs. If you take the furs, you are Cursed but return to Arkham. If you do not, you are lost in time and space.",
+"check":"Luck -2 [2]"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"The icy winds tear at your flesh, and the palins seem endless. Pass a Fight (-1) check or lose 1 Stamina, and pass a Will (-1) check or lose 1 Sanity. If Ithaqua is the Ancient One, the modifiers for these rolls are both reduced to -3.",
+"check":"Fight -1/-3Will -1/-3"},
+{
+"expansion":"",
+"encounter":"The loathsome villagers send out their strongest warrior to fight you in unarmed combat. Pass a Fight (-1) [2] check to defeat him and draw 1 Unique Item and gain 1 Clue token. Otherwise lose 1 Sanity and 2 Stamina.",
+"check":"Fight -1 [2]"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"The poison from the purple spider's bite courses through your veins. Roll 3 dice. If you roll no successes, draw 1 Injury card. If you roll at least 1 success, nothing happens.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"The primitives are entranced by your equipment. You must discard one Common Item worth at least $2 or lose 3 Stamina. If you pass a Will (+0) check, you convince them to give you their idol in exchange: You may search the Unique Item deck for the Obsidian Statue and take it.",
+"check":"Will +0"},
+{
+"expansion":"",
+"encounter":"The rickety bridge collapses as you cross it. Pass a Fight (-1) check to hang on, finding a relic on the other side. Draw 1 Unique Item. If you fail, you plummet into darkness. you are lost in time and space.",
+"check":"Fight -1"},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"The road divides here. Make a Lore (-2) check to decipher the signposts. If you succeed and are in the first area of the Plateau of Leng, move to the second area. If you are in the second area, return to Arkham. If you fail, you are lost in time and space.",
+"check":"Lore -2"},
+{
+"expansion":"Innsmouth Horror",
+"encounter":"The traders look you up and down appraisingly as you enter their camp. Ask to join them for dinner, or offer to trade?If you ask to join them for dinner, pass a Will (-2) check to impress them. They share their meal generously with you. Restore your Sanity and Stamina to their maximums. If you fail, they drive you away. Nothing happens.If you trade, draw 3 Unique Items. You may buy one or more of them for either one of your own Unique Items or 5 toughness worth of monster trophies each.",
+"check":"Will -2"},
+{
+"expansion":"",
+"encounter":"The villagers leap around a bonfire on the hoary plain. Pass a Sneak (-1) check or you are captured and subjected to terrible rites. Lose 3 Sanity and 3 Stamina, then stay here next turn.",
+"check":"Sneak -1"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"The villagers offer you a little sustenance. Gain 1 Stamina.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"The wide-mouthed men of Leng are curious about your exotic wonders. You may attempt to barter with them. Discard 1 Common Item and make a Will (+0) [2] check. If you pass, draw a Unique item. If you fail, gain $2.",
+"check":"Will +0 [2]"},
+{
+"expansion":"The King in Yellow",
+"encounter":"There is something buried in the ice. Pass a Luck (-2) check to pry it free without breaking it. Draw 1 Unique Item.",
+"check":"Luck -2"},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"Through the haze and mist, you make out human forms and hurry toward them, seeking rescue. Make a Luck (-2) check. If you pass, they are an expedition from Miskatonic U. Gain 1 Stamina and 1 Sanity and return to Arkham. If you fail, they lower their hoods and remove their goggles, revealing themselves as something other than human! Lose 2 Sanity.",
+"check":"Luck -2"},
+{
+"expansion":"Kingsport Horror",
+"encounter":"Where all worlds converge, the fibers of Atlach-Nacha spins ensnares you even from the cavern where it spins. If Atlach-Nacha is the Ancient One, you must return to the first area of the Plateau of Leng, and you are delayed.",
+"check":""},
+{
+"expansion":"Curse of the Dark Pharaoh",
+"encounter":"Whether you are still on earth or not is impossible to say... it may be the wind that threatens to sweep you into the sky, or it might be a lack of gravity! Make a Fight (+0) check or you are lost in time and space.",
+"check":"Fight +0"},
+{
+"expansion":"",
+"encounter":"While you are climbing a high cliff, you begin to slip. Pass a Speed (-1) check or crash down the mountain, losing 2 Stamina.",
+"check":"Speed -1"},
+{
+"expansion":"",
+"encounter":"You are taken to a prehistoric monastery, where a high priest in a yellow silken mask questions you. Pass a Lore (-2) check to answer him to his satisfaction. Gain your freedom and 1 Spell. Otherwise, you are lost in time and space.",
+"check":"Lore -2"},
+{
+"expansion":"Miskatonic Horror: Dunwich Horror component",
+"encounter":"You come across some familiar tracks in the snow. Someone you know was here before you. Make a Lore (-1) check to recall who it was. If you pass, gain 2 Clue tokens.",
+"check":"Lore -1"},
+{
+"expansion":"The Black Goat of the Woods",
+"encounter":"You examine the frescoes and find them both informative and repellent. Make a Lore (-2) check and gain 1 Clue token per success. After that, lose 1 Sanity.",
+"check":"Lore -2"},
+{
+"expansion":"Dunwich Horror",
+"encounter":"You find yourself faced with a difficult decision. The ancient being has offered you power, but warns that it comes with a price. If you accept, draw 2 Spells and 1 Madness card.",
+"check":""},
+{
+"expansion":"The Lurker at the Threshold",
+"encounter":"You find yourself sliding down a shear sheet of ice! Make a Luck (-2) check. If you pass, you land on 1 Unique Item. If you fail, lose 2 Stamina.",
+"check":"Luck -2"},
+{
+"expansion":"Miskatonic Horror: Kingsport Horror component",
+"encounter":"You need to trade something for a warm coat or the icy winds will overwhelm you. Lose 3 Stamina, but reduce the amount of Stamina lost by 1 (to a minimum of 0) for each Common Item or Unique Item you discard.",
+"check":""},
+{
+"expansion":"",
+"encounter":"You wander the frozen wastes. No encounter.",
+"check":""},
+{
+"expansion":"",
+"encounter":"Your mind and body are toughened by your experiences. Pass a Will (+0) [2] check to draw 1 Skill.",
+"check":"Will +0 [2]"},
+{
+"expansion":"",
+"encounter":"Your peril clears your mind. Pass a Will (+0) check to restore your Sanity to its maximum value.",
+"check":"Will +0"}
+]
