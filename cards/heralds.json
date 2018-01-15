@@ -1,0 +1,133 @@
+[{
+"title":"Father Dagon",
+"expansion":"Innsmouth Horror",
+"image":"/File%3AFatherDagon.png",
+"subtitle":"King of the Deep Ones",
+"effect":"When Father Dagon is the Herald, place one uprising token on the Deep Ones Rising track at the start of the game and after each time the Feds raid Innsmouth. You must play with the Innsmouth board to use this Herald.",
+"abilities":[{
+	"title":"Plans Set in Motion",
+	"flavor":"Vast, Polyphemous-like, and loathsome, it darted like a stupendous monster of nightmares to the monolith, about which it flung its gigantic scaly arms.",
+	"description":"Draw and resolve one additional mythos card at the start of the game.Every time the terror level increases, each investigator must spend 1 Clue token. If one or more investigators are unable to do so, add one doom token to the doom track. Investigators who can spend a Clue token must still do so."},
+	{
+	"title":"Teeming Masses",
+	"description":"If Cthulhu is the Ancient One, his combat rating is improved by -1 (to -7). When Cthulhu awakens, add up the total toughness of any monsters with the plus dimensional symbol in play. The investigators must inflict that many extra successes on Cthulhu in order to defeat him."},
+	{
+	"title":"King and Queen",
+	"description":"Both Father Dagon and Mother Hydra may be used as Heralds during the same game. All of their effects are cumulative with each other. So, for instance, two uprising tokens are placed on the deep Ones rising track at the start of the game and after each time the Feds raid Innsmouth."}]
+},
+{
+"title":"Ghroth",
+"expansion":"Kingsport Horror",
+"image":"/File%3AGhroth.png",
+"subtitle":"The Nemesis Moon",
+"effect":"When Groth is the Herald, place two extra doom tokens on the Ancient One's doom track at the start of the game.",
+"abilities":[{
+	"title":"The End is Near",
+	"flavor":"The comet-god comes, singing to the stars and planets as it passes; waking the strange and terrible gods that lie slumbering beneath.",
+	"description":"The Ancient One's doom track begins the game with two extra doom tokens on it."},
+	{
+	"title":"Looming Omens",
+	"description":"Each time an Environment (Mystic) card is drawn from the mythos deck, every investigator must either spend a Clue token or else the first player rolls a die and consults the chart below:\n1: Each investigator in Arkham loses 1 Sanity\n2: Each investigator in Arkham loses 1 Stamina.\n3-4: No effect.\n5: Raise the terror level by 1.\n6: Add a doom token to the Ancient One's doom track."}]
+},
+{
+"title":"Lurker at the Threshold",
+"expansion":"The Lurker at the Threshold",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=AH_Lurker_Herald_sheet.png",
+"subtitle":"The All-in-One and One-in-All",
+"effect":"When the Lurker at the Threshold is the Herald, at the start of the game, shuffle the Reckoning deck and place it by the Herald sheet. Then place the Dark Pact cards near the Herald sheet and create a pool of Power tokens.",
+"abilities":[{
+	"title":"Rites of Magick",
+	"description":"Whenever an investigator casts a Spell, he may accept the Lurker at the Threshold's aid. If he does so, he reduces the Sanity cost of the Spell to 0 and automatically passes the Spell check, but must immediately take a Blood Pact, Soul Pact, or Bound Ally card and follow its instructions. He must then draw and resolve a Reckoning card. (Note: an investigator may never have more than one of each kind of Dark Pact and may not accept the Lurker at the Threshold's aid if he already has one of each kind of Dark Pact.)"},
+	{
+	"title":"Ever-present Temptation",
+	"description":"At the start of any turn, an investigator may make a pact with the Lurker at the Threshold. If he does so, he takes a Blood Pact, Soul Pact, or Bound Ally card and follow its instructions. An investigator may take more than one type of Dark Pact card on his turn, but may never have more then one of each type of Dark Pact. (Note: do not draw and resolve a Reckoning card when you take a Dark Pact card at the start of a turn.)"},
+	{
+	"title":"The One Beyond",
+	"description":"Each time a Gate opens, draw and resolve a Reckoning card. Do not draw and resolve a Reckoning card for the Gate that opens at the start of the game."},
+	{
+	"title":"They Shall Break Through Again",
+	"description":"Investigators receive –1 to all Fight and Lore checks to close or seal Gates."}]
+},
+{
+"title":"Mother Hydra",
+"expansion":"Innsmouth Horror",
+"image":"/File%3AMotherHydra.png",
+"subtitle":"Queen of the Deep Ones",
+"effect":"When Mother Hydra is the Herald, place one uprising token on the Deep Ones Rising track at the start of the game and after each time the Feds raid Innsmouth. You must play with the Innsmouth board to use this Herald.",
+"abilities":[
+	{
+	"title":"The Lurking Horror",
+	"flavor":"Swollen like some grotesque fertility idol worshipped by a forgotten tribe of men, the creature was nonetheless able to knife through the waves with terrifying grace and purpose. With a flash of shark teeth and a bloom of red, another sailor died screaming.",
+	"description":"One extra monster appears each time a monster surge occurs.Each time an investigator is knocked unconscious, driven insane, lost in time and space, or devoured, draw one monster from the monster cup and place it in the outskirts."},
+	{
+	"title":"Tekeli-li! Tekeli-li!",
+	"description":"If Cthulhu is the Ancient One, his combat rating is improved by -1 (to -7). When Cthulhu awakens, each investigator must lower either his maximum Sanity or maximum Stamina (his choice) by 1 for each Shoggoth or Proto-Shoggoth in play."},
+	{
+	"title":"King and Queen",
+	"description":"Both Father Dagon and Mother Hydra may be used as Heralds during the same game. All of their effects are cumulative with each other. So, for instance, two uprising tokens are placed on the deep Ones rising track at the start of the game and after each time the Feds raid Innsmouth."}]
+},
+{
+"title":"The Black Goat of the Woods",
+"expansion":"The Black Goat of the Woods",
+"image":"/File%3AHeraldBlackGoatOfTheWoods.png",
+"subtitle":"The Goat with a Thousand Young",
+"effect":"When Black Goat of the Woods is the Herald, at the start of game, set aside all monster markers with the hexagon dimension symbol to form a hexagon monster cup.",
+"abilities":[{
+	"title":"Praises and Abundance",
+	"flavor":"From the wells of night to the gulfs of space, from the gulfs of space to the wells of night, ever the praises of the Great Ones. Ever their praises and abundance to the Black Goat of the Woods! Iä! Iä! The Goat with a Thousand Young!",
+	"description":"When a gate opens, draw a monster from the cup as normal, then draw a second monster from the hexagon cup and place both monsters on the gate's location.\nWhen a monster surge occurs, draw half the monsters (round down) from the hexagon cup.\nHexagon monsters are not removed from the game board when a hexagon gate is closed.\nEach time an investigator defeats a hexagon monster, he or she draws a Corruption card."},
+	{
+	"title":"Lord of the Woods",
+	"description":"Dark Young move as normal monsters."},
+	{
+	"title":"Pagan Rites",
+	"description":"Each time a monster surge occurs, add one doom token to the doom track."}]
+},
+{
+"title":"The King in Yellow",
+"expansion":"The Tattered King",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=HeraldTheKingInYellow2.png",
+"subtitle":"",
+"effect":"When the King in Yellow is the Herald, place the yellow sign tokens on this sheet, then shuffle the Blight deck and place it facedown near the board at the start of the game.",
+"abilities":[
+	{
+	"title":"The Yellow Sign",
+	"description":"The blasphemous play \"The King in Yellow\" is being performed in Arkham. Every time the terror level increases, the investigators must do one of the following:\nA: Place a yellow sign token in the space just vacated by the terror marker.\nor\nB. Place a yellow sign token on the doom track as if it were a doom token.","description":"as if it were a doom token."},
+	{
+	"title":"Yellow Sign Tokens",
+	"description":"The effects of yellow sign tokens vary based on where they are placed, and are described below:\nTerror track: Each time the investigators place a yellow sign token on the terror track, the first player draws a random card from the Blight deck and places it into play.\nDoom track: Yellow sign tokens placed on the doom track are treated exactly like doom tokens."}]
+},
+{
+"title":"Tulzscha",
+"expansion":"Kingsport Horror",
+"image":"/wiki/index.php?title=Special%3AUpload&wpDestFile=HeraldTulzscha.png",
+"subtitle":"The Green Flame",
+"effect":"When Tulzcha is the Herald, place one extra Cultist on the first open gate at the start of the game.",
+"abilities":[{
+	"title":"Preparing the Way",
+	"flavor":"But what frightened me most was that flaming column, spouting volcanically from depths profound and inconceivable; casting no shadows as a healthy flame should, and coating the nitrous stone above with a nasty, venomous verdigris. For in all that seething combustion no warmth lay, but only the clamminess of death and corruption.",
+	"description":"Place one Cultist on the first open gate at the start of the game in addition to the normal monsters that emerge from the gate.\nCultists are Elusive. When a Cultist adjacent to an elder sign token moves, it moves to that elder sign's location. The Sky is considered to be adjacent to all locations for this purpose.\nIf a Cultist begins the Mythos Phase in the same location as an elder sign token, discard the elder sign token and return the Cultist to the cup."}]
+},
+{
+"title":"The Dark Pharaoh",
+"expansion":"Curse of the Dark Pharaoh (Revised Edition)",
+"image":"http://www.fantasyflightgames.com/ffg_content/Arkham_Horror/darkpharaohbig.jpg",
+"subtitle":"Avatar of Nyarlathotep",
+"effect":"When the Dark Pharoah is the Herald, place The Dark Pharoah monster token in the monster cup at the start of the game even if Nyarlathotep is not the Ancient One.",
+"abilities":[
+	{
+	"title":"The Pharoah's Curse",
+	"flavor":"Know, O Thief, that these things are mine, For I am the Dark Pharoah, him of the Crawling Chaos. Take what is mine and your blood will boil in your skin, As I reveal to you my Other Faces and my True Glory.",
+	"description":"The Pharoah's curse has come to Arkham, following the Egyptian exhibit that is currently visiting Miskatonic University. The effects of the Pharoah's curse are described below:\nKnow, O Thief: Each time an investigator gains a Unique Item (including starting equipment) that investigator loses 1 Sanity.\nThese Things are Mine: Each time an investigator gains an Exhibit item, roll a die. On a failure that investigator is Cursed.\nBlood Will Boil: At the start of the Upkeep Phase, before rolling to get rid of Curses, each Cursed investigator loses 1 Stamina.\nMy Other Faces: All Mask monsters gain 1 toughness. In addition, each time a Mask monster is defeated, add one doom token to the Ancient One's doom track.\nMy True Glory: If Nyarlathotep is the Ancient One and he awakens, his combat modifier increases by 1 (to -5, -6, etc.) and has one extra doom token placed on his doom track (for a total of 12, 13, etc.) for each Mask monster on the board."}]
+},
+{
+"title":"The Dunwich Horror",
+"expansion":"Miskatonic Horror",
+"image":"http://www.fantasyflightgames.com/ffg_content/Arkham_Horror/ahheraldbig.jpg",
+"subtitle":"Son of Yog-Sothoth",
+"effect":"When the Dunwich Horror is the Herald, place one Dunwich Horror token on the Dunwich Horror track at the start of the game. You must play with the Dunwich board to use this Herald.",
+"abilities":[{
+	"title":"The Whateley Prophecy",
+	"flavor":"\"Let me tell ye sumthin - some day yew folks'll hear a child o' Lavinny's a-callin' its father's name on the top o' Sentinel Hill!\" - Wizard Whateley",
+	"description":"The effects of the Whateley Prophecy are described below:\nUnnatural Growth: The Dunwich Horror track starts out with one token on it at the start of the game and one additional token when the terror track reaches 3, 6, and 9. This is in addition to the normal conditions in which tokens are added to it.\nYog-Sothoth's Child: The Dunwich Horror is considered to have a circle dimensional symbol as well as a moon dimensional symbol, but only for purposes of movement. It cannot be banished or pulled through a gate because of this symbol.\nFather's Name: When the Dunwich Horror moves, it adds a doom token to the Ancient One's doom track on a 3-6 instead of a 4-6. (The version included in Miskatonic Horror activates on a roll of 2–6.)\nFather and Son: If Yog-Sothoth is the Ancient One, and he awakens when the Dunwich Horror is on the board, Yog-Sothoth's combat modifier increases by 3 (to -8) and he has five extra doom tokens placed on his doom track (for a total of 17)."}]
+}]

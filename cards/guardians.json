@@ -1,0 +1,42 @@
+[{
+"name":"Bast",
+"expansion":"Kingsport Horror",
+"image":"/File%3ABast.png",
+"subtitle":"Protector of Cats",
+"effect":"When Bast is the Guardian, place the Beloved of Bast cards and the Bast tokens near this sheet at the start of the game.",
+"abilities":[{"name":"Protector of Cats",
+	"flavor":"Beauty, cool aloofness, philosophic repose, self-sufficiency, untamed mastery - where else can we find these things with even half the perfection and completeness that mark their incarnation in the peerless and softly gliding cat?",
+	"description":"Whenever an investigator is in a street area during the Arkham Encounters Phase, he may spend $2 to feed the stray cats of Arkham. If he chooses to do so, that investigator takes a Bast token if he does not have one already. At the start of each turn, any investigator with a Bast token must either spend all of his Focus or discard the token."},
+	{"name":"Guardian of the Home",
+	"description":"If a monster would enter the same area as an investigator with a Bast token during the Mythos Phase, the monster remains where it is instead."},
+	{"name":"Bast's Favor",
+	"description":"When The Story Continues… is drawn from the Mythos deck, if the first player has a Bast token or the Foolishness Ally, he discards any Bast token he has and takes the Beloved of Bast cards instead, unless another player already has them."}]
+},
+{
+"name":"Hypnos",
+"expansion":"Kingsport Horror",
+"image":"/File%3AHypnos.png",
+"subtitle":"Lord of Sleep",
+"effect":"When Hypnos is the Guardian, shuffle the Visions of Hypnos deck and place it facedown near the board at the start of the game.",
+"abilities":[
+	{"name":"Visions of Hypnos",
+	"flavor":"Young with the youth that is outside time, and with a beauteous bearded face; curved, smiling lips; Olympian brow; and dense locks, waving and poppy-crowned.",
+	"description":"At the start of each Upkeep phase, the first player draws the top card of the Visions of Hypnos deck and places it faceup in front of him. The Visions of Hypnos card causes a Clue token to be placed on the board, then makes that location easier to explore until the end of the Mythos phase."},
+	{"name":"Lord of Dreams",
+	"description":"Whenever an investigator has an Other World encounter in The Dreamlands, Plateau Of Leng, The Underworld, or Unknown Kadath, he gains a +1 bonus to all of his skills until the end of the encounter."}]
+},
+{
+"name":"Nodens",
+"expansion":"Kingsport Horror",
+"image":"/File%3ANodens.png",
+"subtitle":"Lord of the Great Abyss",
+"effect":"When Nodens is the Guardian, shuffle the Blessings of Nodens deck and place it facedown near the board at the start of the game.",
+"abilities":[
+	{"name":"Noden's Blessings",
+	"flavor":"And upon dolphins' backs was balance a vast crenelate shell wherein rode the grey and awful form of primal Nodens, Lord of the Great Abyss.",
+	"description":"Whenever an investigator gains a Blessing card, he also draws the top card of the Blessings of Nodens deck and keeps it."},
+	{"name":"Ruler of the Nightgaunts",
+	"description":"Instead of making a combat check against a nightgaunt, any investigator may instead have the nightgaunt drop him into an open gate of his choice by invoking Nodens' name."},
+	{"name":"Hunter of Horrors",
+	"description":"Because Nodens is hunting the servants of the Ancient Ones for sport, their numbers are being kept somewhat under control. The Outskirts limit is increased by 1."}]
+}]
